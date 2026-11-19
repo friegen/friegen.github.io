@@ -68,6 +68,8 @@ AdMob は、広告の配信、広告の効果の測定、不正の防止など�
 - [Google のプライバシーポリシー](https://policies.google.com/privacy)
 - [Google のパートナーのサイトやアプリを使用する際の Google によるデータ使用](https://policies.google.com/technologies/partner-sites)
 
+欧州経済領域（EEA）、英国、スイスなど、法律で利用者の同意が必要な地域では、Google の User Messaging Platform を使って同意を確認し、同意の内容に従って広告を表示します。同意の内容は、本アプリの設定画面の「広告のプライバシー設定」からいつでも変更できます。
+
 利用者は、次の方法で広告のパーソナライズを制限できます。
 
 - 端末の設定から広告 ID を削除またはリセットする（例: 設定 ＞ セキュリティとプライバシー ＞ その他のプライバシー設定 ＞ 広告。項目の名前は端末によって異なります）
@@ -157,6 +159,8 @@ This information is collected by Google and handled under Google's policies. You
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
+
+In regions where user consent is required by law, such as the European Economic Area (EEA), the United Kingdom, and Switzerland, we use Google's User Messaging Platform to ask for your consent and show ads according to your choices. You can change your choices at any time from "Ad Privacy Settings" in the App's settings.
 
 You can limit ad personalization by:
 
