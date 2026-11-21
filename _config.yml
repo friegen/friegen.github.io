@@ -8,6 +8,14 @@ url: "https://friegen.github.io"
 plugins:
   - jekyll-sitemap
 
+# Markdown のページ（プライバシーポリシーなど）には、自前の枠（_layouts/default.html）を使う
+# （GitHub Pages は書かなくても default を使うが、手元でビルドしたときも同じになるように書いておく）
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # 公開しないファイル（作業用のメモ）
 exclude:
   - CLAUDE.md

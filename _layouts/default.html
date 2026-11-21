@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <!--
-  ページの枠。標準のデザイン（Primer）の枠は、上部とタブの題名に GitHub のプロフィールの名前を出すため、
-  名前を出さない自前の枠にしている。見た目（CSS）は標準のものをそのまま使う。
+  Markdown のページ（プライバシーポリシー・サポートなど）の枠。
+  GitHub Pages の標準の枠（Primer）は、上部とタブの題名に GitHub のプロフィールの名前を出し、ダークモードにも対応していないため、
+  見た目（CSS）もこのファイルの中に書いた自前の枠にしている。色はトップページ（index.html）に合わせている。
+  使うページは _config.yml の defaults でこの枠を指定している（ページごとに layout を書かなくてよい）。
 -->
 <html lang="{{ page.lang | default: 'ja' }}">
 <head>
@@ -10,11 +12,83 @@
   <!-- Google Search Console の所有権の確認（消すと確認が外れる） -->
   <meta name="google-site-verification" content="a8SLpt_z_TZEy713gi_N8C0ski4Bc2rlwTU8j1c1zg8" />
   <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {%- if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+  {%- endif %}
+  <meta name="theme-color" content="#0A6CD6">
+  <meta name="color-scheme" content="light dark">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0' stop-color='%234F8DF5'/%3E%3Cstop offset='.5' stop-color='%23C86FD0'/%3E%3Cstop offset='1' stop-color='%23F39A6B'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='16' fill='url(%23g)'/%3E%3Ctext x='32' y='46' font-family='Arial,sans-serif' font-size='36' font-weight='700' text-anchor='middle' fill='white'%3E%E3%81%99%3C/text%3E%3C/svg%3E">
+  <style>
+    :root {
+      --bg: #f6f8fc;
+      --surface: #ffffff;
+      --text: #15191e;
+      --muted: #5d636b;
+      --line: rgba(20, 40, 70, 0.12);
+      --brand: #0a6cd6;
+      --rainbow: linear-gradient(90deg, #4f8df5, #c86fd0 30%, #f39a6b 55%, #f6d365 78%, #7bd88f);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0d1116;
+        --surface: #1a2028;
+        --text: #e9ecef;
+        --muted: #a2a9b2;
+        --line: rgba(255, 255, 255, 0.12);
+        --brand: #8ab8f5;
+      }
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0; background: var(--bg); color: var(--text); line-height: 1.8; font-size: 16px;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Hiragino Sans", "Noto Sans JP", "Meiryo", sans-serif;
+      overflow-wrap: anywhere;
+    }
+    .wrap { width: min(800px, 100% - 32px); margin-inline: auto; }
+
+    header { padding: 18px 0; }
+    .logo { display: inline-flex; align-items: center; gap: 10px; font-weight: 800; font-size: 18px; color: var(--text); text-decoration: none; }
+    .logo-mark { width: 28px; height: 28px; border-radius: 8px; background: linear-gradient(135deg, #4f8df5, #c86fd0 55%, #f39a6b); display: grid; place-items: center; color: #fff; font-size: 15px; }
+
+    main { background: var(--surface); border: 1px solid var(--line); border-radius: 24px; padding: 8px 36px 32px; position: relative; overflow: hidden; }
+    main::before { content: ""; position: absolute; inset: 0 0 auto 0; height: 5px; background: var(--rainbow); }
+
+    h1, h2, h3 { line-height: 1.4; scroll-margin-top: 16px; }
+    h1 { font-size: 28px; margin: 32px 0 16px; }
+    h2 { font-size: 20px; margin: 36px 0 12px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+    h3 { font-size: 17px; margin: 28px 0 8px; }
+    p, ul, ol { margin: 0 0 16px; }
+    ul, ol { padding-left: 1.4em; }
+    li + li { margin-top: 4px; }
+    li > ul { margin: 4px 0 0; }
+    a { color: var(--brand); }
+    strong { font-weight: 700; }
+    hr { border: 0; height: 1px; background: var(--line); margin: 48px 0 8px; }
+    code { font-size: 0.9em; padding: 2px 6px; border-radius: 6px; background: color-mix(in srgb, var(--text) 8%, transparent); }
+
+    footer { padding: 28px 0 40px; text-align: center; color: var(--muted); font-size: 13px; }
+    footer a { color: var(--muted); }
+
+    @media (max-width: 600px) {
+      main { padding: 4px 20px 24px; border-radius: 20px; }
+      h1 { font-size: 24px; }
+      h2 { font-size: 19px; }
+    }
+  </style>
 </head>
 <body>
-  <div class="container-lg px-3 my-5 markdown-body">
+  <header>
+    <div class="wrap">
+      <a class="logo" href="/"><span class="logo-mark" aria-hidden="true">す</span>すとれん / stren</a>
+    </div>
+  </header>
+  <main class="wrap">
     {{ content }}
-  </div>
+  </main>
+  <footer>
+    <div class="wrap"><a href="/">トップページ / Home</a> · © {{ site.time | date: '%Y' }} すとれん / stren</div>
+  </footer>
 </body>
 </html>

@@ -11,13 +11,14 @@
 - ユーザーのスクリーンショットに写った個人情報（番号・住所など）を書かない
 - 公開されていないアプリ・機能へのリンクは載せない（iOS 版は未公開。下の「片思いチェッカー」）
 - 直したら、スマホの幅（390px）で横にはみ出さないこと、ライト・ダークの両方で読めることを確かめる（Playwright で表示してスクリーンショットを撮る）
+  - 紹介ページの画像は `loading="lazy"`（見える所まで来たら読み込む）なので、全体のスクリーンショットはスクロールしてから撮る（撮らないと白く写る）
   - ローカルで Jekyll を動かすときは `gem install --install-dir <作業用のフォルダ> jekyll jekyll-sitemap` で入れて `jekyll build -d <出力先>`（`_site/`・`.jekyll-cache/` はコミットしない）
 
 ## ファイルの構成
 | パス | 内容 |
 |---|---|
 | `index.html` | トップページ。Jekyll の枠を使わず、このファイルだけで完結（CSS・JavaScript も中に書いてある）。アプリを足すときは `<div class="apps">` の中に `<article class="app">` を1つ足す |
-| `_layouts/default.html` | Markdown のページ（プライバシーポリシーなど）の枠。標準の枠は GitHub のプロフィールの名前を出すので自前にしている |
+| `_layouts/default.html` | Markdown のページ（プライバシーポリシーなど）の枠。CSS も中に書いた自前の枠（ライト・ダーク対応、上にトップページへのリンク）。標準の枠（Primer）は GitHub のプロフィールの名前を出し、ダークにも対応していないので使わない。`_config.yml` の `defaults` で全部の Markdown のページに使う |
 | `_config.yml` | サイトの題名・URL・jekyll-sitemap・公開しないファイル |
 | `robots.txt` | すべて許可＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
 | `app-ads.txt` | AdMob の確認用（`google.com, pub-6010304246508855, DIRECT, f08c47fec0942fa0`）。**変えない・消さない** |
