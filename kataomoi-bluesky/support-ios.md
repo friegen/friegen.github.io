@@ -1,4 +1,6 @@
 ---
+# iOS 版は未公開なので、公開するまで検索に出さない（トップページからもリンクしていない）
+sitemap: false
 title: 片思いチェッカー for Bluesky（iOS 版）サポート / Follower Checker for Bluesky (iOS) Support
 ---
 
