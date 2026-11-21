@@ -35,6 +35,7 @@
 ## いろどりメモ（Irodori Notes）の紹介ページ
 - **手で直さない**。リポジトリ `friegen/memo_android` の `tools/lp/build.py` が、ストアの説明文（`store/listing/`）とスクリーンショット（`store/screens/`・`store/<lang>/`）から作る。見た目は `tools/lp/style.css`・`main.js`、ボタンなどの決まった文言は `build.py` の `UI`（9言語）
 - 作り直し方（memo_android の一番上のフォルダで）: `python3 tools/lp/build.py ../friegen.github.io` → このリポジトリでコミット・push。memo_android の方の変更も memo_android でコミットする
+- SNS で共有したときの画像（`irodori-notes/assets/<lang>/og.jpg`、1200×630）の元は、memo_android の `store/<lang>/og_image.png`。`tools/store/compose.py` の `og_image()` が作る（`python3 tools/store/compose.py og` でこの画像だけ作り直せる。フォントは Noto Sans CJK で、場所は環境変数 `NOTO_CJK_DIR` でも指定できる）
 - `irodori-notes/privacy-policy.md` は手書き（日本語と英語。英語は `#irodori-notes-privacy-policy`）
 - Google Play: https://play.google.com/store/apps/details?id=xyz.friegen.memo
 - Google Play のボタンは文字だけ（公式のバッジ画像は使っていない。使うならユーザーに画像をもらって置く）
