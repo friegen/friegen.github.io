@@ -16,6 +16,7 @@ defaults:
     values:
       layout: default
 
-# 公開しないファイル（作業用のメモ）
+# 公開しないファイル（作業用のメモ・og:image の元）
 exclude:
   - CLAUDE.md
+  - tools/
