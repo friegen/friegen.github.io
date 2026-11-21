@@ -7,3 +7,7 @@ url: "https://friegen.github.io"
 # 検索に出したくないページは、先頭の設定（front matter）に sitemap: false を書く
 plugins:
   - jekyll-sitemap
+
+# 公開しないファイル（作業用のメモ）
+exclude:
+  - CLAUDE.md

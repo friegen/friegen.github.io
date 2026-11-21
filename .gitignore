@@ -1,0 +1,3 @@
+# Jekyll をローカルで動かしたときにできるもの
+_site/
+.jekyll-cache/
