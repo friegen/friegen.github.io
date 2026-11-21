@@ -1,2 +1,9 @@
 # サイト全体の設定。題名を明示して、GitHub のプロフィールの名前が使われないようにする
 title: friegen
+# サイトの URL（サイトマップに書く URL に使う）
+url: "https://friegen.github.io"
+
+# sitemap.xml をビルドのたびに自動で作る（ページや記事を足しても手で書き足さなくてよい）
+# 検索に出したくないページは、先頭の設定（front matter）に sitemap: false を書く
+plugins:
+  - jekyll-sitemap

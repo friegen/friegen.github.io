@@ -3,5 +3,5 @@
 User-agent: *
 Allow: /
 
-# 検索エンジンにページの一覧を伝える（いろどりメモの紹介ページ。memo_android の tools/lp/build.py が作る）
+# 検索エンジンにページの一覧を伝える（sitemap.xml は jekyll-sitemap がビルドのたびに自動で作る）
 Sitemap: https://friegen.github.io/sitemap.xml
