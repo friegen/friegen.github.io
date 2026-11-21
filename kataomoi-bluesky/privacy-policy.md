@@ -1,5 +1,8 @@
 ---
 title: 片思いチェッカー for Bluesky プライバシーポリシー / Follower Checker for Bluesky Privacy Policy
+description: Android アプリ「片思いチェッカー for Bluesky」のプライバシーポリシー。開発者はサーバーを持たず、利用者の情報を受け取りません。Privacy Policy of Follower Checker for Bluesky for Android.
+# SNS で共有したときの画像（tools/og-image/ で作る）
+image: /assets/og/kataomoi-bluesky-privacy.jpg
 ---
 
 # 片思いチェッカー for Bluesky プライバシーポリシー

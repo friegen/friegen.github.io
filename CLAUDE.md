@@ -22,7 +22,8 @@
 | `_config.yml` | サイトの題名・URL・jekyll-sitemap・公開しないファイル |
 | `robots.txt` | すべて許可＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
 | `app-ads.txt` | AdMob の確認用（`google.com, pub-6010304246508855, DIRECT, f08c47fec0942fa0`）。**変えない・消さない** |
-| `assets/og.jpg` | トップページの og:image（SNS で共有したときに出る画像、1200×630）。元は `tools/og-image/og.html`。作り直すときは `node tools/og-image/render.js`（Playwright で撮る）。アプリを足したら画像の中のアプリも足す |
+| `assets/og.jpg` | トップページの og:image（SNS で共有したときに出る画像、1200×630）。元は `tools/og-image/og.html`。作り直すときは `node tools/og-image/render.js top`（Playwright で撮る）。アプリを足したら画像の中のアプリも足す |
+| `assets/og/` | プライバシーポリシーのページの og:image。元は `tools/og-image/policy.html`（`?app=` でアプリを選ぶ）、作り直しは `node tools/og-image/render.js`（`render.js` の `JOBS` に一覧がある）。ページの先頭の設定の `image:` で指定し、`_layouts/default.html` が og のタグを出す。iOS 版のページは未公開なので付けていない |
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
 | `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
 | `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |

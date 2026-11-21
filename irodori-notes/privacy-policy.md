@@ -1,5 +1,8 @@
 ---
 title: いろどりメモ プライバシーポリシー / Irodori Notes Privacy Policy
+description: Android アプリ「いろどりメモ」のプライバシーポリシー。メモは端末の中にだけ保存し、外部には送信しません。Privacy Policy of Irodori Notes for Android.
+# SNS で共有したときの画像（tools/og-image/ で作る）
+image: /assets/og/irodori-notes-privacy.jpg
 ---
 
 # いろどりメモ プライバシーポリシー

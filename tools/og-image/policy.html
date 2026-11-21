@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!--
+  プライバシーポリシーのページの og:image（SNS で共有したときに出る画像、1200×630）の元。公開はしない。
+  policy.html?app=<下の APPS の名前> で開くと、そのアプリの画像になる。render.js がまとめて作る。
+  アプリを足すときは APPS に1つ足し、render.js の JOBS にも足す
+-->
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800&family=Noto+Sans+JP:wght@600;800&display=block" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; }
+  html, body { width: 1200px; height: 630px; }
+  body {
+    position: relative; overflow: hidden; background: #f6f8fc; color: #15191e;
+    font-family: "Inter", "Noto Sans JP", sans-serif;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;
+  }
+  .aurora i { position: absolute; border-radius: 50%; filter: blur(90px); opacity: 0.55; }
+  .aurora i:nth-child(1) { background: #9cc5f7; width: 620px; height: 620px; top: -300px; left: -180px; }
+  .aurora i:nth-child(2) { background: #f3b6d9; width: 560px; height: 560px; top: -120px; right: -220px; }
+  .aurora i:nth-child(3) { background: #fde59a; width: 600px; height: 600px; bottom: -380px; left: 300px; }
+  .aurora i:nth-child(4) { background: #b8f0c8; width: 420px; height: 420px; bottom: -200px; right: -120px; }
+  .bar { position: absolute; left: 0; right: 0; bottom: 0; height: 12px; background: linear-gradient(90deg, #4f8df5, #c86fd0 30%, #f39a6b 55%, #f6d365 78%, #7bd88f); }
+
+  .site { position: absolute; top: 34px; left: 44px; display: flex; align-items: center; gap: 10px; font-size: 22px; font-weight: 800; color: #3a4048; }
+  .site .mark { width: 34px; height: 34px; border-radius: 10px; background: linear-gradient(135deg, #4f8df5, #c86fd0 55%, #f39a6b); display: grid; place-items: center; color: #fff; font-size: 19px; }
+
+  .icon { position: relative; width: 168px; height: 168px; border-radius: 40px; box-shadow: 0 16px 40px rgba(18, 44, 84, 0.20); }
+  h1 { position: relative; margin-top: 30px; font-size: 64px; line-height: 1.2; font-weight: 800; white-space: nowrap; }
+  .en { position: relative; margin-top: 6px; font-size: 28px; font-weight: 600; color: #5d636b; white-space: nowrap; }
+  .policy {
+    position: relative; display: inline-flex; align-items: center; gap: 14px; margin-top: 30px; padding: 14px 30px;
+    border-radius: 999px; background: var(--accent); color: #fff; font-size: 30px; font-weight: 800;
+    box-shadow: 0 10px 26px color-mix(in srgb, var(--accent) 40%, transparent);
+  }
+  .policy svg { width: 32px; height: 32px; fill: currentColor; }
+  .policy .sep { opacity: 0.6; font-weight: 600; }
+</style>
+</head>
+<body>
+  <div class="aurora"><i></i><i></i><i></i><i></i></div>
+  <div class="site"><span class="mark">す</span>すとれん / stren</div>
+  <img class="icon" id="icon" src="" width="168" height="168" alt="">
+  <h1 id="name"></h1>
+  <p class="en" id="en"></p>
+  <p class="policy">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 4 5v6c0 5.25 3.4 10.15 8 11.4 4.6-1.25 8-6.15 8-11.4V5l-8-3Zm-1.2 14.2-3.5-3.5 1.4-1.4 2.1 2.1 4.9-4.9 1.4 1.4-6.3 6.3Z"/></svg>
+    プライバシーポリシー <span class="sep">/</span> Privacy Policy
+  </p>
+  <div class="bar"></div>
+<script>
+  // アプリごとの中身（icon: このファイルから見たアイコンの場所、accent: アプリの色。トップページのカードと同じ）
+  var APPS = {
+    "irodori-notes": { name: "いろどりメモ", en: "Irodori Notes", icon: "../../irodori-notes/assets/icon-512.png", accent: "#0A6CD6" },
+    "kataomoi-bluesky": { name: "片思いチェッカー for Bluesky", en: "Follower Checker for Bluesky", icon: "../../assets/apps/kataomoi-bluesky.png", accent: "#1185FE" }
+  };
+  var app = APPS[new URLSearchParams(location.search).get("app")];
+  document.getElementById("icon").src = app.icon;
+  document.getElementById("name").textContent = app.name;
+  document.getElementById("en").textContent = app.en;
+  document.body.style.setProperty("--accent", app.accent);
+  // 名前が長いときは、横幅に収まるまで文字を小さくする
+  document.fonts.ready.then(function () {
+    var h1 = document.getElementById("name"), size = 64;
+    while (h1.scrollWidth > 1040 && size > 36) { size -= 2; h1.style.fontSize = size + "px"; }
+    document.body.dataset.ready = "1";
+  });
+</script>
+</body>
+</html>
