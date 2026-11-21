@@ -2,3 +2,6 @@
 # AdMob が app-ads.txt を確認するときにこのファイルを見るため、置いておく（ないと「robots.txt が原因でクロールできない」になることがある）
 User-agent: *
 Allow: /
+
+# 検索エンジンにページの一覧を伝える（いろどりメモの紹介ページ。memo_android の tools/lp/build.py が作る）
+Sitemap: https://friegen.github.io/sitemap.xml

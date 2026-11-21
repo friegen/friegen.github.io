@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- tools/lp/build.py（memo_android）が作る。ほかのページを検索に出したいときはそちらに足す -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/pt/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/zh-hant/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+  <url>
+    <loc>https://friegen.github.io/irodori-notes/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://friegen.github.io/irodori-notes/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://friegen.github.io/irodori-notes/ja/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://friegen.github.io/irodori-notes/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://friegen.github.io/irodori-notes/pt/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://friegen.github.io/irodori-notes/fr/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://friegen.github.io/irodori-notes/de/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://friegen.github.io/irodori-notes/ko/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://friegen.github.io/irodori-notes/zh-hant/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://friegen.github.io/irodori-notes/id/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://friegen.github.io/irodori-notes/"/>
+  </url>
+</urlset>
