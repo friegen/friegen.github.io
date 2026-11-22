@@ -28,6 +28,7 @@
 | `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
 | `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |
 | `gohan/menu/` | 「ごはん屋さんで何食べよう？」（Android: `friegen/gohan_android`。未公開）がアプリから読むメニュー JSON。`manifest.json`（店ごとの最新版・URL・sha256・隠す印 `disabled`）と `<店>/menu-<版>.json`。**手で直さない**: gohan_android の `tools/menu/publish.py` で置く（手順は `friegen/app-idea` の `apps/gohan-gacha/menu-update.md`）。ここに `index.html` を置かない・どのページからもリンクしない。`robots.txt` の `Disallow: /gohan/menu/` を消さない。前の版は1つだけ残す |
+| `gohan/privacy-policy.md` | 「ごはん屋さんで何食べよう？」のプライバシーポリシー（日本語のみ。アプリが日本語だけのため）。元は gohan_android の `store/privacy-policy.md`（直すときは両方を直す）。アプリが未公開の間は `sitemap: false` で、トップページからもリンクしない。公開したら `sitemap: false` を外し、トップページにカードを足す |
 | `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
 
 ### 言語
