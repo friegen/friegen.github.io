@@ -27,7 +27,7 @@
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
 | `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
 | `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |
-| `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）と iOS 版のサポート |
+| `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
 
 ### 言語
 - トップページ: 日本語と英語の両方を `lang="ja"` / `lang="en"` の要素で書き、表示する方だけ出す。ブラウザの言語が日本語なら日本語、それ以外は英語。右上で切り替えると `localStorage`（`friegen-lang`）に覚える
@@ -43,6 +43,7 @@
 
 ## 片思いチェッカー for Bluesky（Follower Checker for Bluesky）
 - Android 版は公開済み: https://play.google.com/store/apps/details?id=xyz.frigen.bsky.kataomoi （アプリ ID は `frigen`。つづりはこれで正しい）
+- `child-safety.md`（子どもの安全基準）は、Google Play の「子どもの安全基準」ポリシー（ソーシャル系のアプリに必須）の申告に使う URL。児童の性的虐待と搾取（CSAE）を明示的に禁止すること・アプリ名（または開発者名）が書いてあること・誰でも開けること（PDF は不可）が要件。消したり URL を変えたりすると Play の審査で却下される（2026-11-22 に、このページが無くて却下された）
 - **iOS 版は未公開**。`privacy-policy-ios.md`・`support-ios.md` は App Store の審査で使うので置いてあるが、トップページからリンクせず、`sitemap: false` で検索に出していない
   - iOS 版が公開されたら: トップページのカードに「iOS」のタグ・App Store のボタン・iOS 版のサポートとプライバシーポリシーへのリンクを足し、2つのページの `sitemap: false` を外す
   - `support-ios.md` にはメールアドレスが書いてある（App Store のサポート先として別の作業で入れたもの）。外すなら問い合わせフォームなどに置き換える
