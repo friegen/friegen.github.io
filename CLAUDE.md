@@ -20,13 +20,14 @@
 | `index.html` | トップページ。Jekyll の枠を使わず、このファイルだけで完結（CSS・JavaScript も中に書いてある）。アプリを足すときは `<div class="apps">` の中に `<article class="app">` を1つ足す |
 | `_layouts/default.html` | Markdown のページ（プライバシーポリシーなど）の枠。CSS も中に書いた自前の枠（ライト・ダーク対応、上にトップページへのリンク）。標準の枠（Primer）は GitHub のプロフィールの名前を出し、ダークにも対応していないので使わない。`_config.yml` の `defaults` で全部の Markdown のページに使う |
 | `_config.yml` | サイトの題名・URL・jekyll-sitemap・公開しないファイル |
-| `robots.txt` | すべて許可＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
+| `robots.txt` | すべて許可（`/gohan/menu/` だけ禁止）＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
 | `app-ads.txt` | AdMob の確認用（`google.com, pub-6010304246508855, DIRECT, f08c47fec0942fa0`）。**変えない・消さない** |
 | `assets/og.jpg` | トップページの og:image（SNS で共有したときに出る画像、1200×630）。元は `tools/og-image/og.html`。作り直すときは `node tools/og-image/render.js top`（Playwright で撮る）。アプリを足したら画像の中のアプリも足す |
 | `assets/og/` | プライバシーポリシーのページの og:image。元は `tools/og-image/policy.html`（`?app=` でアプリを選ぶ）、作り直しは `node tools/og-image/render.js`（`render.js` の `JOBS` に一覧がある）。ページの先頭の設定の `image:` で指定し、`_layouts/default.html` が og のタグを出す。iOS 版のページは未公開なので付けていない |
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
 | `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
 | `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |
+| `gohan/menu/` | 「ごはん屋さんで何食べよう？」（Android: `friegen/gohan_android`。未公開）がアプリから読むメニュー JSON。`manifest.json`（店ごとの最新版・URL・sha256・隠す印 `disabled`）と `<店>/menu-<版>.json`。**手で直さない**: gohan_android の `tools/menu/publish.py` で置く（手順は `friegen/app-idea` の `apps/gohan-gacha/menu-update.md`）。ここに `index.html` を置かない・どのページからもリンクしない。`robots.txt` の `Disallow: /gohan/menu/` を消さない。前の版は1つだけ残す |
 | `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
 
 ### 言語
