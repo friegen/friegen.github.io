@@ -5,7 +5,7 @@
 
 ## ⚠ 一時的に簡素にしている（2026-11-23 から。ユーザーの指示）
 - 諸事情で、審査・アプリに必要なものだけを残し、ほかのページを消している。トップページは、アプリとプライバシーポリシーへのリンクを並べただけの `index.md`（作り直す前の形）にしている
-- 残しているもの: `app-ads.txt`・`robots.txt`・プライバシーポリシー（いろどりメモ・片思いチェッカー Android / iOS・ごはん屋さん）・子どもの安全基準・iOS 版のサポート・`gohan/menu/`（アプリが読むデータ）・それらの og:image（`assets/og/`）・Search Console の確認のタグ（`_layouts/default.html`）
+- 残しているもの: `app-ads.txt`・`robots.txt`・プライバシーポリシー（いろどりメモ・片思いチェッカー Android / iOS・ごはん屋さん）・子どもの安全基準・iOS 版のサポート（片思いチェッカー・いろどりメモ）・`gohan/menu/`（アプリが読むデータ）・それらの og:image（`assets/og/`）・Search Console の確認のタグ（`_layouts/default.html`）
 - 消したもの: 元のトップページ（`index.html`）とその画像（`assets/og.jpg`・`assets/apps/`）、いろどりメモの紹介ページ（`irodori-notes/` の9言語の `index.html` と `assets/`）
 - この間は、memo_android の `tools/lp/build.py` を実行しない（紹介ページがまた書き出されてしまう）
 - **元に戻すとき**: コミット「一時的に、審査に必要なページだけを残して簡素にする」を `git revert` する（このメモも消える）。そのあとにトップページや紹介ページに関わる変更をしていたら、ぶつかったところを直す。片思いチェッカーの子どもの安全基準のように、この間に増えたページがあれば、元のトップページ（`index.html`）にもリンクを足すか考える
@@ -33,7 +33,7 @@
 | `assets/og/` | プライバシーポリシーのページの og:image。元は `tools/og-image/policy.html`（`?app=` でアプリを選ぶ）、作り直しは `node tools/og-image/render.js`（`render.js` の `JOBS` に一覧がある）。ページの先頭の設定の `image:` で指定し、`_layouts/default.html` が og のタグを出す。iOS 版のページは未公開なので付けていない |
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
 | `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
-| `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |
+| `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー、iOS 版のサポート |
 | `gohan/menu/` | 「ごはん屋さんで何食べよう？」（Android: `friegen/gohan_android`。未公開）がアプリから読むメニュー JSON。`manifest.json`（店ごとの最新版・URL・sha256・隠す印 `disabled`）と `<店>/menu-<版>.json`。**手で直さない**: gohan_android の `tools/menu/publish.py` で置く（手順は `friegen/app-idea` の `apps/gohan-gacha/menu-update.md`）。ここに `index.html` を置かない・どのページからもリンクしない。`robots.txt` の `Disallow: /gohan/menu/` を消さない。前の版は1つだけ残す |
 | `gohan/privacy-policy.md` | 「ごはん屋さんで何食べよう？」のプライバシーポリシー（日本語のみ。アプリが日本語だけのため）。元は gohan_android の `store/privacy-policy.md`（直すときは両方を直す）。アプリが未公開の間は `sitemap: false` で、トップページからもリンクしない。公開したら `sitemap: false` を外し、トップページにカードを足す |
 | `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
@@ -47,6 +47,8 @@
 - 作り直し方（memo_android の一番上のフォルダで）: `python3 tools/lp/build.py ../friegen.github.io` → このリポジトリでコミット・push。memo_android の方の変更も memo_android でコミットする
 - SNS で共有したときの画像（`irodori-notes/assets/<lang>/og.jpg`、1200×630）の元は、memo_android の `store/<lang>/og_image.png`。`tools/store/compose.py` の `og_image()` が作る（`python3 tools/store/compose.py og` でこの画像だけ作り直せる。フォントは Noto Sans CJK で、場所は環境変数 `NOTO_CJK_DIR` でも指定できる）
 - `irodori-notes/privacy-policy.md` は手書き（日本語と英語。英語は `#irodori-notes-privacy-policy`）
+  - Android 版と iOS 版の共通のページ（アプリはどちらも `privacy-policy.html` を開く）。元の原稿は memo_ios の `docs/privacy-policy.md`（2026-11-24 に iOS の分を書き足した）。直すときは memo_android・memo_ios の `docs/privacy-policy.md` もそろえる
+- `irodori-notes/support-ios.md` は iOS 版のサポート（App Store の「サポート URL」。日本語と英語。2026-11-24）。**iOS 版は未公開**なので `sitemap: false` で、トップページからリンクしない。公開したら `sitemap: false` を外し、トップページにも App Store のボタンとサポートへのリンクを足す。メールアドレスが書いてある（片思いチェッカーの `support-ios.md` と同じアドレス）。画面の文言・設定の項目を変えたら、このページも直す
 - Google Play: https://play.google.com/store/apps/details?id=xyz.friegen.memo
 - Google Play のボタンは文字だけ（公式のバッジ画像は使っていない。使うならユーザーに画像をもらって置く）
 
