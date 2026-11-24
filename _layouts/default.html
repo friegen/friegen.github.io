@@ -20,7 +20,7 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <!-- SNS で共有したときの表示。画像はページの先頭の設定に image: を書いたときだけ出す（元は tools/og-image/） -->
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="すとれん / stren">
+  <meta property="og:site_name" content="friegen">
   <meta property="og:title" content="{{ page.title | escape }}">
   {%- if page.description %}
   <meta property="og:description" content="{{ page.description | escape }}">
@@ -96,14 +96,14 @@
 <body>
   <header>
     <div class="wrap">
-      <a class="logo" href="/"><span class="logo-mark" aria-hidden="true">す</span>すとれん / stren</a>
+      <a class="logo" href="/"><span class="logo-mark" aria-hidden="true">f</span>friegen</a>
     </div>
   </header>
   <main class="wrap">
     {{ content }}
   </main>
   <footer>
-    <div class="wrap"><a href="/">トップページ / Home</a> · © {{ site.time | date: '%Y' }} すとれん / stren</div>
+    <div class="wrap"><a href="/">トップページ / Home</a> · © {{ site.time | date: '%Y' }} friegen</div>
   </footer>
 </body>
 </html>

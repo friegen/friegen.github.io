@@ -7,7 +7,7 @@ description: Android アプリ「片思いチェッカー for Bluesky」の子�
 
 最終更新日: 2026年11月22日
 
-Android アプリ「片思いチェッカー for Bluesky」（英語名: Follower Checker for Bluesky。以下「本アプリ」）の開発者すとれん（以下「私たち」）は、子どもの安全を守るため、以下の基準を定めます。
+Android アプリ「片思いチェッカー for Bluesky」（英語名: Follower Checker for Bluesky。以下「本アプリ」）の開発者 friegen（以下「私たち」）は、子どもの安全を守るため、以下の基準を定めます。
 
 ## 1. 児童の性的虐待と搾取（CSAE）の禁止
 私たちは、本アプリに関わるあらゆる場面で、**児童の性的虐待と搾取（CSAE）を一切認めません**。次のものを明確に禁止します。
@@ -50,7 +50,7 @@ CSAE に関わるアカウントやコンテンツを見つけた場合は、次
 
 Last updated: November 22, 2026
 
-stren ("we"), the developer of the Android app "Follower Checker for Bluesky" (Japanese name: 片思いチェッカー for Bluesky, the "App"), sets out the following standards to protect the safety of children.
+friegen ("we"), the developer of the Android app "Follower Checker for Bluesky" (Japanese name: 片思いチェッカー for Bluesky, the "App"), sets out the following standards to protect the safety of children.
 
 ## 1. Prohibition of child sexual abuse and exploitation (CSAE)
 We have **zero tolerance for child sexual abuse and exploitation (CSAE)** in anything related to the App. We explicitly prohibit:
