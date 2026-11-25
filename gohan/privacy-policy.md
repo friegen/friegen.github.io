@@ -1,6 +1,8 @@
 ---
 title: ごはん屋さんで何食べよう？ プライバシーポリシー
 description: Android アプリ「ごはん屋さんで何食べよう？」のプライバシーポリシー。開発者はサーバーを持たず、利用者の情報を受け取りません。
+# SNS で共有したときの画像（friegen.github.io の tools/og-image/ で作る）
+image: /assets/og/gohan-privacy.jpg
 # アプリが未公開の間は検索に出さない（公開したら消す）
 sitemap: false
 ---

@@ -11,6 +11,7 @@ const JOBS = [
   { name: "top", page: "og.html", out: "assets/og.jpg" },
   { name: "irodori-notes-privacy", page: "policy.html?app=irodori-notes", out: "assets/og/irodori-notes-privacy.jpg" },
   { name: "kataomoi-bluesky-privacy", page: "policy.html?app=kataomoi-bluesky", out: "assets/og/kataomoi-bluesky-privacy.jpg" },
+  { name: "gohan-privacy", page: "policy.html?app=gohan", out: "assets/og/gohan-privacy.jpg" },
 ];
 
 (async () => {

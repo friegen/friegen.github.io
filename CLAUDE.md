@@ -9,7 +9,7 @@
 - 開発者の名前は、日本語・英語とも「**friegen**」（2026-11-24 に「すとれん / stren」から戻した。ユーザーの指示）。本名・SNS で使っているハンドルネームは書かない
 - **メールアドレスはトップページ・紹介ページに載せない**（ユーザーの指示）
 - ユーザーのスクリーンショットに写った個人情報（番号・住所など）を書かない
-- 公開されていないアプリ・機能へのリンクは載せない（iOS 版は未公開。下の「片思いチェッカー」）
+- 公開されていないアプリ・機能へのリンクは載せない（iOS 版は未公開。下の「片思いチェッカー」）。例外: 「ごはん屋さんで何食べよう？」は審査前からトップページにカード（「近日公開」・紹介ページとプライバシーポリシーへのリンクだけ。Google Play のボタンは公開してから）を出している（2026-11-25 ユーザー指示）
 - 直したら、スマホの幅（390px）で横にはみ出さないこと、ライト・ダークの両方で読めることを確かめる（Playwright で表示してスクリーンショットを撮る）
   - 紹介ページの画像は `loading="lazy"`（見える所まで来たら読み込む）なので、全体のスクリーンショットはスクロールしてから撮る（撮らないと白く写る）
   - ローカルで Jekyll を動かすときは `gem install --install-dir <作業用のフォルダ> jekyll jekyll-sitemap` で入れて `jekyll build -d <出力先>`（`_site/`・`.jekyll-cache/` はコミットしない）
@@ -25,10 +25,11 @@
 | `assets/og.jpg` | トップページの og:image（SNS で共有したときに出る画像、1200×630）。元は `tools/og-image/og.html`。作り直すときは `node tools/og-image/render.js top`（Playwright で撮る）。アプリを足したら画像の中のアプリも足す |
 | `assets/og/` | プライバシーポリシーのページの og:image。元は `tools/og-image/policy.html`（`?app=` でアプリを選ぶ）、作り直しは `node tools/og-image/render.js`（`render.js` の `JOBS` に一覧がある）。ページの先頭の設定の `image:` で指定し、`_layouts/default.html` が og のタグを出す。iOS 版のページは未公開なので付けていない |
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
-| `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
+| `assets/apps/` | トップページに出すアプリのアイコン（192×192）。ごはん屋さんは gohan_android の `app/src/main/ic_launcher-playstore.png` を縮めたもの |
 | `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー、iOS 版のサポート |
 | `gohan/menu/` | 「ごはん屋さんで何食べよう？」（Android: `friegen/gohan_android`。未公開）がアプリから読むメニュー JSON。`manifest.json`（店ごとの最新版・URL・sha256・隠す印 `disabled`）と `<店>/menu-<版>.json`。**手で直さない**: gohan_android の `tools/menu/publish.py` で置く（手順は `friegen/app-idea` の `apps/gohan-gacha/menu-update.md`）。ここに `index.html` を置かない・どのページからもリンクしない。`robots.txt` の `Disallow: /gohan/menu/` を消さない。前の版は1つだけ残す |
-| `gohan/privacy-policy.md` | 「ごはん屋さんで何食べよう？」のプライバシーポリシー（日本語のみ。アプリが日本語だけのため）。元は gohan_android の `store/privacy-policy.md`（直すときは両方を直す）。アプリが未公開の間は `sitemap: false` で、トップページからもリンクしない。公開したら `sitemap: false` を外し、トップページにカードを足す |
+| `gohan/index.html`・`gohan/assets/` | 「ごはん屋さんで何食べよう？」の紹介ページ（日本語のみ）。**手で直さない**: gohan_android の `tools/lp/build.py` が作る（`python3 tools/lp/build.py ../friegen.github.io`）。アプリの共有の文章にこの URL が付く。Google Play で公開するまでは「近日公開」の札（リンクなし） |
+| `gohan/privacy-policy.md` | 「ごはん屋さんで何食べよう？」のプライバシーポリシー（日本語のみ。アプリが日本語だけのため）。元は gohan_android の `store/privacy-policy.md`（直すときは両方を直す）。トップページのカードと紹介ページからリンクしている（2026-11-25 ユーザー指示）。アプリが未公開の間は `sitemap: false`。公開したら `sitemap: false` を外す |
 | `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
 
 ### 言語

@@ -55,7 +55,8 @@
   // アプリごとの中身（icon: このファイルから見たアイコンの場所、accent: アプリの色。トップページのカードと同じ）
   var APPS = {
     "irodori-notes": { name: "いろどりメモ", en: "Irodori Notes", icon: "../../irodori-notes/assets/icon-512.png", accent: "#0A6CD6" },
-    "kataomoi-bluesky": { name: "片思いチェッカー for Bluesky", en: "Follower Checker for Bluesky", icon: "../../assets/apps/kataomoi-bluesky.png", accent: "#1185FE" }
+    "kataomoi-bluesky": { name: "片思いチェッカー for Bluesky", en: "Follower Checker for Bluesky", icon: "../../assets/apps/kataomoi-bluesky.png", accent: "#1185FE" },
+    "gohan": { name: "ごはん屋さんで何食べよう？", en: "Restaurant menu gacha", icon: "../../gohan/assets/icon-512.png", accent: "#8A5530" }
   };
   var app = APPS[new URLSearchParams(location.search).get("app")];
   document.getElementById("icon").src = app.icon;
