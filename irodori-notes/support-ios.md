@@ -44,7 +44,7 @@ title: いろどりメモ（iOS 版）サポート / Irodori Notes (iOS) Support
 ## お問い合わせ
 上で解決しない場合は、次のメールアドレスまでご連絡ください。
 
-**friegen1984@gmail.com**
+**friegen.apps@gmail.com**
 
 お使いの iPhone の機種・iOS のバージョン・本アプリのバージョン（App Store の本アプリのページで確認できます）と、起きたことをお書きください。**メモの内容など、他の人に知られたくないことはメールに書かないでください。**
 
@@ -90,6 +90,6 @@ Deleting the App from your iPhone deletes all notes, folders, and settings on yo
 ## Contact
 If the answers above don't help, please email us at:
 
-**friegen1984@gmail.com**
+**friegen.apps@gmail.com**
 
 Please include your iPhone model, iOS version, the App's version (shown on the App's App Store page), and what happened. **Please don't include the contents of your notes or anything else you want to keep private.**

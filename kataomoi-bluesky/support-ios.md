@@ -41,7 +41,7 @@ title: 片思いチェッカー for Bluesky（iOS 版）サポート / Follower 
 ## お問い合わせ
 上で解決しない場合は、次のメールアドレスまでご連絡ください。
 
-**friegen1984@gmail.com**
+**friegen.apps@gmail.com**
 
 お使いの iPhone の機種・iOS のバージョン・本アプリのバージョン（App Store の本アプリのページで確認できます）と、起きたことをお書きください。**パスワードはメールに書かないでください。**
 
@@ -86,7 +86,7 @@ Logging out from the account menu deletes the information the App saved for that
 ## Contact
 If the answers above don't help, please email us at:
 
-**friegen1984@gmail.com**
+**friegen.apps@gmail.com**
 
 Please include your iPhone model, iOS version, the App's version (shown on the App's App Store page), and what happened. **Never include your password in the email.**
 

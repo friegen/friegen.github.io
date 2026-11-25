@@ -3,14 +3,6 @@
 個人で作っているスマホアプリのサイト（GitHub Pages）。https://friegen.github.io/
 `main` に push すると、数分で公開される（GitHub Pages の Jekyll でビルド）。このファイルは `_config.yml` の `exclude` で公開しないようにしている。
 
-## ⚠ 一時的に簡素にしている（2026-11-23 から。ユーザーの指示）
-- 諸事情で、審査・アプリに必要なものだけを残し、ほかのページを消している。トップページは、アプリとプライバシーポリシーへのリンクを並べただけの `index.md`（作り直す前の形）にしている
-- 残しているもの: `app-ads.txt`・`robots.txt`・プライバシーポリシー（いろどりメモ・片思いチェッカー Android / iOS・ごはん屋さん）・子どもの安全基準・iOS 版のサポート（片思いチェッカー・いろどりメモ）・`gohan/menu/`（アプリが読むデータ）・それらの og:image（`assets/og/`）・Search Console の確認のタグ（`_layouts/default.html`）
-- 消したもの: 元のトップページ（`index.html`）とその画像（`assets/og.jpg`・`assets/apps/`）、いろどりメモの紹介ページ（`irodori-notes/` の9言語の `index.html` と `assets/`）
-- この間は、memo_android の `tools/lp/build.py` を実行しない（紹介ページがまた書き出されてしまう）
-- この間に `assets/og/` を作り直すときは、アイコン（`assets/apps/*.png`・`irodori-notes/assets/icon-512.png`）が消えているので、`git checkout f61a6dc~1 -- assets/apps irodori-notes/assets/icon-512.png` で一時的に戻してから `node tools/og-image/render.js irodori-notes-privacy kataomoi-bluesky-privacy` を実行し、撮ったら戻したアイコンを消す（コミットしない）
-- **元に戻すとき**: コミット「一時的に、審査に必要なページだけを残して簡素にする」を `git revert` する（このメモも消える）。元のトップページ（`index.html`）といろどりメモの紹介ページには「すとれん / stren」が残っているので、戻したら friegen に直す（紹介ページは memo_android の `tools/lp/build.py` を直してあるので、作り直せば friegen になる）。そのあとにトップページや紹介ページに関わる変更をしていたら、ぶつかったところを直す。片思いチェッカーの子どもの安全基準のように、この間に増えたページがあれば、元のトップページ（`index.html`）にもリンクを足すか考える
-
 ## 作業の決まり
 - ブランチは `main`。PR は作らない（ユーザーが頼んだときだけ）
 - コミットメッセージは日本語
@@ -49,16 +41,16 @@
 - SNS で共有したときの画像（`irodori-notes/assets/<lang>/og.jpg`、1200×630）の元は、memo_android の `store/<lang>/og_image.png`。`tools/store/compose.py` の `og_image()` が作る（`python3 tools/store/compose.py og` でこの画像だけ作り直せる。フォントは Noto Sans CJK で、場所は環境変数 `NOTO_CJK_DIR` でも指定できる）
 - `irodori-notes/privacy-policy.md` は手書き（日本語と英語。英語は `#irodori-notes-privacy-policy`）
   - Android 版と iOS 版の共通のページ（アプリはどちらも `privacy-policy.html` を開く）。元の原稿は memo_ios の `docs/privacy-policy.md`（2026-11-24 に iOS の分を書き足した）。直すときは memo_android・memo_ios の `docs/privacy-policy.md` もそろえる
-- `irodori-notes/support-ios.md` は iOS 版のサポート（App Store の「サポート URL」。日本語と英語。2026-11-24）。**iOS 版は未公開**なので `sitemap: false` で、トップページからリンクしない。公開したら `sitemap: false` を外し、トップページにも App Store のボタンとサポートへのリンクを足す。メールアドレスが書いてある（片思いチェッカーの `support-ios.md` と同じアドレス）。画面の文言・設定の項目を変えたら、このページも直す
+- `irodori-notes/support-ios.md` は iOS 版のサポート（App Store の「サポート URL」。日本語と英語。2026-11-24）。**iOS 版は未公開**なので `sitemap: false` で、トップページからリンクしない。公開したら `sitemap: false` を外し、トップページにも App Store のボタンとサポートへのリンクを足す。メールアドレス（`friegen.apps@gmail.com`）が書いてある（片思いチェッカーの `support-ios.md` と同じアドレス。2026-11-25 に変えた。ユーザーの指示）。画面の文言・設定の項目を変えたら、このページも直す
 - Google Play: https://play.google.com/store/apps/details?id=xyz.friegen.memo
 - Google Play のボタンは文字だけ（公式のバッジ画像は使っていない。使うならユーザーに画像をもらって置く）
 
 ## 片思いチェッカー for Bluesky（Follower Checker for Bluesky）
 - Android 版は公開済み: https://play.google.com/store/apps/details?id=xyz.frigen.bsky.kataomoi （アプリ ID は `frigen`。つづりはこれで正しい）
-- `child-safety.md`（子どもの安全基準）は、Google Play の「子どもの安全基準」ポリシー（ソーシャル系のアプリに必須）の申告に使う URL。児童の性的虐待と搾取（CSAE）を明示的に禁止すること・アプリ名（または開発者名）が書いてあること・誰でも開けること（PDF は不可）が要件。消したり URL を変えたりすると Play の審査で却下される（2026-11-22 に、このページが無くて却下された）
+- `child-safety.md`（子どもの安全基準）は、Google Play の「子どもの安全基準」ポリシー（ソーシャル系のアプリに必須）の申告に使う URL。児童の性的虐待と搾取（CSAE）を明示的に禁止すること・アプリ名（または開発者名）が書いてあること・誰でも開けること（PDF は不可）が要件。消したり URL を変えたりすると Play の審査で却下される（2026-11-22 に、このページが無くて却下された）。トップページの片思いチェッカーのカードからもリンクしている（英語のときは英語の部分 `#follower-checker-for-bluesky-child-safety-standards` へ）
 - **iOS 版は未公開**。`privacy-policy-ios.md`・`support-ios.md` は App Store の審査で使うので置いてあるが、トップページからリンクせず、`sitemap: false` で検索に出していない
   - iOS 版が公開されたら: トップページのカードに「iOS」のタグ・App Store のボタン・iOS 版のサポートとプライバシーポリシーへのリンクを足し、2つのページの `sitemap: false` を外す
-  - `support-ios.md` にはメールアドレスが書いてある（App Store のサポート先として別の作業で入れたもの）。外すなら問い合わせフォームなどに置き換える
+  - `support-ios.md` にはメールアドレス（`friegen.apps@gmail.com`。2026-11-25 に変えた）が書いてある（App Store のサポート先として別の作業で入れたもの）。外すなら問い合わせフォームなどに置き換える
 
 ## 検索（SEO）
 - Google Search Console に `https://friegen.github.io/`（URL プレフィックス）を登録済み。確認は HTML タグで、**`index.html` と `_layouts/default.html` の両方の `google-site-verification` の行を消さない**（消すと確認が外れる）
