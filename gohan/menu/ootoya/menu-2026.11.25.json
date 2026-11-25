@@ -1,0 +1,3023 @@
+{
+  "schemaVersion": 1,
+  "chain": "ootoya",
+  "version": "2026.11.25",
+  "source": "公式サイトのメニュー一覧・栄養情報（池袋東口店 27186）",
+  "updatedAt": "2026-11-25",
+  "items": [
+    {
+      "id": "1648",
+      "code": null,
+      "name": "大粒牡蠣フライ4個",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 711,
+      "salt": 3.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1649",
+      "code": null,
+      "name": "大粒牡蠣フライ6個",
+      "nameEn": null,
+      "price": 1720,
+      "calorie": 883,
+      "salt": 4.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1275",
+      "code": null,
+      "name": "毎日定食",
+      "nameEn": null,
+      "price": 1480,
+      "calorie": 807,
+      "salt": 6.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1276",
+      "code": null,
+      "name": "活力定食",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 1114,
+      "salt": 7.0,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1277",
+      "code": null,
+      "name": "回復定食",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 852,
+      "salt": 6.4,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1278",
+      "code": null,
+      "name": "すりおろし生しょうがの豚肩ロース生姜焼き",
+      "nameEn": null,
+      "price": 1260,
+      "calorie": 829,
+      "salt": 5.3,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1279",
+      "code": null,
+      "name": "鶏もも肉の大戸屋風チキン南蛮",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 1283,
+      "salt": 5.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1280",
+      "code": null,
+      "name": "〈おかず増量〉鶏もも肉の大戸屋風チキン南蛮",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 1759,
+      "salt": 7.0,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1281",
+      "code": null,
+      "name": "鶏むね肉の大戸屋風チキン南蛮",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 1170,
+      "salt": 5.3,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1282",
+      "code": null,
+      "name": "〈おかず増量〉鶏むね肉の大戸屋風チキン南蛮",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 1589,
+      "salt": 7.1,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1283",
+      "code": null,
+      "name": "大戸屋ランチ",
+      "nameEn": null,
+      "price": 980,
+      "calorie": 908,
+      "salt": 4.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1284",
+      "code": null,
+      "name": "すけそう鱈と野菜の黒酢あん",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 758,
+      "salt": 4.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1285",
+      "code": null,
+      "name": "〈おかず増量〉すけそう鱈と野菜の黒酢あん",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": 872,
+      "salt": 5.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1286",
+      "code": null,
+      "name": "鶏と野菜の黒酢あん",
+      "nameEn": null,
+      "price": 1060,
+      "calorie": 952,
+      "salt": 4.8,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1287",
+      "code": null,
+      "name": "〈おかず増量〉鶏と野菜の黒酢あん",
+      "nameEn": null,
+      "price": 1180,
+      "calorie": 1162,
+      "salt": 6.0,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1288",
+      "code": null,
+      "name": "もろみチキンの炭火焼きとほっけ竜田揚げ 〜もろみ醤油の香味ネギだれ〜",
+      "nameEn": null,
+      "price": 1280,
+      "calorie": 755,
+      "salt": 6.1,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1289",
+      "code": null,
+      "name": "鶏と野菜の黒酢あんとしまほっけの炭火焼き",
+      "nameEn": null,
+      "price": 1320,
+      "calorie": 780,
+      "salt": 4.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1290",
+      "code": null,
+      "name": "大戸屋風チキン南蛮とひじき入り鶏つくね",
+      "nameEn": null,
+      "price": 1380,
+      "calorie": 1173,
+      "salt": 6.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1291",
+      "code": null,
+      "name": "生ニラだれの油淋鶏",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": 1038,
+      "salt": 6.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1292",
+      "code": null,
+      "name": "〈おかず増量〉生ニラだれの油淋鶏",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 1374,
+      "salt": 9.1,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1293",
+      "code": null,
+      "name": "もろみチキンの炭火焼き",
+      "nameEn": null,
+      "price": 1030,
+      "calorie": 802,
+      "salt": 5.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1294",
+      "code": null,
+      "name": "〈おかず増量〉もろみチキンの炭火焼き",
+      "nameEn": null,
+      "price": 1300,
+      "calorie": 1019,
+      "salt": 6.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1295",
+      "code": null,
+      "name": "炭火焼き鶏の親子丼",
+      "nameEn": null,
+      "price": 990,
+      "calorie": 786,
+      "salt": 5.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1296",
+      "code": null,
+      "name": "デミグラスチキンかつ",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": 865,
+      "salt": 4.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1297",
+      "code": null,
+      "name": "〈おかず増量〉デミグラスチキンかつ",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 1332,
+      "salt": 5.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1298",
+      "code": null,
+      "name": "香味唐揚げ",
+      "nameEn": null,
+      "price": 990,
+      "calorie": 955,
+      "salt": 4.5,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1299",
+      "code": null,
+      "name": "〈おかず増量〉香味唐揚げ",
+      "nameEn": null,
+      "price": 1180,
+      "calorie": 1206,
+      "salt": 5.3,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1300",
+      "code": null,
+      "name": "甘からだれの鶏唐揚げ",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 1045,
+      "salt": 6.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1301",
+      "code": null,
+      "name": "〈おかず増量〉甘からだれの鶏唐揚げ",
+      "nameEn": null,
+      "price": 1260,
+      "calorie": 1345,
+      "salt": 8.8,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1302",
+      "code": null,
+      "name": "三元豚のヒレかつ",
+      "nameEn": null,
+      "price": 1450,
+      "calorie": 980,
+      "salt": 4.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1303",
+      "code": null,
+      "name": "豚トロみそ漬け炭火焼き",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": 761,
+      "salt": 5.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1304",
+      "code": null,
+      "name": "肉野菜塩こうじ炒め",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 809,
+      "salt": 5.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1305",
+      "code": null,
+      "name": "茄子と豚肉のコク旨味噌炒め",
+      "nameEn": null,
+      "price": 1160,
+      "calorie": 785,
+      "salt": 3.3,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1306",
+      "code": null,
+      "name": "ピリ辛本格マーボードーフ",
+      "nameEn": null,
+      "price": 990,
+      "calorie": 674,
+      "salt": 5.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1307",
+      "code": null,
+      "name": "国産牛のスタミナ鉄板焼き",
+      "nameEn": null,
+      "price": 1480,
+      "calorie": 1049,
+      "salt": 5.0,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1308",
+      "code": null,
+      "name": "しまほっけの炭火焼き",
+      "nameEn": null,
+      "price": 1150,
+      "calorie": 612,
+      "salt": 5.4,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1309",
+      "code": null,
+      "name": "メヌケ西京漬け炭火焼き",
+      "nameEn": null,
+      "price": 1280,
+      "calorie": 676,
+      "salt": 7.1,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1310",
+      "code": null,
+      "name": "さばの炭火焼き",
+      "nameEn": null,
+      "price": 1230,
+      "calorie": 870,
+      "salt": 4.5,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1311",
+      "code": null,
+      "name": "バジルとチーズのアジフライ",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 1111,
+      "salt": 5.3,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1312",
+      "code": null,
+      "name": "ほっけ竜田揚げ〜もろみ醤油の香味ネギだれ〜",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": 681,
+      "salt": 6.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1313",
+      "code": null,
+      "name": "海老の玉子とじ重",
+      "nameEn": null,
+      "price": 1380,
+      "calorie": 886,
+      "salt": 6.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1314",
+      "code": null,
+      "name": "さばの味噌煮",
+      "nameEn": null,
+      "price": 1260,
+      "calorie": 739,
+      "salt": 3.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1315",
+      "code": null,
+      "name": "大戸屋ばくだん丼",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 568,
+      "salt": 3.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1316",
+      "code": null,
+      "name": "蒸し鶏のもろみ醤油香味ネギだれ",
+      "nameEn": null,
+      "price": 1180,
+      "calorie": 666,
+      "salt": 6.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1317",
+      "code": null,
+      "name": "豚ヒレの冷しゃぶ  おろし柚香だれ",
+      "nameEn": null,
+      "price": 1480,
+      "calorie": 627,
+      "salt": 4.8,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1318",
+      "code": null,
+      "name": "もろみチキンの彩りサラダボウルとしそひじきご飯",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 684,
+      "salt": 4.8,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1319",
+      "code": null,
+      "name": "辛旨 鶏とつくねのキムチチゲ",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 863,
+      "salt": 7.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1320",
+      "code": null,
+      "name": "チキンかあさん煮",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 897,
+      "salt": 6.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "816",
+      "code": null,
+      "name": "朝定食",
+      "nameEn": null,
+      "price": 650,
+      "calorie": null,
+      "salt": null,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1631",
+      "code": null,
+      "name": "いろいろ茸となめこ汁",
+      "nameEn": null,
+      "price": 230,
+      "calorie": 51,
+      "salt": 1.7,
+      "category": "soup",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1652",
+      "code": null,
+      "name": "大粒牡蠣フライ 2個",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 173,
+      "salt": 0.8,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "711",
+      "code": null,
+      "name": "大戸屋節",
+      "nameEn": null,
+      "price": 60,
+      "calorie": 7,
+      "salt": 0.0,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "712",
+      "code": null,
+      "name": "大戸屋節と黄身のごはんがけセット",
+      "nameEn": null,
+      "price": 120,
+      "calorie": 96,
+      "salt": 0.9,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "713",
+      "code": null,
+      "name": "しそひじき",
+      "nameEn": null,
+      "price": 90,
+      "calorie": 16,
+      "salt": 0.6,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "714",
+      "code": null,
+      "name": "明太子",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 14,
+      "salt": 0.4,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "715",
+      "code": null,
+      "name": "きみだま",
+      "nameEn": null,
+      "price": 100,
+      "calorie": 87,
+      "salt": 0.7,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "716",
+      "code": null,
+      "name": "生玉子",
+      "nameEn": null,
+      "price": 80,
+      "calorie": 79,
+      "salt": 0.2,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "717",
+      "code": null,
+      "name": "なめ茸おろし",
+      "nameEn": null,
+      "price": 120,
+      "calorie": 20,
+      "salt": 0.9,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "718",
+      "code": null,
+      "name": "とろろ",
+      "nameEn": null,
+      "price": 110,
+      "calorie": 43,
+      "salt": 0.4,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "719",
+      "code": null,
+      "name": "とろろオクラ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 33,
+      "salt": 0.2,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "720",
+      "code": null,
+      "name": "納豆",
+      "nameEn": null,
+      "price": 90,
+      "calorie": 92,
+      "salt": 0.5,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "721",
+      "code": null,
+      "name": "旨だれキムチ納豆",
+      "nameEn": null,
+      "price": 280,
+      "calorie": 153,
+      "salt": 0.8,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "722",
+      "code": null,
+      "name": "やみつき玉子",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 111,
+      "salt": 0.4,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "723",
+      "code": null,
+      "name": "まぐろユッケ",
+      "nameEn": null,
+      "price": 380,
+      "calorie": 157,
+      "salt": 1.0,
+      "category": "gohantomo",
+      "covers": [],
+      "requires": "rice",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "724",
+      "code": null,
+      "name": "大戸屋ばくだん小鉢",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 191,
+      "salt": 1.0,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "725",
+      "code": null,
+      "name": "ほうれん草の胡麻和え",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 35,
+      "salt": 0.4,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "726",
+      "code": null,
+      "name": "ひんやり豆腐",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 41,
+      "salt": 0.0,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "728",
+      "code": null,
+      "name": "ひじきの煮物",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 28,
+      "salt": 0.4,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "729",
+      "code": null,
+      "name": "めかぶ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 6,
+      "salt": 0.2,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "730",
+      "code": null,
+      "name": "キムチ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 11,
+      "salt": 0.5,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "731",
+      "code": null,
+      "name": "白菜の浅漬け 塩昆布和え",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 27,
+      "salt": 0.9,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "732",
+      "code": null,
+      "name": "揚げ茄子",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 73,
+      "salt": 1.4,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "733",
+      "code": null,
+      "name": "ほっけ竜田のおろし和え 柚香だれ",
+      "nameEn": null,
+      "price": 380,
+      "calorie": 87,
+      "salt": 1.0,
+      "category": "kobachi",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "734",
+      "code": null,
+      "name": "ミニ鶏の黒酢あん",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 320,
+      "salt": 1.2,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "735",
+      "code": null,
+      "name": "ミニすけそう鱈の黒酢あん",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 224,
+      "salt": 1.0,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "736",
+      "code": null,
+      "name": "ミニ野菜の黒酢あん",
+      "nameEn": null,
+      "price": 370,
+      "calorie": 173,
+      "salt": 0.8,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "737",
+      "code": null,
+      "name": "ミニ香味唐揚げ",
+      "nameEn": null,
+      "price": 350,
+      "calorie": 253,
+      "salt": 1.0,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "739",
+      "code": null,
+      "name": "ミニ甘からだれの鶏唐揚げ",
+      "nameEn": null,
+      "price": 380,
+      "calorie": 312,
+      "salt": 2.3,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "740",
+      "code": null,
+      "name": "ミニもろみチキンの炭火焼き",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 219,
+      "salt": 1.5,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "741",
+      "code": null,
+      "name": "ひじき入り鶏つくね 2個",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 252,
+      "salt": 2.4,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "742",
+      "code": null,
+      "name": "鶏もも肉のミニチキン南蛮",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 477,
+      "salt": 1.7,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1424",
+      "code": null,
+      "name": "鶏むね肉のミニチキン南蛮",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 420,
+      "salt": 1.8,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1425",
+      "code": null,
+      "name": "ミニ蒸し鶏のもろみ醤油香味ネギだれ",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 151,
+      "salt": 2.2,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "743",
+      "code": null,
+      "name": "三元豚のミニヒレかつ",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 208,
+      "salt": 0.9,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "744",
+      "code": null,
+      "name": "牛肉じゃが",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 240,
+      "salt": 2.4,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "745",
+      "code": null,
+      "name": "かぼちゃコロッケ",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 214,
+      "salt": 0.6,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "747",
+      "code": null,
+      "name": "とうもろこしクリームコロッケ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 137,
+      "salt": 0.6,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "748",
+      "code": null,
+      "name": "ミニしまほっけの炭火焼き",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 94,
+      "salt": 1.3,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1426",
+      "code": null,
+      "name": "ミニメヌケ西京漬け炭火焼き",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 116,
+      "salt": 1.9,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "749",
+      "code": null,
+      "name": "海老フライ 1尾",
+      "nameEn": null,
+      "price": 320,
+      "calorie": 149,
+      "salt": 0.6,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "750",
+      "code": null,
+      "name": "千切りキャベツ(大)",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 54,
+      "salt": 1.0,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "751",
+      "code": null,
+      "name": "千切りキャベツ(小)",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 27,
+      "salt": 0.5,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "752",
+      "code": null,
+      "name": "ミニサラダ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 36,
+      "salt": 0.5,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "753",
+      "code": null,
+      "name": "ひんやり豆腐サラダ",
+      "nameEn": null,
+      "price": 360,
+      "calorie": 87,
+      "salt": 1.2,
+      "category": "okazu",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "760",
+      "code": null,
+      "name": "ご飯 普通盛り(180g)",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 302,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "761",
+      "code": null,
+      "name": "ご飯 少なめ(100g)",
+      "nameEn": null,
+      "price": 180,
+      "calorie": 168,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "762",
+      "code": null,
+      "name": "ご飯 大盛り(300g)",
+      "nameEn": null,
+      "price": 260,
+      "calorie": 504,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "763",
+      "code": null,
+      "name": "ご飯 特盛り(500g)",
+      "nameEn": null,
+      "price": 380,
+      "calorie": 840,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "764",
+      "code": null,
+      "name": "五穀ご飯 普通盛り(180g)",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 283,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "765",
+      "code": null,
+      "name": "五穀ご飯 少なめ(100g)",
+      "nameEn": null,
+      "price": 180,
+      "calorie": 157,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "766",
+      "code": null,
+      "name": "五穀ご飯 大盛り(300g)",
+      "nameEn": null,
+      "price": 260,
+      "calorie": 472,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "767",
+      "code": null,
+      "name": "五穀ご飯 特盛り(500g)",
+      "nameEn": null,
+      "price": 380,
+      "calorie": 787,
+      "salt": 0.0,
+      "category": "rice",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "768",
+      "code": null,
+      "name": "たっぷり野菜の麦みそ汁",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 75,
+      "salt": 1.8,
+      "category": "soup",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "769",
+      "code": null,
+      "name": "味噌汁",
+      "nameEn": null,
+      "price": 50,
+      "calorie": 21,
+      "salt": 1.5,
+      "category": "soup",
+      "covers": [
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1435",
+      "code": null,
+      "name": "甘からだれの鶏竜田丼と麺のセット",
+      "nameEn": null,
+      "price": 1320,
+      "calorie": 1329,
+      "salt": 10.1,
+      "category": "noodle",
+      "covers": [
+        "main",
+        "rice",
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1436",
+      "code": null,
+      "name": "海老の玉子とじ重と麺のセット",
+      "nameEn": null,
+      "price": 1680,
+      "calorie": 1244,
+      "salt": 10.4,
+      "category": "noodle",
+      "covers": [
+        "main",
+        "rice",
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1437",
+      "code": null,
+      "name": "炭火焼き鶏の親子丼と麺のセット",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 1167,
+      "salt": 9.7,
+      "category": "noodle",
+      "covers": [
+        "main",
+        "rice",
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1438",
+      "code": null,
+      "name": "大戸屋ばくだん丼と麺のセット",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 949,
+      "salt": 7.2,
+      "category": "noodle",
+      "covers": [
+        "main",
+        "rice",
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1439",
+      "code": null,
+      "name": "まぐろとろろ丼と麺のセット",
+      "nameEn": null,
+      "price": 1280,
+      "calorie": 807,
+      "salt": 6.7,
+      "category": "noodle",
+      "covers": [
+        "main",
+        "rice",
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1440",
+      "code": null,
+      "name": "せいろ蕎麦",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 337,
+      "salt": 2.2,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1441",
+      "code": null,
+      "name": "温蕎麦",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 402,
+      "salt": 5.5,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1442",
+      "code": null,
+      "name": "せいろうどん",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 334,
+      "salt": 2.5,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1443",
+      "code": null,
+      "name": "温うどん",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 350,
+      "salt": 4.2,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "774",
+      "code": null,
+      "name": "ふんわり和スフレ みたらしだれ",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 436,
+      "salt": 0.4,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "775",
+      "code": null,
+      "name": "大戸屋ティラミス 黒蜜きな粉",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 201,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "776",
+      "code": null,
+      "name": "大戸屋アイス 〜五穀米のアイスとわらびもち〜",
+      "nameEn": null,
+      "price": 360,
+      "calorie": 145,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "777",
+      "code": null,
+      "name": "宇治抹茶の豆乳チーズケーキ",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 188,
+      "salt": 0.5,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "778",
+      "code": null,
+      "name": "たまごプリン",
+      "nameEn": null,
+      "price": 360,
+      "calorie": 219,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "779",
+      "code": null,
+      "name": "かりんとう抹茶アイス",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 96,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "780",
+      "code": null,
+      "name": "ミルクアイス",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 128,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "781",
+      "code": null,
+      "name": "チョコレートアイス",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 109,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "227",
+      "code": null,
+      "name": "ドリンクバー各種",
+      "nameEn": null,
+      "price": 430,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1444",
+      "code": null,
+      "name": "生ビール(中)",
+      "nameEn": null,
+      "price": 430,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1445",
+      "code": null,
+      "name": "生ビール(小)",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "108",
+      "code": null,
+      "name": "ノンアルコールビール アサヒドライゼロ",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "110",
+      "code": null,
+      "name": "アサヒGINONレモン(無糖)",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

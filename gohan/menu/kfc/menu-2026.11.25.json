@@ -1,0 +1,2257 @@
+{
+  "schemaVersion": 1,
+  "chain": "kfc",
+  "version": "2026.11.25",
+  "source": "公式サイトのメニュー（朝・夜・ランチ）。カロリー・塩分は使わない",
+  "updatedAt": "2026-11-25",
+  "items": [
+    {
+      "id": "032810007",
+      "code": null,
+      "name": "ドゥーム バーレル",
+      "nameEn": null,
+      "price": 1650,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032743007",
+      "code": null,
+      "name": "チキンクリームポットパイ",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032751007",
+      "code": null,
+      "name": "チキンクリームポットパイセット",
+      "nameEn": null,
+      "price": 950,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032752007",
+      "code": null,
+      "name": "チキンクリームポットパイよくばりセット",
+      "nameEn": null,
+      "price": 1250,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032776007",
+      "code": null,
+      "name": "ガリマヨ厚切りベーコンチキンバーガー",
+      "nameEn": null,
+      "price": 620,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032782007",
+      "code": null,
+      "name": "ガリマヨ厚切りベーコンチキンバーガーセット",
+      "nameEn": null,
+      "price": 1030,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032784007",
+      "code": null,
+      "name": "ガリマヨ厚切りベーコンチキンバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1330,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032781007",
+      "code": null,
+      "name": "マッケンチーズチキンバーガー",
+      "nameEn": null,
+      "price": 650,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032783007",
+      "code": null,
+      "name": "マッケンチーズチキンバーガーセット",
+      "nameEn": null,
+      "price": 1060,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032785007",
+      "code": null,
+      "name": "マッケンチーズチキンバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1360,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032815007",
+      "code": null,
+      "name": "生姜香る温辛チキン",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "chicken",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032816007",
+      "code": null,
+      "name": "生姜香る温辛チキン食べくらべセット",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032814007",
+      "code": null,
+      "name": "生姜香る温辛チキン食べくらべ４ピースパック",
+      "nameEn": null,
+      "price": 1630,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032817007",
+      "code": null,
+      "name": "生姜香る温辛チキン食べくらべ６ピースパック",
+      "nameEn": null,
+      "price": 2590,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032311007",
+      "code": null,
+      "name": "おもちと濃厚カスタードの月見パイ",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032350007",
+      "code": null,
+      "name": "クレイジーディップチキン4ピース",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "chicken",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032863007",
+      "code": null,
+      "name": "トクトクパック♥４ピース",
+      "nameEn": null,
+      "price": 1590,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032864007",
+      "code": null,
+      "name": "トクトクパック♥６ピース",
+      "nameEn": null,
+      "price": 2390,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032865007",
+      "code": null,
+      "name": "トクトクパック♥８ピース",
+      "nameEn": null,
+      "price": 2990,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032115007",
+      "code": null,
+      "name": "オリジナルチキン１ピース",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "chicken",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031788007",
+      "code": null,
+      "name": "骨なしオリジナルチキン",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "chicken",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032116007",
+      "code": null,
+      "name": "オリジナルチキン１０ピースバーレル",
+      "nameEn": null,
+      "price": 3300,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032613007",
+      "code": null,
+      "name": "オリジナルチキンバーガーセット",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032615007",
+      "code": null,
+      "name": "オリジナルチキンレッドホットバーガーセット",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032616007",
+      "code": null,
+      "name": "オリジナルチキンチーズバーガーセット",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032617007",
+      "code": null,
+      "name": "オリジナルチキンてりやきバーガーセット",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032800007",
+      "code": null,
+      "name": "プレミアバーガーセット",
+      "nameEn": null,
+      "price": 1150,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032801007",
+      "code": null,
+      "name": "プレミアチーズバーガーセット",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032614007",
+      "code": null,
+      "name": "和風チキンカツバーガーセット",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029007007",
+      "code": null,
+      "name": "ペッパーマヨツイスターセット",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031994007",
+      "code": null,
+      "name": "てりやきツイスターセット",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032618007",
+      "code": null,
+      "name": "オリジナルチキン2ピースセット",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032619007",
+      "code": null,
+      "name": "オリジナルチキンバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032621007",
+      "code": null,
+      "name": "オリジナルチキンレッドホットバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032622007",
+      "code": null,
+      "name": "オリジナルチキンチーズバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032623007",
+      "code": null,
+      "name": "オリジナルチキンてりやきバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032802007",
+      "code": null,
+      "name": "プレミアバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1450,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032803007",
+      "code": null,
+      "name": "プレミアチーズバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032620007",
+      "code": null,
+      "name": "和風チキンカツバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032848007",
+      "code": null,
+      "name": "ペッパーマヨツイスターよくばりセット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032904007",
+      "code": null,
+      "name": "てりやきツイスターよくばりセット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032626007",
+      "code": null,
+      "name": "オリジナルチキン3ピースよくばりセット",
+      "nameEn": null,
+      "price": 1320,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031782007",
+      "code": null,
+      "name": "オリジナルチキンバーガー",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031783007",
+      "code": null,
+      "name": "オリジナルチキンレッドホットバーガー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031784007",
+      "code": null,
+      "name": "オリジナルチキンチーズバーガー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031785007",
+      "code": null,
+      "name": "オリジナルチキンてりやきバーガー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031786007",
+      "code": null,
+      "name": "プレミアバーガー",
+      "nameEn": null,
+      "price": 750,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031787007",
+      "code": null,
+      "name": "プレミアチーズバーガー",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032592007",
+      "code": null,
+      "name": "和風チキンカツバーガー",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032594007",
+      "code": null,
+      "name": "ペッパーマヨツイスター",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032593007",
+      "code": null,
+      "name": "てりやきツイスター",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029147007",
+      "code": null,
+      "name": "ポテトS",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "fries"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032118007",
+      "code": null,
+      "name": "ポテトＬ",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "fries"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032119007",
+      "code": null,
+      "name": "ポテトＢＯＸ",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "pack",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029150007",
+      "code": null,
+      "name": "カーネルクリスピー",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029152007",
+      "code": null,
+      "name": "チョコパイ",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029151007",
+      "code": null,
+      "name": "ビスケット",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029155007",
+      "code": null,
+      "name": "ナゲット5ピース",
+      "nameEn": null,
+      "price": 480,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029153007",
+      "code": null,
+      "name": "コールスローS",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "coleslaw"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029154007",
+      "code": null,
+      "name": "コールスローM",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "coleslaw"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032123007",
+      "code": null,
+      "name": "Ｓドリンク",
+      "nameEn": null,
+      "price": 270,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032124007",
+      "code": null,
+      "name": "Ｍドリンク",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032125007",
+      "code": null,
+      "name": "Ｌドリンク",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032120007",
+      "code": null,
+      "name": "ホットコーヒー",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032121007",
+      "code": null,
+      "name": "挽きたてリッチコーヒー",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032122007",
+      "code": null,
+      "name": "リプトンホットティー",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032923007",
+      "code": null,
+      "name": "キッズオリジナルチキンセット",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "kids",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "029156007",
+      "code": null,
+      "name": "キッズナゲットセット",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "kids",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "031834007",
+      "code": null,
+      "name": "オリジナルチキンバーガーコンビ",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032604007",
+      "code": null,
+      "name": "和風チキンカツバーガーコンビ",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032595007",
+      "code": null,
+      "name": "オリジナルチキンバーガーセット",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032597007",
+      "code": null,
+      "name": "オリジナルチキンレッドホットバーガーセット",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032598007",
+      "code": null,
+      "name": "オリジナルチキンチーズバーガーセット",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032599007",
+      "code": null,
+      "name": "オリジナルチキンてりやきバーガーセット",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032804007",
+      "code": null,
+      "name": "プレミアバーガーセット",
+      "nameEn": null,
+      "price": 1050,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032805007",
+      "code": null,
+      "name": "プレミアチーズバーガーセット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032596007",
+      "code": null,
+      "name": "和風チキンカツバーガーセット",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032600007",
+      "code": null,
+      "name": "てりやきツイスターセット",
+      "nameEn": null,
+      "price": 690,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032601007",
+      "code": null,
+      "name": "ペッパーマヨツイスターセット",
+      "nameEn": null,
+      "price": 690,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032602007",
+      "code": null,
+      "name": "オリジナルチキン2ピースセット",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032603007",
+      "code": null,
+      "name": "チキン＆ビスケットセット",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032605007",
+      "code": null,
+      "name": "オリジナルチキンバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032607007",
+      "code": null,
+      "name": "オリジナルチキンレッドホットバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1140,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032608007",
+      "code": null,
+      "name": "オリジナルチキンチーズバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1140,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032609007",
+      "code": null,
+      "name": "オリジナルチキンてりやきバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1140,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032806007",
+      "code": null,
+      "name": "プレミアバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1350,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032808007",
+      "code": null,
+      "name": "プレミアチーズバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1390,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032606007",
+      "code": null,
+      "name": "和風チキンカツバーガーよくばりセット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032610007",
+      "code": null,
+      "name": "てりやきツイスターよくばりセット",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032611007",
+      "code": null,
+      "name": "ペッパーマヨツイスターよくばりセット",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "032612007",
+      "code": null,
+      "name": "オリジナルチキン3ピースよくばりセット",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "fries",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

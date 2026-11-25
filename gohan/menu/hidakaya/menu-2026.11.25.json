@@ -1,0 +1,3346 @@
+{
+  "schemaVersion": 1,
+  "chain": "hidakaya",
+  "version": "2026.11.25",
+  "source": "公式サイトのメニュー一覧＋主要商品エネルギー表（＋一部は詳細ページ）",
+  "updatedAt": "2026-11-25",
+  "items": [
+    {
+      "id": "1",
+      "code": null,
+      "name": "中華そば",
+      "nameEn": null,
+      "price": 420,
+      "calorie": 636,
+      "salt": 6.4,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10",
+      "code": null,
+      "name": "汁なしラーメン",
+      "nameEn": null,
+      "price": 640,
+      "calorie": 956,
+      "salt": 5.7,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11",
+      "code": null,
+      "name": "五目あんかけラーメン",
+      "nameEn": null,
+      "price": 720,
+      "calorie": 907,
+      "salt": 6.6,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "12",
+      "code": null,
+      "name": "カタヤキソバ",
+      "nameEn": null,
+      "price": 720,
+      "calorie": 822,
+      "salt": 5.5,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "13",
+      "code": null,
+      "name": "半ラーメン",
+      "nameEn": null,
+      "price": 240,
+      "calorie": 324,
+      "salt": 3.3,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "186",
+      "code": null,
+      "name": "秘伝の辛味噌ラーメン",
+      "nameEn": null,
+      "price": 640,
+      "calorie": 1034,
+      "salt": 7.1,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "187",
+      "code": null,
+      "name": "ネギタワー味噌ラーメン",
+      "nameEn": null,
+      "price": 760,
+      "calorie": 958,
+      "salt": 8.2,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "188",
+      "code": null,
+      "name": "ネギタワータンメン",
+      "nameEn": null,
+      "price": 770,
+      "calorie": 844,
+      "salt": 8.4,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2",
+      "code": null,
+      "name": "味玉中華そば",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 714,
+      "salt": 7.1,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "310",
+      "code": null,
+      "name": "ピリ辛とんこつネギチャーシューメン",
+      "nameEn": null,
+      "price": 1010,
+      "calorie": 932,
+      "salt": 8.5,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "311",
+      "code": null,
+      "name": "秘伝の辛味噌チャーシューメン",
+      "nameEn": null,
+      "price": 970,
+      "calorie": 1213,
+      "salt": 8.0,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "312",
+      "code": null,
+      "name": "ネギタワー味噌チャーシューメン",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": 1050,
+      "salt": 9.0,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "313",
+      "code": null,
+      "name": "味噌チャーシューメン",
+      "nameEn": null,
+      "price": 940,
+      "calorie": 1119,
+      "salt": 8.6,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "371",
+      "code": null,
+      "name": "とんこつニラ南蛮",
+      "nameEn": null,
+      "price": 650,
+      "calorie": 643,
+      "salt": 7.9,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4",
+      "code": null,
+      "name": "とんこつラーメン",
+      "nameEn": null,
+      "price": 510,
+      "calorie": 670,
+      "salt": 6.9,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5",
+      "code": null,
+      "name": "味玉とんこつラーメン",
+      "nameEn": null,
+      "price": 630,
+      "calorie": 748,
+      "salt": 7.6,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "6",
+      "code": null,
+      "name": "ピリ辛とんこつネギラーメン",
+      "nameEn": null,
+      "price": 680,
+      "calorie": 750,
+      "salt": 7.6,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7",
+      "code": null,
+      "name": "野菜たっぷりタンメン（麺少なめ）",
+      "nameEn": null,
+      "price": 590,
+      "calorie": 639,
+      "salt": 8.4,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "8",
+      "code": null,
+      "name": "野菜たっぷりタンメン",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 826,
+      "salt": 8.6,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9",
+      "code": null,
+      "name": "味噌ラーメン",
+      "nameEn": null,
+      "price": 610,
+      "calorie": 940,
+      "salt": 7.7,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_196",
+      "code": null,
+      "name": "中華チャーシューメン",
+      "nameEn": null,
+      "price": 750,
+      "calorie": 818,
+      "salt": 7.2,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_197",
+      "code": null,
+      "name": "とんこつチャーシューメン",
+      "nameEn": null,
+      "price": 840,
+      "calorie": 852,
+      "salt": 7.7,
+      "category": "ramen",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "139",
+      "code": null,
+      "name": "お子さまセット",
+      "nameEn": null,
+      "price": 350,
+      "calorie": 444,
+      "salt": 3.7,
+      "category": "set",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "164",
+      "code": null,
+      "name": "中華そば＋半チャーハンセット",
+      "nameEn": null,
+      "price": 720,
+      "calorie": 949,
+      "salt": 8.3,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "165",
+      "code": null,
+      "name": "とんこつラーメン＋半チャーハンセット",
+      "nameEn": null,
+      "price": 810,
+      "calorie": 983,
+      "salt": 8.8,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "166",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋半チャーハンセット",
+      "nameEn": null,
+      "price": 920,
+      "calorie": 1139,
+      "salt": 10.5,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "167",
+      "code": null,
+      "name": "味噌ラーメン＋半チャーハン",
+      "nameEn": null,
+      "price": 910,
+      "calorie": 1253,
+      "salt": 9.6,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "168",
+      "code": null,
+      "name": "中華そば＋やきとり丼セット",
+      "nameEn": null,
+      "price": 740,
+      "calorie": 1010,
+      "salt": 8.1,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "169",
+      "code": null,
+      "name": "とんこつラーメン＋やきとり丼セット",
+      "nameEn": null,
+      "price": 830,
+      "calorie": 1044,
+      "salt": 8.6,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "17",
+      "code": null,
+      "name": "ラ・餃・チャセット",
+      "nameEn": null,
+      "price": 700,
+      "calorie": 799,
+      "salt": 5.9,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "170",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋やきとり丼セット",
+      "nameEn": null,
+      "price": 940,
+      "calorie": 1200,
+      "salt": 10.3,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "171",
+      "code": null,
+      "name": "味噌ラーメン＋やきとり丼セット",
+      "nameEn": null,
+      "price": 930,
+      "calorie": 1314,
+      "salt": 9.4,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "172",
+      "code": null,
+      "name": "中華そば＋餃子セット",
+      "nameEn": null,
+      "price": 700,
+      "calorie": 949,
+      "salt": 7.6,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "173",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋餃子セット",
+      "nameEn": null,
+      "price": 900,
+      "calorie": 1149,
+      "salt": 9.9,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "175",
+      "code": null,
+      "name": "味噌ラーメン＋餃子セット",
+      "nameEn": null,
+      "price": 890,
+      "calorie": 1271,
+      "salt": 8.9,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "331",
+      "code": null,
+      "name": "中華そば＋半チャーハン＋餃子6個セット",
+      "nameEn": null,
+      "price": 1000,
+      "calorie": 1280,
+      "salt": 9.5,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "332",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋半チャーハン＋餃子6個セット",
+      "nameEn": null,
+      "price": 1200,
+      "calorie": 1470,
+      "salt": 11.7,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "333",
+      "code": null,
+      "name": "とんこつラーメン＋半チャーハン＋餃子6個セット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": 1314,
+      "salt": 10.0,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "334",
+      "code": null,
+      "name": "味噌ラーメン＋半チャーハン＋餃子6個セット",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": 1584,
+      "salt": 10.8,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "335",
+      "code": null,
+      "name": "中華そば＋半チャーハン＋餃子3個セット",
+      "nameEn": null,
+      "price": 870,
+      "calorie": 1114,
+      "salt": 8.9,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "336",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋半チャーハン＋餃子3個セット",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 1304,
+      "salt": 11.1,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "337",
+      "code": null,
+      "name": "とんこつラーメン＋半チャーハン＋餃子3個セット",
+      "nameEn": null,
+      "price": 960,
+      "calorie": 1148,
+      "salt": 9.4,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "338",
+      "code": null,
+      "name": "味噌ラーメン＋半チャーハン＋餃子3個セット",
+      "nameEn": null,
+      "price": 1060,
+      "calorie": 1418,
+      "salt": 10.2,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "339",
+      "code": null,
+      "name": "中華そば＋やきとり丼＋餃子6個セット",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 1358,
+      "salt": 9.3,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "340",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋やきとり丼＋餃子6個セット",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 1548,
+      "salt": 11.5,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "341",
+      "code": null,
+      "name": "とんこつラーメン＋やきとり丼＋餃子6個セット",
+      "nameEn": null,
+      "price": 1110,
+      "calorie": 1392,
+      "salt": 9.8,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "342",
+      "code": null,
+      "name": "味噌ラーメン＋やきとり丼＋餃子6個セット",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": 1662,
+      "salt": 10.6,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "343",
+      "code": null,
+      "name": "中華そば＋やきとり丼＋餃子3個セット",
+      "nameEn": null,
+      "price": 890,
+      "calorie": 1192,
+      "salt": 8.7,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "344",
+      "code": null,
+      "name": "野菜たっぷりタンメン＋やきとり丼＋餃子3個セット",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": 1382,
+      "salt": 10.9,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "345",
+      "code": null,
+      "name": "とんこつラーメン＋やきとり丼＋餃子3個セット",
+      "nameEn": null,
+      "price": 980,
+      "calorie": 1226,
+      "salt": 9.2,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "346",
+      "code": null,
+      "name": "味噌ラーメン＋やきとり丼＋餃子3個セット",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 1496,
+      "salt": 10.0,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "348",
+      "code": null,
+      "name": "とんこつラーメン＋餃子セット",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 1006,
+      "salt": 8.1,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "372",
+      "code": null,
+      "name": "とんこつニラ南蛮＋餃子3個セット",
+      "nameEn": null,
+      "price": 800,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "373",
+      "code": null,
+      "name": "とんこつニラ南蛮＋餃子6個セット",
+      "nameEn": null,
+      "price": 930,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "374",
+      "code": null,
+      "name": "とんこつニラ南蛮＋半チャーハンセット",
+      "nameEn": null,
+      "price": 950,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "noodle",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "162",
+      "code": null,
+      "name": "W餃子定食（白菜キムチ）",
+      "nameEn": null,
+      "price": 880,
+      "calorie": 1094,
+      "salt": 7.1,
+      "category": "teishoku",
+      "covers": [
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "162_01",
+      "code": null,
+      "name": "W餃子定食（唐揚げ２個）",
+      "nameEn": null,
+      "price": 880,
+      "calorie": 1180,
+      "salt": 5.9,
+      "category": "teishoku",
+      "covers": [
+        "rice",
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "18",
+      "code": null,
+      "name": "野菜炒め定食",
+      "nameEn": null,
+      "price": 720,
+      "calorie": 775,
+      "salt": 5.7,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20",
+      "code": null,
+      "name": "肉野菜炒め定食",
+      "nameEn": null,
+      "price": 860,
+      "calorie": 925,
+      "salt": 5.8,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "22",
+      "code": null,
+      "name": "生姜焼き定食",
+      "nameEn": null,
+      "price": 870,
+      "calorie": 932,
+      "salt": 6.1,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "24",
+      "code": null,
+      "name": "唐揚げ定食",
+      "nameEn": null,
+      "price": 870,
+      "calorie": 1153,
+      "salt": 5.4,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "26",
+      "code": null,
+      "name": "バクダン炒め定食",
+      "nameEn": null,
+      "price": 860,
+      "calorie": 960,
+      "salt": 7.7,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "28",
+      "code": null,
+      "name": "ニラレバ炒め定食",
+      "nameEn": null,
+      "price": 830,
+      "calorie": 892,
+      "salt": 6.4,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "314",
+      "code": null,
+      "name": "Wドラゴンチキン定食",
+      "nameEn": null,
+      "price": 900,
+      "calorie": 1031,
+      "salt": 4.8,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "375",
+      "code": null,
+      "name": "Wレモンタルタルチキン定食",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "teishoku",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "135",
+      "code": null,
+      "name": "キムチ炒飯",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 855,
+      "salt": 9.2,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "136",
+      "code": null,
+      "name": "キムチ炒飯大盛り",
+      "nameEn": null,
+      "price": 820,
+      "calorie": 1155,
+      "salt": 10.6,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "147",
+      "code": null,
+      "name": "中華丼",
+      "nameEn": null,
+      "price": 700,
+      "calorie": 865,
+      "salt": 4.1,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "148",
+      "code": null,
+      "name": "中華丼大盛",
+      "nameEn": null,
+      "price": 820,
+      "calorie": 1033,
+      "salt": 4.1,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "151",
+      "code": null,
+      "name": "半チャーハン",
+      "nameEn": null,
+      "price": 310,
+      "calorie": 313,
+      "salt": 1.9,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "152",
+      "code": null,
+      "name": "半ライス",
+      "nameEn": null,
+      "price": 160,
+      "calorie": 235,
+      "salt": 0.0,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "153",
+      "code": null,
+      "name": "ライス",
+      "nameEn": null,
+      "price": 230,
+      "calorie": 370,
+      "salt": 0.0,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "154",
+      "code": null,
+      "name": "ライス大盛",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 538,
+      "salt": 0.0,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "155",
+      "code": null,
+      "name": "やきとり丼",
+      "nameEn": null,
+      "price": 330,
+      "calorie": 374,
+      "salt": 1.7,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "19",
+      "code": null,
+      "name": "野菜炒め単品",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 365,
+      "salt": 3.2,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "196",
+      "code": null,
+      "name": "天津飯大盛",
+      "nameEn": null,
+      "price": 810,
+      "calorie": 1180,
+      "salt": 4.1,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "197",
+      "code": null,
+      "name": "ライスセット（ライス＋スープ＋漬物付）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": 410,
+      "salt": 2.5,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "198",
+      "code": null,
+      "name": "スープ",
+      "nameEn": null,
+      "price": 20,
+      "calorie": 38,
+      "salt": 1.8,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "21",
+      "code": null,
+      "name": "肉野菜炒め単品",
+      "nameEn": null,
+      "price": 610,
+      "calorie": 515,
+      "salt": 3.3,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "23",
+      "code": null,
+      "name": "生姜焼き単品",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 522,
+      "salt": 3.6,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25",
+      "code": null,
+      "name": "唐揚げ単品",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 743,
+      "salt": 3.1,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "27",
+      "code": null,
+      "name": "バクダン炒め単品",
+      "nameEn": null,
+      "price": 610,
+      "calorie": 550,
+      "salt": 5.2,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "29",
+      "code": null,
+      "name": "ニラレバ炒め単品",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 482,
+      "salt": 3.9,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "299_001",
+      "code": null,
+      "name": "杏仁豆腐",
+      "nameEn": null,
+      "price": 180,
+      "calorie": 80,
+      "salt": 0.1,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "315",
+      "code": null,
+      "name": "Wドラゴンチキン",
+      "nameEn": null,
+      "price": 650,
+      "calorie": 621,
+      "salt": 2.3,
+      "category": "single",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "805",
+      "code": null,
+      "name": "天津飯",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 956,
+      "salt": 4.1,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "998",
+      "code": null,
+      "name": "チャーハン",
+      "nameEn": null,
+      "price": 550,
+      "calorie": 726,
+      "salt": 5.6,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "999",
+      "code": null,
+      "name": "チャーハン（大盛）",
+      "nameEn": null,
+      "price": 680,
+      "calorie": 1052,
+      "salt": 7.5,
+      "category": "single",
+      "covers": [
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "199",
+      "code": null,
+      "name": "おつまみネギチャーシュー",
+      "nameEn": null,
+      "price": 370,
+      "calorie": 160,
+      "salt": 1.6,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30",
+      "code": null,
+      "name": "餃子（6個）",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 322,
+      "salt": 1.3,
+      "category": "otsumami",
+      "covers": [
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "31",
+      "code": null,
+      "name": "餃子（3個）",
+      "nameEn": null,
+      "price": 160,
+      "calorie": 161,
+      "salt": 0.7,
+      "category": "otsumami",
+      "covers": [
+        "gyoza"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "316",
+      "code": null,
+      "name": "ザーサイ",
+      "nameEn": null,
+      "price": 230,
+      "calorie": 71,
+      "salt": 3.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "317",
+      "code": null,
+      "name": "キムチャーシュー",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 261,
+      "salt": 2.0,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "318",
+      "code": null,
+      "name": "とうもろこしの香り揚げ",
+      "nameEn": null,
+      "price": 280,
+      "calorie": 122,
+      "salt": 0.8,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "32",
+      "code": null,
+      "name": "中華風味付けメンマ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 33,
+      "salt": 2.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "33",
+      "code": null,
+      "name": "枝豆",
+      "nameEn": null,
+      "price": 220,
+      "calorie": 111,
+      "salt": 1.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "34",
+      "code": null,
+      "name": "そら豆",
+      "nameEn": null,
+      "price": 220,
+      "calorie": 111,
+      "salt": 1.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35",
+      "code": null,
+      "name": "白菜キムチ",
+      "nameEn": null,
+      "price": 220,
+      "calorie": 92,
+      "salt": 2.0,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "36",
+      "code": null,
+      "name": "やきとり（ネギ和え）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": 139,
+      "salt": 1.7,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "376",
+      "code": null,
+      "name": "ニラキムチ",
+      "nameEn": null,
+      "price": 280,
+      "calorie": 42,
+      "salt": 1.8,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "377",
+      "code": null,
+      "name": "ニラキムチ冷奴",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 84,
+      "salt": 0.7,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "378",
+      "code": null,
+      "name": "サク旨！ごぼう揚げ",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 150,
+      "salt": 0.5,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "379",
+      "code": null,
+      "name": "お肉屋さんのひとくちメンチカツ",
+      "nameEn": null,
+      "price": 240,
+      "calorie": 193,
+      "salt": 1.1,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "38",
+      "code": null,
+      "name": "マカロニサラダ",
+      "nameEn": null,
+      "price": 250,
+      "calorie": 193,
+      "salt": 1.1,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "380",
+      "code": null,
+      "name": "レモンタルタルチキン",
+      "nameEn": null,
+      "price": 370,
+      "calorie": 356,
+      "salt": 2.1,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "381",
+      "code": null,
+      "name": "Wレモンタルタルチキン",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 685,
+      "salt": 3.4,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40",
+      "code": null,
+      "name": "冷奴",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 75,
+      "salt": 0.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41",
+      "code": null,
+      "name": "三品盛合わせ（メンマ･キムチ･やきとりネギ和え）",
+      "nameEn": null,
+      "price": 370,
+      "calorie": 179,
+      "salt": 4.1,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "42",
+      "code": null,
+      "name": "イカ揚げ",
+      "nameEn": null,
+      "price": 330,
+      "calorie": 139,
+      "salt": 1.0,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "44",
+      "code": null,
+      "name": "チーズ巻き",
+      "nameEn": null,
+      "price": 210,
+      "calorie": 396,
+      "salt": 1.3,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "45",
+      "code": null,
+      "name": "おつまみ唐揚げ",
+      "nameEn": null,
+      "price": 320,
+      "calorie": 319,
+      "salt": 1.2,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "46",
+      "code": null,
+      "name": "皮付きポテトフライ",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 281,
+      "salt": 1.8,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "47",
+      "code": null,
+      "name": "イワシフライ",
+      "nameEn": null,
+      "price": 290,
+      "calorie": 335,
+      "salt": 0.6,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "48",
+      "code": null,
+      "name": "五目春巻き",
+      "nameEn": null,
+      "price": 350,
+      "calorie": 415,
+      "salt": 1.7,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_203_01",
+      "code": null,
+      "name": "ドラゴンチキン",
+      "nameEn": null,
+      "price": 330,
+      "calorie": 321,
+      "salt": 1.3,
+      "category": "otsumami",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "195",
+      "code": null,
+      "name": "ウィスキーダブル",
+      "nameEn": null,
+      "price": 300,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "320",
+      "code": null,
+      "name": "ウォッカダブル",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "382",
+      "code": null,
+      "name": "サッポロ　ラガービール",
+      "nameEn": null,
+      "price": 520,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "389",
+      "code": null,
+      "name": "晴れ風 中瓶",
+      "nameEn": null,
+      "price": 520,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "50",
+      "code": null,
+      "name": "ハイボール",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "51",
+      "code": null,
+      "name": "ホッピーセット",
+      "nameEn": null,
+      "price": 460,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "52",
+      "code": null,
+      "name": "生冷酒",
+      "nameEn": null,
+      "price": 480,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "54",
+      "code": null,
+      "name": "日本酒",
+      "nameEn": null,
+      "price": 420,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "55",
+      "code": null,
+      "name": "レモンサワー",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "56",
+      "code": null,
+      "name": "ウーロンハイ",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "57",
+      "code": null,
+      "name": "緑茶ハイ",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "58",
+      "code": null,
+      "name": "ウォッカ（お湯･水･ソーダ）割り",
+      "nameEn": null,
+      "price": 300,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "59",
+      "code": null,
+      "name": "からだすこやか茶W",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "60",
+      "code": null,
+      "name": "コカ・コーラ",
+      "nameEn": null,
+      "price": 130,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "61",
+      "code": null,
+      "name": "キリン一番搾り（生）ジョッキ",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_204",
+      "code": null,
+      "name": "ドラゴンハイボール",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_205",
+      "code": null,
+      "name": "紹興酒 古越龍山善醸仕込み グラス（90㎖）",
+      "nameEn": null,
+      "price": 230,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "9_206",
+      "code": null,
+      "name": "紹興酒 古越龍山善醸仕込み ボトル（600㎖）",
+      "nameEn": null,
+      "price": 1430,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "189",
+      "code": null,
+      "name": "麺大盛",
+      "nameEn": null,
+      "price": 80,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "191",
+      "code": null,
+      "name": "チャーシュー（3枚）",
+      "nameEn": null,
+      "price": 330,
+      "calorie": 182,
+      "salt": 0.8,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "192",
+      "code": null,
+      "name": "秘伝の辛みそ",
+      "nameEn": null,
+      "price": 30,
+      "calorie": 41,
+      "salt": 0.5,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "386",
+      "code": null,
+      "name": "にんにく",
+      "nameEn": null,
+      "price": 20,
+      "calorie": 12,
+      "salt": 0.3,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "388",
+      "code": null,
+      "name": "ニラキムチ",
+      "nameEn": null,
+      "price": 280,
+      "calorie": 42,
+      "salt": 1.8,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "66",
+      "code": null,
+      "name": "温泉玉子",
+      "nameEn": null,
+      "price": 120,
+      "calorie": 76,
+      "salt": 0.2,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "67",
+      "code": null,
+      "name": "味付け玉子",
+      "nameEn": null,
+      "price": 120,
+      "calorie": 79,
+      "salt": 0.7,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "68",
+      "code": null,
+      "name": "細切りネギ",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 39,
+      "salt": 0.5,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "69",
+      "code": null,
+      "name": "メンマ",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 33,
+      "salt": 2.2,
+      "category": "topping",
+      "covers": [],
+      "requires": "noodle",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

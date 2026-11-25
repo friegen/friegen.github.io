@@ -15,9 +15,9 @@
     },
     {
       "id": "hidakaya",
-      "latest": "2026.11.23",
-      "url": "hidakaya/menu-2026.11.23.json",
-      "sha256": "f07334104be37bd86223da2552cd79c795a498ed01354a7efcbbd2ced4db529d"
+      "latest": "2026.11.25",
+      "url": "hidakaya/menu-2026.11.25.json",
+      "sha256": "7d94901146a45a4590f0bb8d919e67b8eb572bda7fa7e1824b1a7b1adb54e5be"
     },
     {
       "id": "ikinari-steak",
@@ -33,9 +33,9 @@
     },
     {
       "id": "kfc",
-      "latest": "2026.11.23",
-      "url": "kfc/menu-2026.11.23.json",
-      "sha256": "857f0a5909b44bea8653aad39d8e24bbb0bc10621cc6d7e241eb180c1ea6b01a"
+      "latest": "2026.11.25",
+      "url": "kfc/menu-2026.11.25.json",
+      "sha256": "adc65463a935d3dd9d16ae9e5e17e19ea9eb5550593d8be829b500d1eb050560"
     },
     {
       "id": "marugame",
@@ -45,15 +45,15 @@
     },
     {
       "id": "ootoya",
-      "latest": "2026.11.23",
-      "url": "ootoya/menu-2026.11.23.json",
-      "sha256": "5623d5371e6c0cb57ca020003212835bce78da3de72a785a1a5c7fb63b6e7a34"
+      "latest": "2026.11.25",
+      "url": "ootoya/menu-2026.11.25.json",
+      "sha256": "72b3fc4b1ef817b4c9b90878de8b850757d65822894557df8bfe4d8e40679faa"
     },
     {
       "id": "saizeriya",
-      "latest": "2026.11.23",
-      "url": "saizeriya/menu-2026.11.23.json",
-      "sha256": "69c04477fa03055d6ad194ad58603e2bfd893cc62713d1c8a44a9116874c4998"
+      "latest": "2026.11.25",
+      "url": "saizeriya/menu-2026.11.25.json",
+      "sha256": "2239eccb1b03cb4003a9cb1debf38be6d11246713c5a798abebbb993123cb22c"
     },
     {
       "id": "zetteria",
