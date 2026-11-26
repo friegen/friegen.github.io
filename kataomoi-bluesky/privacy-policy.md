@@ -7,7 +7,7 @@ image: /assets/og/kataomoi-bluesky-privacy.jpg
 
 # 片思いチェッカー for Bluesky プライバシーポリシー
 
-最終更新日: 2026年11月19日
+最終更新日: 2026年11月26日
 
 本アプリの開発者（以下「私たち」）は、Android アプリ「片思いチェッカー for Bluesky」（以下「本アプリ」）における利用者の情報の取り扱いについて、以下のとおり定めます。
 
@@ -19,6 +19,8 @@ image: /assets/og/kataomoi-bluesky-privacy.jpg
 - Bluesky アカウントのログイン情報（ハンドルまたはメールアドレス、パスワード）と、ログイン後にサーバーから受け取る認証用のトークン
 - ログインしたアカウントのプロフィール（表示名、アイコンの画像の URL）
 - フォローしている人・フォロワーの一覧（ハンドル、表示名、自己紹介、アイコンの画像の URL など、Bluesky で公開されている情報）
+- ブロックしている人・ミュートしている人の一覧（ハンドル、表示名など）
+- 日ごとの人数の記録（フォロー数・フォロワー数・片思い／両思い／片思われの人数と、前の日と比べた増減。ヒストリーの表示に使います）
 - ログインするサーバー、データがあるサーバー（PDS）のアドレス
 - アプリの設定（ダークモード、デイリーレポートのオン／オフなど）
 
@@ -28,14 +30,16 @@ image: /assets/og/kataomoi-bluesky-privacy.jpg
 上記の情報は、利用者の端末の中（本アプリ専用の領域）に保存します。
 
 - パスワードと認証用のトークンは、端末の Android キーストアの鍵で暗号化して保存します。この鍵は端末の外に出ないため、保存したパスワードを端末の外で読むことはできません
-- フォロー・フォロワーの一覧は、次にアプリを開いたときにすぐ表示するため、またデイリーレポートで前回と比べるために保存します
+- フォロー・フォロワーの一覧は、次にアプリを開いたときにすぐ表示するため、前の日と比べて新しくフォローした人・フォローを解除した人などを表示するため（前の日の一覧も保存します）、またデイリーレポートで前回と比べるために保存します
+- 日ごとの人数の記録は、ヒストリーを表示するために保存します（人の一覧は含みません）
+- ブロック・ミュートしている人の一覧は、表示のために一時的に使うだけで、端末に保存しません
 
 アカウントをログアウトすると、そのアカウントについて保存した情報を消します。本アプリをアンインストールすると、端末に保存したすべての情報が消えます。
 
 ## 3. 通信先と送る情報
 本アプリは、次の相手と通信します。
 
-- **Bluesky のサーバー**（bsky.social、または利用者のデータがあるサーバー（PDS）、利用者が指定したサーバー）: ログイン、フォロー・フォロワーの一覧とプロフィールの取得、利用者が操作したときのフォロー・フォロー解除のために、ログイン情報・トークン・操作の内容を送ります
+- **Bluesky のサーバー**（bsky.social、または利用者のデータがあるサーバー（PDS）、利用者が指定したサーバー）: ログイン、フォロー・フォロワー・ブロック・ミュートの一覧とプロフィールの取得、利用者が操作したときのフォロー・フォロー解除・ブロック解除・ミュート解除のために、ログイン情報・トークン・操作の内容を送ります
 - **ログインするサーバーを調べるための問い合わせ**: ログインのときに、入力されたハンドルを Bluesky の公開 API（public.api.bsky.app）に送ってアカウントの ID（DID）を調べ、その ID を PLC ディレクトリ（plc.directory）またはハンドルのドメインに送って、データがあるサーバーを調べます。パスワードは送りません
 - **Google AdMob**: 広告の表示のため（「6. 広告」を参照）
 
@@ -50,7 +54,7 @@ Bluesky のサーバーに送った情報は、そのサーバーの運営者の
 どちらの通知も端末の中で作ります。通知の内容を私たちや第三者に送ることはありません。通知は端末の設定から種類ごとにオフにできます。
 
 ## 5. Android の自動バックアップと Google パスワード マネージャー
-- **自動バックアップ**: 端末の設定でバックアップが有効になっている場合、本アプリの設定とログインしているアカウントの一覧（ハンドル、ログインするサーバーとデータがあるサーバーのアドレス、表示名、アイコンの画像の URL）が、利用者の Google アカウント（Google ドライブ）にバックアップされ、機種変更のときなどに復元されます。パスワード、認証用のトークン、フォロー・フォロワーの一覧はバックアップしません
+- **自動バックアップ**: 端末の設定でバックアップが有効になっている場合、本アプリの設定とログインしているアカウントの一覧（ハンドル、ログインするサーバーとデータがあるサーバーのアドレス、表示名、アイコンの画像の URL）が、利用者の Google アカウント（Google ドライブ）にバックアップされ、機種変更のときなどに復元されます。パスワード、認証用のトークン、フォロー・フォロワーの一覧、日ごとの人数の記録はバックアップしません
 - **Google パスワード マネージャー**: ログインのあとに、パスワードを Google パスワード マネージャーに保存するかを確認します。保存した場合は、機種変更や再インストールのあとに、保存したパスワードを使ってログインし直すことができます。保存するかどうかは利用者が選べます
 
 これらは Google が提供する機能で、[Google のプライバシーポリシー](https://policies.google.com/privacy)に従って取り扱われます。
@@ -66,7 +70,7 @@ AdMob は、広告の配信、広告の効果の測定、不正の防止など�
 - 広告の表示やタップなど、広告に対する操作の情報
 - アプリの動作に関する診断情報
 
-これらの情報は Google が収集し、Google のポリシーに従って取り扱います。Bluesky のログイン情報やフォロー・フォロワーの一覧を広告に使うことはありません。詳しくは以下をご覧ください。
+これらの情報は Google が収集し、Google のポリシーに従って取り扱います。Bluesky のログイン情報やフォロー・フォロワーの一覧、日ごとの記録を広告に使うことはありません。詳しくは以下をご覧ください。
 
 - [Google のプライバシーポリシー](https://policies.google.com/privacy)
 - [Google のパートナーのサイトやアプリを使用する際の Google によるデータ使用](https://policies.google.com/technologies/partner-sites)
@@ -99,7 +103,7 @@ AdMob は、広告の配信、広告の効果の測定、不正の防止など�
 
 # Follower Checker for Bluesky Privacy Policy
 
-Last updated: November 19, 2026
+Last updated: November 26, 2026
 
 The developer of the Android app "Follower Checker for Bluesky" (the "App", "we") explains below how the App handles user information.
 
@@ -111,6 +115,8 @@ The App handles the following information:
 - Your Bluesky sign-in information (handle or email address, and password) and the authentication tokens received from the server after you sign in
 - The profile of the account you signed in with (display name and avatar image URL)
 - The lists of people you follow and your followers (handles, display names, bios, avatar image URLs, and other information that is public on Bluesky)
+- The lists of people you block and mute (handles, display names, and so on)
+- Daily records of your numbers (follows, followers, the numbers in each list, and the changes from the previous day), used to show your history
 - The addresses of the server you sign in to and the server that hosts your data (PDS)
 - App settings (dark mode, whether the daily report is on, and so on)
 
@@ -120,14 +126,16 @@ We recommend using an "App Password", which you can create in Bluesky's settings
 The information above is stored on your device, in storage that only the App can access.
 
 - Your password and authentication tokens are encrypted with a key in your device's Android Keystore. This key never leaves your device, so the saved password cannot be read outside your device
-- The lists of follows and followers are saved so that they can be shown immediately the next time you open the App, and so that the daily report can compare them with the previous ones
+- The lists of follows and followers are saved so that they can be shown immediately the next time you open the App, so that the App can show who newly followed or unfollowed you compared with the previous day (the previous day's lists are also saved), and so that the daily report can compare them with the previous ones
+- Daily records of your numbers are saved to show your history (they do not include lists of people)
+- The lists of people you block and mute are used only for display and are not saved on your device
 
 When you sign out of an account, the information saved for that account is deleted. When you uninstall the App, all information saved on your device is deleted.
 
 ## 3. Where the App connects and what it sends
 The App communicates with the following:
 
-- **Bluesky servers** (bsky.social, the server that hosts your data (PDS), or a server you specify): to sign in, retrieve your follows, followers, and profile, and follow or unfollow people when you choose to, the App sends your sign-in information, tokens, and the details of your actions
+- **Bluesky servers** (bsky.social, the server that hosts your data (PDS), or a server you specify): to sign in, retrieve your follows, followers, blocks, mutes, and profile, and follow, unfollow, unblock, or unmute people when you choose to, the App sends your sign-in information, tokens, and the details of your actions
 - **Lookups to find your sign-in server**: when you sign in, the App sends the handle you entered to Bluesky's public API (public.api.bsky.app) to look up your account ID (DID), and sends that ID to the PLC directory (plc.directory) or to your handle's domain to find the server that hosts your data. Your password is not sent in these lookups
 - **Google AdMob**: to show ads (see "6. Advertising")
 
@@ -142,7 +150,7 @@ Tapping a person's avatar in a list opens their profile on the Bluesky website (
 Both notifications are created on your device. Their contents are never sent to us or to any third party. You can turn off each type of notification in your device settings.
 
 ## 5. Android automatic backup and Google Password Manager
-- **Automatic backup**: if backup is turned on in your device settings, the App's settings and the list of signed-in accounts (handles, the addresses of the sign-in server and the server that hosts your data, display names, and avatar image URLs) are backed up to your Google Account (Google Drive) and can be restored, for example when you set up a new device. Your password, authentication tokens, and lists of follows and followers are not backed up
+- **Automatic backup**: if backup is turned on in your device settings, the App's settings and the list of signed-in accounts (handles, the addresses of the sign-in server and the server that hosts your data, display names, and avatar image URLs) are backed up to your Google Account (Google Drive) and can be restored, for example when you set up a new device. Your password, authentication tokens, lists of follows and followers, and daily records are not backed up
 - **Google Password Manager**: after you sign in, the App asks whether you want to save your password to Google Password Manager. If you save it, you can sign in again with the saved password after switching devices or reinstalling the App. Saving is up to you
 
 These features are provided by Google and are handled under [Google's Privacy Policy](https://policies.google.com/privacy).
@@ -158,7 +166,7 @@ AdMob may collect and use the following information to serve ads, measure ad per
 - Interactions with ads, such as ad views and taps
 - Diagnostic information about how the App runs
 
-This information is collected by Google and handled under Google's policies. Your Bluesky sign-in information and your lists of follows and followers are never used for advertising. For details, see:
+This information is collected by Google and handled under Google's policies. Your Bluesky sign-in information, your lists of follows and followers, and your daily records are never used for advertising. For details, see:
 
 - [Google Privacy Policy](https://policies.google.com/privacy)
 - [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
