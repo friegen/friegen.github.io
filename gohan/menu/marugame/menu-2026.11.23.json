@@ -1,0 +1,2311 @@
+{
+  "schemaVersion": 1,
+  "chain": "marugame",
+  "version": "2026.11.23",
+  "source": "公式サイトのメニュー（店内）＋商品ごとの詳細ページの栄養成分",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "nikukaramaze-regular-hot",
+      "code": null,
+      "name": "肉辛まぜうどん（並・温）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikukaramaze-large-hot",
+      "code": null,
+      "name": "肉辛まぜうどん（大・温）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikukaramaze-xlarge-hot",
+      "code": null,
+      "name": "肉辛まぜうどん（得・温）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "misodashi-regular-hot",
+      "code": null,
+      "name": "濃厚味噌だしうどん（並・温）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "misodashi-large-hot",
+      "code": null,
+      "name": "濃厚味噌だしうどん（大・温）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "misodashi-xlarge-hot",
+      "code": null,
+      "name": "濃厚味噌だしうどん（得・温）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "butatsukejiru-cold",
+      "code": null,
+      "name": "旨辛豚つけ汁うどん（冷）",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugobouudon-regular-hot",
+      "code": null,
+      "name": "肉ごぼううどん（並・温）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugobouudon-large-hot",
+      "code": null,
+      "name": "肉ごぼううどん（大・温）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugobouudon-xlarge-hot",
+      "code": null,
+      "name": "肉ごぼううどん（得・温）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-regular-hot",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（並・温）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-regular-cold",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（並・冷）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-large-hot",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（大・温）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-large-cold",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（大・冷）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-xlarge-hot",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（得・温）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikugoboubukkake-xlarge-cold",
+      "code": null,
+      "name": "肉ごぼうぶっかけ（得・冷）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaicreamudon-regular-hot",
+      "code": null,
+      "name": "明太クリームうどん（並・温）",
+      "nameEn": null,
+      "price": 690,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaicreamudon-large-hot",
+      "code": null,
+      "name": "明太クリームうどん（大・温）",
+      "nameEn": null,
+      "price": 880,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaicreamudon-xlarge-hot",
+      "code": null,
+      "name": "明太クリームうどん（得・温）",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikuudon-regular-hot",
+      "code": null,
+      "name": "焼きたて肉うどん（並・温）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikuudon-large-hot",
+      "code": null,
+      "name": "焼きたて肉うどん（大・温）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikuudon-xlarge-hot",
+      "code": null,
+      "name": "焼きたて肉うどん（得・温）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-regular-hot",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（並・温）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-regular-cold",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（並・冷）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-large-hot",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（大・温）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-large-cold",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（大・冷）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-xlarge-hot",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（得・温）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "nikubukkake-xlarge-cold",
+      "code": null,
+      "name": "焼きたて肉ぶっかけうどん（得・冷）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamaage-regular-hot",
+      "code": null,
+      "name": "釜揚げうどん（並・温）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamaage-large-hot",
+      "code": null,
+      "name": "釜揚げうどん（大・温）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamaage-xlarge-hot",
+      "code": null,
+      "name": "釜揚げうどん（得・温）",
+      "nameEn": null,
+      "price": 770,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kake-small-hot",
+      "code": null,
+      "name": "かけうどん（小・温）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kake-regular-hot",
+      "code": null,
+      "name": "かけうどん（並・温）",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kake-large-hot",
+      "code": null,
+      "name": "かけうどん（大・温）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kake-xlarge-hot",
+      "code": null,
+      "name": "かけうどん（得・温）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-small-hot",
+      "code": null,
+      "name": "ぶっかけうどん（小・温）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-small-cold",
+      "code": null,
+      "name": "ぶっかけうどん（小・冷）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-regular-hot",
+      "code": null,
+      "name": "ぶっかけうどん（並・温）",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-regular-cold",
+      "code": null,
+      "name": "ぶっかけうどん（並・冷）",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-large-hot",
+      "code": null,
+      "name": "ぶっかけうどん（大・温）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-large-cold",
+      "code": null,
+      "name": "ぶっかけうどん（大・冷）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-xlarge-hot",
+      "code": null,
+      "name": "ぶっかけうどん（得・温）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bukkake-xlarge-cold",
+      "code": null,
+      "name": "ぶっかけうどん（得・冷）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zaru-regular-cold",
+      "code": null,
+      "name": "ざるうどん（並・冷）",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zaru-large-cold",
+      "code": null,
+      "name": "ざるうどん（大・冷）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zaru-xlarge-cold",
+      "code": null,
+      "name": "ざるうどん（得・冷）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamatama-regular-hot",
+      "code": null,
+      "name": "釜玉うどん（並・温）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamatama-large-hot",
+      "code": null,
+      "name": "釜玉うどん（大・温）",
+      "nameEn": null,
+      "price": 740,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kamatama-xlarge-hot",
+      "code": null,
+      "name": "釜玉うどん（得・温）",
+      "nameEn": null,
+      "price": 930,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaikamatama-regular-hot",
+      "code": null,
+      "name": "明太釜玉うどん（並・温）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaikamatama-large-hot",
+      "code": null,
+      "name": "明太釜玉うどん（大・温）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaikamatama-xlarge-hot",
+      "code": null,
+      "name": "明太釜玉うどん（得・温）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-regular-hot",
+      "code": null,
+      "name": "おろし醤油うどん（並・温）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-regular-cold",
+      "code": null,
+      "name": "おろし醤油うどん（並・冷）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-large-hot",
+      "code": null,
+      "name": "おろし醤油うどん（大・温）",
+      "nameEn": null,
+      "price": 740,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-large-cold",
+      "code": null,
+      "name": "おろし醤油うどん（大・冷）",
+      "nameEn": null,
+      "price": 740,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-xlarge-hot",
+      "code": null,
+      "name": "おろし醤油うどん（得・温）",
+      "nameEn": null,
+      "price": 930,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshisyouyu-xlarge-cold",
+      "code": null,
+      "name": "おろし醤油うどん（得・冷）",
+      "nameEn": null,
+      "price": 930,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-regular-hot",
+      "code": null,
+      "name": "とろ玉うどん（並・温）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-regular-cold",
+      "code": null,
+      "name": "とろ玉うどん（並・冷）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-large-hot",
+      "code": null,
+      "name": "とろ玉うどん（大・温）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-large-cold",
+      "code": null,
+      "name": "とろ玉うどん（大・冷）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-xlarge-hot",
+      "code": null,
+      "name": "とろ玉うどん（得・温）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "torotama-xlarge-cold",
+      "code": null,
+      "name": "とろ玉うどん（得・冷）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kitune-regular-hot",
+      "code": null,
+      "name": "きつねうどん（並・温）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kitune-large-hot",
+      "code": null,
+      "name": "きつねうどん（大・温）",
+      "nameEn": null,
+      "price": 830,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kitune-xlarge-hot",
+      "code": null,
+      "name": "きつねうどん（得・温）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "curry-regular-hot",
+      "code": null,
+      "name": "カレーうどん（並・温）",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "curry-large-hot",
+      "code": null,
+      "name": "カレーうどん（大・温）",
+      "nameEn": null,
+      "price": 850,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "curry-xlarge-hot",
+      "code": null,
+      "name": "カレーうどん（得・温）",
+      "nameEn": null,
+      "price": 1040,
+      "calorie": null,
+      "salt": null,
+      "category": "udon",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okosamamanpukusetbukkake-hot",
+      "code": null,
+      "name": "お子さま まんぷくセット（小ぶっかけうどん）（温）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "kids",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okosamamanpukusetbukkake-cold",
+      "code": null,
+      "name": "お子さま まんぷくセット（小ぶっかけうどん）（冷）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "kids",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okosamamanpukusetkake-hot",
+      "code": null,
+      "name": "お子さま まんぷくセット（小かけうどん）（温）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "kids",
+      "covers": [
+        "udon"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kashiwa",
+      "code": null,
+      "name": "かしわ天",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "yasaikakiage",
+      "code": null,
+      "name": "野菜かき揚げ",
+      "nameEn": null,
+      "price": 200,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "ebi",
+      "code": null,
+      "name": "えび天",
+      "nameEn": null,
+      "price": 200,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "ika",
+      "code": null,
+      "name": "いか天",
+      "nameEn": null,
+      "price": 190,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "chikuwa",
+      "code": null,
+      "name": "ちくわ天",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "chikuwaisobe",
+      "code": null,
+      "name": "ちくわ磯辺天",
+      "nameEn": null,
+      "price": 120,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "satsumaimo",
+      "code": null,
+      "name": "さつまいも天",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "goboukakiage",
+      "code": null,
+      "name": "ごぼうのかき揚げ",
+      "nameEn": null,
+      "price": 120,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "renkon",
+      "code": null,
+      "name": "れんこん天",
+      "nameEn": null,
+      "price": 160,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kabocha",
+      "code": null,
+      "name": "かぼちゃ天",
+      "nameEn": null,
+      "price": 150,
+      "calorie": null,
+      "salt": null,
+      "category": "tempura",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "inari",
+      "code": null,
+      "name": "いなり",
+      "nameEn": null,
+      "price": 160,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "wasabiinari",
+      "code": null,
+      "name": "わさびいなり",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "syake",
+      "code": null,
+      "name": "鮭",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "ume",
+      "code": null,
+      "name": "梅",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaiko",
+      "code": null,
+      "name": "明太子",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "konbu",
+      "code": null,
+      "name": "こんぶ",
+      "nameEn": null,
+      "price": 170,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "umeshiso",
+      "code": null,
+      "name": "梅しそ",
+      "nameEn": null,
+      "price": 120,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tendon-regular",
+      "code": null,
+      "name": "白ごはん（並）",
+      "nameEn": null,
+      "price": 180,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tendon-large",
+      "code": null,
+      "name": "白ごはん（大）",
+      "nameEn": null,
+      "price": 230,
+      "calorie": null,
+      "salt": null,
+      "category": "gohanmono",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "daikon",
+      "code": null,
+      "name": "大根おろし",
+      "nameEn": null,
+      "price": 90,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mentaiko-topping",
+      "code": null,
+      "name": "明太子",
+      "nameEn": null,
+      "price": 90,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tororo",
+      "code": null,
+      "name": "とろろ",
+      "nameEn": null,
+      "price": 90,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sudachi",
+      "code": null,
+      "name": "すだち",
+      "nameEn": null,
+      "price": 90,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "onsentamago",
+      "code": null,
+      "name": "温泉玉子",
+      "nameEn": null,
+      "price": 110,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "kitsune",
+      "code": null,
+      "name": "きつねあげ",
+      "nameEn": null,
+      "price": 200,
+      "calorie": null,
+      "salt": null,
+      "category": "topping",
+      "covers": [],
+      "requires": "udon",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

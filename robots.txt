@@ -2,6 +2,8 @@
 # AdMob が app-ads.txt を確認するときにこのファイルを見るため、置いておく（ないと「robots.txt が原因でクロールできない」になることがある）
 User-agent: *
 Allow: /
+# 「ごはん屋さんで何食べよう？」のメニュー JSON（アプリが読むもの）は検索に出さない
+Disallow: /gohan/menu/
 
 # 検索エンジンにページの一覧を伝える（sitemap.xml は jekyll-sitemap がビルドのたびに自動で作る）
 Sitemap: https://friegen.github.io/sitemap.xml

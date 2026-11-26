@@ -6,10 +6,10 @@
 ## 作業の決まり
 - ブランチは `main`。PR は作らない（ユーザーが頼んだときだけ）
 - コミットメッセージは日本語
-- 開発者の名前（ハンドルネーム）は、日本語は「**すとれん**」、英語などそれ以外は「**stren**」。本名は書かない
+- 開発者の名前は、日本語・英語とも「**friegen**」（2026-11-24 に「すとれん / stren」から戻した。ユーザーの指示）。本名・SNS で使っているハンドルネームは書かない
 - **メールアドレスはトップページ・紹介ページに載せない**（ユーザーの指示）
 - ユーザーのスクリーンショットに写った個人情報（番号・住所など）を書かない
-- 公開されていないアプリ・機能へのリンクは載せない（iOS 版は未公開。下の「片思いチェッカー」）
+- 公開されていないアプリ・機能へのリンクは載せない（iOS 版は未公開。下の「片思いチェッカー」）。例外: 「ごはん屋さんで何食べよう？」は審査前からトップページにカード（「近日公開」・紹介ページとプライバシーポリシーへのリンクだけ。Google Play のボタンは公開してから）を出している（2026-11-25 ユーザー指示）
 - 直したら、スマホの幅（390px）で横にはみ出さないこと、ライト・ダークの両方で読めることを確かめる（Playwright で表示してスクリーンショットを撮る）
   - 紹介ページの画像は `loading="lazy"`（見える所まで来たら読み込む）なので、全体のスクリーンショットはスクロールしてから撮る（撮らないと白く写る）
   - ローカルで Jekyll を動かすときは `gem install --install-dir <作業用のフォルダ> jekyll jekyll-sitemap` で入れて `jekyll build -d <出力先>`（`_site/`・`.jekyll-cache/` はコミットしない）
@@ -20,13 +20,16 @@
 | `index.html` | トップページ。Jekyll の枠を使わず、このファイルだけで完結（CSS・JavaScript も中に書いてある）。アプリを足すときは `<div class="apps">` の中に `<article class="app">` を1つ足す |
 | `_layouts/default.html` | Markdown のページ（プライバシーポリシーなど）の枠。CSS も中に書いた自前の枠（ライト・ダーク対応、上にトップページへのリンク）。標準の枠（Primer）は GitHub のプロフィールの名前を出し、ダークにも対応していないので使わない。`_config.yml` の `defaults` で全部の Markdown のページに使う |
 | `_config.yml` | サイトの題名・URL・jekyll-sitemap・公開しないファイル |
-| `robots.txt` | すべて許可＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
+| `robots.txt` | すべて許可（`/gohan/menu/` だけ禁止）＋サイトマップの場所。**消さない**（ないと AdMob が app-ads.txt を読めず「robots.txt が原因でクロールできない」になった） |
 | `app-ads.txt` | AdMob の確認用（`google.com, pub-6010304246508855, DIRECT, f08c47fec0942fa0`）。**変えない・消さない** |
 | `assets/og.jpg` | トップページの og:image（SNS で共有したときに出る画像、1200×630）。元は `tools/og-image/og.html`。作り直すときは `node tools/og-image/render.js top`（Playwright で撮る）。アプリを足したら画像の中のアプリも足す |
 | `assets/og/` | プライバシーポリシーのページの og:image。元は `tools/og-image/policy.html`（`?app=` でアプリを選ぶ）、作り直しは `node tools/og-image/render.js`（`render.js` の `JOBS` に一覧がある）。ページの先頭の設定の `image:` で指定し、`_layouts/default.html` が og のタグを出す。iOS 版のページは未公開なので付けていない |
 | `tools/` | 公開しない作業用のもの（`_config.yml` の `exclude`） |
-| `assets/apps/` | トップページに出すアプリのアイコン（192×192） |
-| `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー |
+| `assets/apps/` | トップページに出すアプリのアイコン（192×192）。ごはん屋さんは gohan_android の `app/src/main/ic_launcher-playstore.png` を縮めたもの |
+| `irodori-notes/` | いろどりメモの紹介ページ（9言語）とプライバシーポリシー、iOS 版のサポート |
+| `gohan/menu/` | 「ごはん屋さんで何食べよう？」（Android: `friegen/gohan_android`。未公開）がアプリから読むメニュー JSON。`manifest.json`（店ごとの最新版・URL・sha256・隠す印 `disabled`）と `<店>/menu-<版>.json`。**手で直さない**: gohan_android の `tools/menu/publish.py` で置く（手順は `friegen/app-idea` の `apps/gohan-gacha/menu-update.md`）。ここに `index.html` を置かない・どのページからもリンクしない。`robots.txt` の `Disallow: /gohan/menu/` を消さない。前の版は1つだけ残す |
+| `gohan/index.html`・`gohan/assets/` | 「ごはん屋さんで何食べよう？」の紹介ページ（日本語のみ）。**手で直さない**: gohan_android の `tools/lp/build.py` が作る（`python3 tools/lp/build.py ../friegen.github.io`）。アプリの共有の文章にこの URL が付く。Google Play で公開するまでは「近日公開」の札（リンクなし） |
+| `gohan/privacy-policy.md` | 「ごはん屋さんで何食べよう？」のプライバシーポリシー（日本語のみ。アプリが日本語だけのため）。元は gohan_android の `store/privacy-policy.md`（直すときは両方を直す）。トップページのカードと紹介ページからリンクしている（2026-11-25 ユーザー指示）。アプリが未公開の間は `sitemap: false`。公開したら `sitemap: false` を外す |
 | `kataomoi-bluesky/` | 片思いチェッカー for Bluesky のプライバシーポリシー（Android・iOS）、子どもの安全基準（`child-safety.md`）、iOS 版のサポート |
 
 ### 言語
@@ -38,15 +41,17 @@
 - 作り直し方（memo_android の一番上のフォルダで）: `python3 tools/lp/build.py ../friegen.github.io` → このリポジトリでコミット・push。memo_android の方の変更も memo_android でコミットする
 - SNS で共有したときの画像（`irodori-notes/assets/<lang>/og.jpg`、1200×630）の元は、memo_android の `store/<lang>/og_image.png`。`tools/store/compose.py` の `og_image()` が作る（`python3 tools/store/compose.py og` でこの画像だけ作り直せる。フォントは Noto Sans CJK で、場所は環境変数 `NOTO_CJK_DIR` でも指定できる）
 - `irodori-notes/privacy-policy.md` は手書き（日本語と英語。英語は `#irodori-notes-privacy-policy`）
+  - Android 版と iOS 版の共通のページ（アプリはどちらも `privacy-policy.html` を開く）。元の原稿は memo_ios の `docs/privacy-policy.md`（2026-11-24 に iOS の分を書き足した）。直すときは memo_android・memo_ios の `docs/privacy-policy.md` もそろえる
+- `irodori-notes/support-ios.md` は iOS 版のサポート（App Store の「サポート URL」。日本語と英語。2026-11-24）。**iOS 版は未公開**なので `sitemap: false` で、トップページからリンクしない。公開したら `sitemap: false` を外し、トップページにも App Store のボタンとサポートへのリンクを足す。メールアドレス（`friegen.apps@gmail.com`）が書いてある（片思いチェッカーの `support-ios.md` と同じアドレス。2026-11-25 に変えた。ユーザーの指示）。画面の文言・設定の項目を変えたら、このページも直す
 - Google Play: https://play.google.com/store/apps/details?id=xyz.friegen.memo
 - Google Play のボタンは文字だけ（公式のバッジ画像は使っていない。使うならユーザーに画像をもらって置く）
 
 ## 片思いチェッカー for Bluesky（Follower Checker for Bluesky）
 - Android 版は公開済み: https://play.google.com/store/apps/details?id=xyz.frigen.bsky.kataomoi （アプリ ID は `frigen`。つづりはこれで正しい）
-- `child-safety.md`（子どもの安全基準）は、Google Play の「子どもの安全基準」ポリシー（ソーシャル系のアプリに必須）の申告に使う URL。児童の性的虐待と搾取（CSAE）を明示的に禁止すること・アプリ名（または開発者名）が書いてあること・誰でも開けること（PDF は不可）が要件。消したり URL を変えたりすると Play の審査で却下される（2026-11-22 に、このページが無くて却下された）
+- `child-safety.md`（子どもの安全基準）は、Google Play の「子どもの安全基準」ポリシー（ソーシャル系のアプリに必須）の申告に使う URL。児童の性的虐待と搾取（CSAE）を明示的に禁止すること・アプリ名（または開発者名）が書いてあること・誰でも開けること（PDF は不可）が要件。消したり URL を変えたりすると Play の審査で却下される（2026-11-22 に、このページが無くて却下された）。トップページの片思いチェッカーのカードからもリンクしている（英語のときは英語の部分 `#follower-checker-for-bluesky-child-safety-standards` へ）
 - **iOS 版は未公開**。`privacy-policy-ios.md`・`support-ios.md` は App Store の審査で使うので置いてあるが、トップページからリンクせず、`sitemap: false` で検索に出していない
   - iOS 版が公開されたら: トップページのカードに「iOS」のタグ・App Store のボタン・iOS 版のサポートとプライバシーポリシーへのリンクを足し、2つのページの `sitemap: false` を外す
-  - `support-ios.md` にはメールアドレスが書いてある（App Store のサポート先として別の作業で入れたもの）。外すなら問い合わせフォームなどに置き換える
+  - `support-ios.md` にはメールアドレス（`friegen.apps@gmail.com`。2026-11-25 に変えた）が書いてある（App Store のサポート先として別の作業で入れたもの）。外すなら問い合わせフォームなどに置き換える
 
 ## 検索（SEO）
 - Google Search Console に `https://friegen.github.io/`（URL プレフィックス）を登録済み。確認は HTML タグで、**`index.html` と `_layouts/default.html` の両方の `google-site-verification` の行を消さない**（消すと確認が外れる）

@@ -1,0 +1,2633 @@
+{
+  "schemaVersion": 1,
+  "chain": "ikinari-steak",
+  "version": "2026.11.23",
+  "source": "公式サイトのメニュー（レストラン）・栄養成分表（2026年10月23日現在）・キャンペーンのお知らせ",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "lunch-wild-150",
+      "code": null,
+      "name": "ランチ ワイルドステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1950,
+      "calorie": 862,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-wild-200",
+      "code": null,
+      "name": "ランチ ワイルドステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2430,
+      "calorie": 1009,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-wild-300",
+      "code": null,
+      "name": "ランチ ワイルドステーキ 300g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3160,
+      "calorie": 1275,
+      "salt": 4.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-wild-450",
+      "code": null,
+      "name": "ランチ ワイルドステーキ 450g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 4130,
+      "calorie": 1674,
+      "salt": 5.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-katarosu-150",
+      "code": null,
+      "name": "ランチ 赤身！肩ロースステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1690,
+      "calorie": 780,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-katarosu-200",
+      "code": null,
+      "name": "ランチ 赤身！肩ロースステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2100,
+      "calorie": 899,
+      "salt": 3.4,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-katarosu-300",
+      "code": null,
+      "name": "ランチ 赤身！肩ロースステーキ 300g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2710,
+      "calorie": 1110,
+      "salt": 4.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-katarosu-450",
+      "code": null,
+      "name": "ランチ 赤身！肩ロースステーキ 450g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3540,
+      "calorie": 1426,
+      "salt": 5.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-blade-150",
+      "code": null,
+      "name": "ランチ ブレードミートステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1820,
+      "calorie": 790,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-blade-200",
+      "code": null,
+      "name": "ランチ ブレードミートステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2270,
+      "calorie": 913,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-blade-300",
+      "code": null,
+      "name": "ランチ ブレードミートステーキ 300g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2940,
+      "calorie": 1131,
+      "salt": 4.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-blade-450",
+      "code": null,
+      "name": "ランチ ブレードミートステーキ 450g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3840,
+      "calorie": 1458,
+      "salt": 5.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hamburg-150",
+      "code": null,
+      "name": "ランチ ワイルドハンバーグ 150g（オニオンソース付き）（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1460,
+      "calorie": 918,
+      "salt": 3.1,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hamburg-200",
+      "code": null,
+      "name": "ランチ ワイルドハンバーグ 200g（オニオンソース付き）（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1590,
+      "calorie": 1083,
+      "salt": 3.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hamburg-300",
+      "code": null,
+      "name": "ランチ ワイルドハンバーグ 300g（オニオンソース付き）（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1840,
+      "calorie": 1386,
+      "salt": 4.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-combo-80-100",
+      "code": null,
+      "name": "ランチ ワイルドコンボ ステーキ80g＋ハンバーグ100g（オニオンソース付き）（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1680,
+      "calorie": 993,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-combo-100-150",
+      "code": null,
+      "name": "ランチ ワイルドコンボ ステーキ100g＋ハンバーグ150g（オニオンソース付き）（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2070,
+      "calorie": 1197,
+      "salt": 4.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-chicken-220",
+      "code": null,
+      "name": "ランチ グリルチキンステーキ 220g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 1410,
+      "calorie": 811,
+      "salt": 5.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-chicken-440",
+      "code": null,
+      "name": "ランチ グリルチキンステーキ 440g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2080,
+      "calorie": 1172,
+      "salt": 9.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-ribrosu-150",
+      "code": null,
+      "name": "ランチ リブロースステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2440,
+      "calorie": 807,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-ribrosu-200",
+      "code": null,
+      "name": "ランチ リブロースステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3180,
+      "calorie": 928,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-ribrosu-300",
+      "code": null,
+      "name": "ランチ リブロースステーキ 300g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 4650,
+      "calorie": 1143,
+      "salt": 4.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hire-150",
+      "code": null,
+      "name": "ランチ 特選ヒレステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3070,
+      "calorie": 731,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hire-200",
+      "code": null,
+      "name": "ランチ 特選ヒレステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 4010,
+      "calorie": 826,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hirecut-100",
+      "code": null,
+      "name": "ランチ ヒレカットステーキ 100g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2010,
+      "calorie": 649,
+      "salt": 2.4,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-hirecut-150",
+      "code": null,
+      "name": "ランチ ヒレカットステーキ 150g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2900,
+      "calorie": 731,
+      "salt": 2.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-rangiri-120",
+      "code": null,
+      "name": "ランチ 乱切りカットステーキ 120g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2070,
+      "calorie": 741,
+      "salt": 2.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-rangiri-160",
+      "code": null,
+      "name": "ランチ 乱切りカットステーキ 160g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2490,
+      "calorie": 827,
+      "salt": 2.9,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-rangiri-200",
+      "code": null,
+      "name": "ランチ 乱切りカットステーキ 200g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 2920,
+      "calorie": 926,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-rangiri-240",
+      "code": null,
+      "name": "ランチ 乱切りカットステーキ 240g（ライス・サラダ・スープ付）",
+      "nameEn": null,
+      "price": 3350,
+      "calorie": 1012,
+      "salt": 3.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-set",
+      "code": null,
+      "name": "ランチセット（ライス・サラダ・スープ）",
+      "nameEn": null,
+      "price": 240,
+      "calorie": 414,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-curry",
+      "code": null,
+      "name": "ランチミニカレーライス",
+      "nameEn": null,
+      "price": 460,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-salad",
+      "code": null,
+      "name": "ランチサラダ",
+      "nameEn": null,
+      "price": 160,
+      "calorie": 7,
+      "salt": 0.0,
+      "category": "side",
+      "covers": [
+        "salad"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-soup",
+      "code": null,
+      "name": "ランチ特製スープ",
+      "nameEn": null,
+      "price": 140,
+      "calorie": 17,
+      "salt": 1.2,
+      "category": "side",
+      "covers": [
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-rice",
+      "code": null,
+      "name": "ランチライス（おかわり無料）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": 250,
+      "salt": 0.0,
+      "category": "side",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-wild-150",
+      "code": null,
+      "name": "ワイルドステーキ 150g",
+      "nameEn": null,
+      "price": 1710,
+      "calorie": 448,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-wild-200",
+      "code": null,
+      "name": "ワイルドステーキ 200g",
+      "nameEn": null,
+      "price": 2190,
+      "calorie": 595,
+      "salt": 2.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-wild-300",
+      "code": null,
+      "name": "ワイルドステーキ 300g",
+      "nameEn": null,
+      "price": 2920,
+      "calorie": 861,
+      "salt": 3.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-wild-450",
+      "code": null,
+      "name": "ワイルドステーキ 450g",
+      "nameEn": null,
+      "price": 3890,
+      "calorie": 1260,
+      "salt": 4.3,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-katarosu-150",
+      "code": null,
+      "name": "赤身！肩ロースステーキ 150g",
+      "nameEn": null,
+      "price": 1450,
+      "calorie": 366,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-katarosu-200",
+      "code": null,
+      "name": "赤身！肩ロースステーキ 200g",
+      "nameEn": null,
+      "price": 1860,
+      "calorie": 485,
+      "salt": 2.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-katarosu-300",
+      "code": null,
+      "name": "赤身！肩ロースステーキ 300g",
+      "nameEn": null,
+      "price": 2470,
+      "calorie": 696,
+      "salt": 3.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-katarosu-450",
+      "code": null,
+      "name": "赤身！肩ロースステーキ 450g",
+      "nameEn": null,
+      "price": 3300,
+      "calorie": 1012,
+      "salt": 4.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-blade-150",
+      "code": null,
+      "name": "ブレードミートステーキ 150g",
+      "nameEn": null,
+      "price": 1580,
+      "calorie": 376,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-blade-200",
+      "code": null,
+      "name": "ブレードミートステーキ 200g",
+      "nameEn": null,
+      "price": 2030,
+      "calorie": 499,
+      "salt": 2.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-blade-300",
+      "code": null,
+      "name": "ブレードミートステーキ 300g",
+      "nameEn": null,
+      "price": 2700,
+      "calorie": 717,
+      "salt": 3.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-blade-450",
+      "code": null,
+      "name": "ブレードミートステーキ 450g",
+      "nameEn": null,
+      "price": 3600,
+      "calorie": 1044,
+      "salt": 4.3,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-ribrosu-150",
+      "code": null,
+      "name": "リブロースステーキ 150g",
+      "nameEn": null,
+      "price": 2200,
+      "calorie": 393,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-ribrosu-200",
+      "code": null,
+      "name": "リブロースステーキ 200g",
+      "nameEn": null,
+      "price": 2940,
+      "calorie": 514,
+      "salt": 2.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-ribrosu-300",
+      "code": null,
+      "name": "リブロースステーキ 300g",
+      "nameEn": null,
+      "price": 4410,
+      "calorie": 729,
+      "salt": 3.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-ribrosu-400",
+      "code": null,
+      "name": "リブロースステーキ 400g",
+      "nameEn": null,
+      "price": 5880,
+      "calorie": 944,
+      "salt": 3.9,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hire-150",
+      "code": null,
+      "name": "特選ヒレステーキ 150g",
+      "nameEn": null,
+      "price": 2830,
+      "calorie": 317,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hire-200",
+      "code": null,
+      "name": "特選ヒレステーキ 200g",
+      "nameEn": null,
+      "price": 3770,
+      "calorie": 412,
+      "salt": 2.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hire-250",
+      "code": null,
+      "name": "特選ヒレステーキ 250g",
+      "nameEn": null,
+      "price": 4710,
+      "calorie": 494,
+      "salt": 2.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hire-300",
+      "code": null,
+      "name": "特選ヒレステーキ 300g",
+      "nameEn": null,
+      "price": 5650,
+      "calorie": 576,
+      "salt": 3.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hirecut-100",
+      "code": null,
+      "name": "ヒレカットステーキ 100g",
+      "nameEn": null,
+      "price": 1770,
+      "calorie": 235,
+      "salt": 1.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hirecut-150",
+      "code": null,
+      "name": "ヒレカットステーキ 150g",
+      "nameEn": null,
+      "price": 2660,
+      "calorie": 317,
+      "salt": 1.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hamburg-150",
+      "code": null,
+      "name": "ワイルドハンバーグ 150g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 504,
+      "salt": 1.9,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hamburg-200",
+      "code": null,
+      "name": "ワイルドハンバーグ 200g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 1350,
+      "calorie": 669,
+      "salt": 2.5,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hamburg-300",
+      "code": null,
+      "name": "ワイルドハンバーグ 300g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 1600,
+      "calorie": 972,
+      "salt": 3.6,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-combo-100-150",
+      "code": null,
+      "name": "ワイルドコンボ ステーキ100g＋ハンバーグ150g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 783,
+      "salt": 2.8,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-combo-150-150",
+      "code": null,
+      "name": "ワイルドコンボ ステーキ150g＋ハンバーグ150g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 2250,
+      "calorie": 916,
+      "salt": 3.3,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-combo-300-150",
+      "code": null,
+      "name": "ワイルドコンボ ステーキ300g＋ハンバーグ150g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 3090,
+      "calorie": 1329,
+      "salt": 4.7,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-rangiri-120",
+      "code": null,
+      "name": "乱切りカットステーキ 120g",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 327,
+      "salt": 1.3,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-rangiri-160",
+      "code": null,
+      "name": "乱切りカットステーキ 160g",
+      "nameEn": null,
+      "price": 2250,
+      "calorie": 413,
+      "salt": 1.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-rangiri-200",
+      "code": null,
+      "name": "乱切りカットステーキ 200g",
+      "nameEn": null,
+      "price": 2680,
+      "calorie": 512,
+      "salt": 2.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-rangiri-240",
+      "code": null,
+      "name": "乱切りカットステーキ 240g",
+      "nameEn": null,
+      "price": 3110,
+      "calorie": 598,
+      "salt": 2.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-chicken-220",
+      "code": null,
+      "name": "グリルチキンステーキ 220g",
+      "nameEn": null,
+      "price": 1170,
+      "calorie": 397,
+      "salt": 4.0,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-chicken-440",
+      "code": null,
+      "name": "グリルチキンステーキ 440g",
+      "nameEn": null,
+      "price": 1840,
+      "calorie": 758,
+      "salt": 7.8,
+      "category": "hamburg",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-steakju-150",
+      "code": null,
+      "name": "ステーキ重 150g",
+      "nameEn": null,
+      "price": 1740,
+      "calorie": 781,
+      "salt": 2.7,
+      "category": "rice_bowl",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-hirejyu-100",
+      "code": null,
+      "name": "ヒレステーキ重 100g",
+      "nameEn": null,
+      "price": 2040,
+      "calorie": 544,
+      "salt": 2.2,
+      "category": "rice_bowl",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-curry",
+      "code": null,
+      "name": "ミニカレーライスセット（ミニカレーライス・サラダ・スープ）",
+      "nameEn": null,
+      "price": 810,
+      "calorie": 549,
+      "salt": 2.8,
+      "category": "set",
+      "covers": [
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-ikinari",
+      "code": null,
+      "name": "いきなりセット（ライス・サラダ・スープ）",
+      "nameEn": null,
+      "price": 570,
+      "calorie": 414,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "rice",
+        "salad",
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-rice-salad",
+      "code": null,
+      "name": "ライス＆サラダセット",
+      "nameEn": null,
+      "price": 510,
+      "calorie": 397,
+      "salt": 0.0,
+      "category": "set",
+      "covers": [
+        "rice",
+        "salad"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-rice-soup",
+      "code": null,
+      "name": "ライス＆スープセット",
+      "nameEn": null,
+      "price": 510,
+      "calorie": 407,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "rice",
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-rice",
+      "code": null,
+      "name": "ライス（おかわり無料）",
+      "nameEn": null,
+      "price": 330,
+      "calorie": 250,
+      "salt": 0.0,
+      "category": "side",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-curry",
+      "code": null,
+      "name": "ミニカレーライス",
+      "nameEn": null,
+      "price": 580,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-salad",
+      "code": null,
+      "name": "サラダ",
+      "nameEn": null,
+      "price": 260,
+      "calorie": 7,
+      "salt": 0.0,
+      "category": "side",
+      "covers": [
+        "salad"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-soup",
+      "code": null,
+      "name": "特製スープ",
+      "nameEn": null,
+      "price": 230,
+      "calorie": 17,
+      "salt": 1.2,
+      "category": "side",
+      "covers": [
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-hamburg-100",
+      "code": null,
+      "name": "トッピング ハンバーグ 100g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 480,
+      "calorie": 316,
+      "salt": 1.1,
+      "category": "topping",
+      "covers": [
+        "hamburg_topping"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-hamburg-150",
+      "code": null,
+      "name": "トッピング ハンバーグ 150g（オニオンソース付き）",
+      "nameEn": null,
+      "price": 710,
+      "calorie": 468,
+      "salt": 1.7,
+      "category": "topping",
+      "covers": [
+        "hamburg_topping"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-broccoli",
+      "code": null,
+      "name": "ブロッコリー",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 18,
+      "salt": 0.0,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-onion-slice",
+      "code": null,
+      "name": "オニオンスライス",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 20,
+      "salt": 0.0,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-corn",
+      "code": null,
+      "name": "コーン",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 50,
+      "salt": 0.4,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-carrot",
+      "code": null,
+      "name": "キャロット",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 31,
+      "salt": 0.1,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-mashed-potato",
+      "code": null,
+      "name": "マッシュポテト",
+      "nameEn": null,
+      "price": 180,
+      "calorie": 57,
+      "salt": 0.3,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-curry",
+      "code": null,
+      "name": "カレールー",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 135,
+      "salt": 1.6,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-cheese-sauce",
+      "code": null,
+      "name": "チーズソース",
+      "nameEn": null,
+      "price": 180,
+      "calorie": 112,
+      "salt": 1.1,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-onion-sauce",
+      "code": null,
+      "name": "オニオンソース",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 37,
+      "salt": 1.7,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-ponzu",
+      "code": null,
+      "name": "和風おろしポン酢",
+      "nameEn": null,
+      "price": 150,
+      "calorie": 27,
+      "salt": 1.5,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-beer-m",
+      "code": null,
+      "name": "生ビール（中）",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 128,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-beer-s",
+      "code": null,
+      "name": "生ビール（小）",
+      "nameEn": null,
+      "price": 460,
+      "calorie": 72,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-highball",
+      "code": null,
+      "name": "ハイボール",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 75,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-nonalcohol-beer",
+      "code": null,
+      "name": "ノンアルコールビール",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 40,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "lunch-wine",
+      "code": null,
+      "name": "ランチ グラスワイン（赤/白）",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 88,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-wine",
+      "code": null,
+      "name": "グラスワイン（赤/白）",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 88,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-kurooolong",
+      "code": null,
+      "name": "サントリー黒烏龍茶",
+      "nameEn": null,
+      "price": 430,
+      "calorie": 0,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-ikinari-oolong",
+      "code": null,
+      "name": "いきなりブランド黒烏龍茶",
+      "nameEn": null,
+      "price": 430,
+      "calorie": 10,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-redbull",
+      "code": null,
+      "name": "レッドブル",
+      "nameEn": null,
+      "price": 430,
+      "calorie": 118,
+      "salt": 0.5,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-cola",
+      "code": null,
+      "name": "コカ・コーラ",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 113,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-orange",
+      "code": null,
+      "name": "オレンジドリンク",
+      "nameEn": null,
+      "price": 240,
+      "calorie": 66,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-calpis",
+      "code": null,
+      "name": "カルピスウォーター",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 138,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-uwamisuji-150",
+      "code": null,
+      "name": "うわみすじステーキ 150g",
+      "nameEn": null,
+      "price": 1680,
+      "calorie": 374,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-uwamisuji-200",
+      "code": null,
+      "name": "うわみすじステーキ 200g",
+      "nameEn": null,
+      "price": 2140,
+      "calorie": 471,
+      "salt": 4.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-uwamisuji-300",
+      "code": null,
+      "name": "うわみすじステーキ 300g",
+      "nameEn": null,
+      "price": 2850,
+      "calorie": 639,
+      "salt": 5.4,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grand-uwamisuji-450",
+      "code": null,
+      "name": "うわみすじステーキ 450g",
+      "nameEn": null,
+      "price": 3840,
+      "calorie": 891,
+      "salt": 6.8,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

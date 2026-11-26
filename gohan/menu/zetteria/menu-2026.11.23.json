@@ -1,0 +1,2463 @@
+{
+  "schemaVersion": 1,
+  "chain": "zetteria",
+  "version": "2026.11.23",
+  "source": "公式サイトのカテゴリページ（ランチセット・ディナー限定は入れない）。カロリー・塩分は使わない",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "zeppin010002",
+      "code": null,
+      "name": "絶品ビーフバーガー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010002-set",
+      "code": null,
+      "name": "絶品ビーフバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010001",
+      "code": null,
+      "name": "絶品チーズバーガー",
+      "nameEn": null,
+      "price": 590,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010001-set",
+      "code": null,
+      "name": "絶品チーズバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 940,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010015",
+      "code": null,
+      "name": "ダブル絶品ビーフバーガー",
+      "nameEn": null,
+      "price": 740,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010015-set",
+      "code": null,
+      "name": "ダブル絶品ビーフバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 1090,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010016",
+      "code": null,
+      "name": "ダブル絶品チーズバーガー",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "zeppin010016-set",
+      "code": null,
+      "name": "ダブル絶品チーズバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020004",
+      "code": null,
+      "name": "4種のチーズバーガー",
+      "nameEn": null,
+      "price": 450,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020004-set",
+      "code": null,
+      "name": "4種のチーズバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 800,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020001",
+      "code": null,
+      "name": "えびバーガー",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020001-set",
+      "code": null,
+      "name": "えびバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020064",
+      "code": null,
+      "name": "たまてりバーガー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020064-set",
+      "code": null,
+      "name": "たまてりバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 890,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020005",
+      "code": null,
+      "name": "てりやきビーフバーガー",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020005-set",
+      "code": null,
+      "name": "てりやきビーフバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 790,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020002",
+      "code": null,
+      "name": "てりやきチキンバーガー",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020002-set",
+      "code": null,
+      "name": "てりやきチキンバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020003",
+      "code": null,
+      "name": "タルタルチキンバーガー",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020003-set",
+      "code": null,
+      "name": "タルタルチキンバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020037",
+      "code": null,
+      "name": "ハニーマスタードチキンバーガー",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020037-set",
+      "code": null,
+      "name": "ハニーマスタードチキンバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 840,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020010",
+      "code": null,
+      "name": "ハンバーガー",
+      "nameEn": null,
+      "price": 280,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020010-set",
+      "code": null,
+      "name": "ハンバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020011",
+      "code": null,
+      "name": "チーズバーガー",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020011-set",
+      "code": null,
+      "name": "チーズバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 670,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020097",
+      "code": null,
+      "name": "柚子香る舞茸竜田チキンバーガー",
+      "nameEn": null,
+      "price": 620,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020097-set",
+      "code": null,
+      "name": "柚子香る舞茸竜田チキンバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 970,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020093",
+      "code": null,
+      "name": "山葵タルタル舞茸ビーフバーガー",
+      "nameEn": null,
+      "price": 620,
+      "calorie": null,
+      "salt": null,
+      "category": "burger",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "burger020093-set",
+      "code": null,
+      "name": "山葵タルタル舞茸ビーフバーガー セット（ポテトM＋ドリンクM）",
+      "nameEn": null,
+      "price": 970,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "burger",
+        "side",
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050010",
+      "code": null,
+      "name": "まるごとプリン塩キャラメルシェーキ",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050011",
+      "code": null,
+      "name": "濃厚塩キャラメルシェーキ",
+      "nameEn": null,
+      "price": 380,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050012-s",
+      "code": null,
+      "name": "シェーキ 塩キャラメル（S）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050012-m",
+      "code": null,
+      "name": "シェーキ 塩キャラメル（M）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050013",
+      "code": null,
+      "name": "ディップチュロ塩キャラメル",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050014",
+      "code": null,
+      "name": "塩バター風味キャラメルパイ",
+      "nameEn": null,
+      "price": 260,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side24",
+      "code": null,
+      "name": "北海道産ごちそうポテトインカのめざめ",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side01-s",
+      "code": null,
+      "name": "フレンチフライポテト（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side01-m",
+      "code": null,
+      "name": "フレンチフライポテト（M）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side01-l",
+      "code": null,
+      "name": "フレンチフライポテト（L）",
+      "nameEn": null,
+      "price": 420,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side02",
+      "code": null,
+      "name": "ふるポテ",
+      "nameEn": null,
+      "price": 380,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side06-3",
+      "code": null,
+      "name": "チキンからあげっと（3個入り）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side06-6",
+      "code": null,
+      "name": "チキンからあげっと（6個入り）",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side20-3",
+      "code": null,
+      "name": "ポップコーンシュリンプ（タルタルソース）（3尾入り）",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side20-5",
+      "code": null,
+      "name": "ポップコーンシュリンプ（タルタルソース）（5尾入り）",
+      "nameEn": null,
+      "price": 490,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side08",
+      "code": null,
+      "name": "チーズスティック（2本入り）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side04",
+      "code": null,
+      "name": "サラダ",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050002",
+      "code": null,
+      "name": "コーヒーゼリーシェーキ",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050001-s",
+      "code": null,
+      "name": "シェーキ バニラ（S）",
+      "nameEn": null,
+      "price": 240,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050001-m",
+      "code": null,
+      "name": "シェーキ バニラ（M）",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050004",
+      "code": null,
+      "name": "チュロ",
+      "nameEn": null,
+      "price": 240,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050004-half",
+      "code": null,
+      "name": "チュロ（ハーフ）",
+      "nameEn": null,
+      "price": 150,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweets050005",
+      "code": null,
+      "name": "チョコチャンククッキー",
+      "nameEn": null,
+      "price": 240,
+      "calorie": null,
+      "salt": null,
+      "category": "sweets",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink22",
+      "code": null,
+      "name": "コーンスープ",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink01-s",
+      "code": null,
+      "name": "ホットコーヒー（S）",
+      "nameEn": null,
+      "price": 190,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink01-m",
+      "code": null,
+      "name": "ホットコーヒー（M）",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink02-s",
+      "code": null,
+      "name": "ホットカフェオレ（S）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink02-m",
+      "code": null,
+      "name": "ホットカフェオレ（M）",
+      "nameEn": null,
+      "price": 370,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink03-s",
+      "code": null,
+      "name": "アイスコーヒー（S）",
+      "nameEn": null,
+      "price": 190,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink03-m",
+      "code": null,
+      "name": "アイスコーヒー（M）",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink03-l",
+      "code": null,
+      "name": "アイスコーヒー（L）",
+      "nameEn": null,
+      "price": 370,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink04-s",
+      "code": null,
+      "name": "アイスカフェオレ（S）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink04-m",
+      "code": null,
+      "name": "アイスカフェオレ（M）",
+      "nameEn": null,
+      "price": 370,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink04-l",
+      "code": null,
+      "name": "アイスカフェオレ（L）",
+      "nameEn": null,
+      "price": 420,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink05",
+      "code": null,
+      "name": "ダージリンホットティー",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink06-s",
+      "code": null,
+      "name": "アールグレイアイスティー（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink06-m",
+      "code": null,
+      "name": "アールグレイアイスティー（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink06-l",
+      "code": null,
+      "name": "アールグレイアイスティー（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink07-s",
+      "code": null,
+      "name": "ペプシコーラ（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink07-m",
+      "code": null,
+      "name": "ペプシコーラ（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink07-l",
+      "code": null,
+      "name": "ペプシコーラ（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink08-s",
+      "code": null,
+      "name": "ペプシ ゼロ（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink08-m",
+      "code": null,
+      "name": "ペプシ ゼロ（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink08-l",
+      "code": null,
+      "name": "ペプシ ゼロ（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink09-s",
+      "code": null,
+      "name": "メロンソーダ（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink09-m",
+      "code": null,
+      "name": "メロンソーダ（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink09-l",
+      "code": null,
+      "name": "メロンソーダ（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink10-s",
+      "code": null,
+      "name": "ゆずレモンソーダ（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink10-m",
+      "code": null,
+      "name": "ゆずレモンソーダ（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink10-l",
+      "code": null,
+      "name": "ゆずレモンソーダ（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink25-s",
+      "code": null,
+      "name": "ジンジャーエール（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink25-m",
+      "code": null,
+      "name": "ジンジャーエール（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink25-l",
+      "code": null,
+      "name": "ジンジャーエール（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink11-s",
+      "code": null,
+      "name": "まろやか緑茶（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink11-m",
+      "code": null,
+      "name": "まろやか緑茶（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink11-l",
+      "code": null,
+      "name": "まろやか緑茶（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink12-s",
+      "code": null,
+      "name": "なっちゃんオレンジ（S）",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink12-m",
+      "code": null,
+      "name": "なっちゃんオレンジ（M）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink12-l",
+      "code": null,
+      "name": "なっちゃんオレンジ（L）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink14",
+      "code": null,
+      "name": "ミルク",
+      "nameEn": null,
+      "price": 320,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink15",
+      "code": null,
+      "name": "野菜生活100オリジナル",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink16",
+      "code": null,
+      "name": "100％アップルジュース",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink17",
+      "code": null,
+      "name": "100％ぶどうジュース",
+      "nameEn": null,
+      "price": 250,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning32",
+      "code": null,
+      "name": "モーニングエッグマフィン",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning31",
+      "code": null,
+      "name": "モーニングマフィン",
+      "nameEn": null,
+      "price": 340,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning37",
+      "code": null,
+      "name": "シンプルマフィン",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning02",
+      "code": null,
+      "name": "ソーセージエッグマフィン",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning01",
+      "code": null,
+      "name": "ソーセージマフィン",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning29",
+      "code": null,
+      "name": "モーニングハンバーガー",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning26",
+      "code": null,
+      "name": "ベーコンエッグサンド",
+      "nameEn": null,
+      "price": 290,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning25",
+      "code": null,
+      "name": "BLTエッグサンド",
+      "nameEn": null,
+      "price": 390,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "burger"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning33",
+      "code": null,
+      "name": "ハッシュポテト",
+      "nameEn": null,
+      "price": 220,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "side"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

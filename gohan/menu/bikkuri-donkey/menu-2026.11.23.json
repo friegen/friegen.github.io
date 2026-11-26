@@ -1,0 +1,6615 @@
+{
+  "schemaVersion": 1,
+  "chain": "bikkuri-donkey",
+  "version": "2026.11.23",
+  "source": "公式サイトの店舗別メニュー JSON（A 地域: 枚方店）＋期間限定の印（東京のページ）",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "601",
+      "code": null,
+      "name": "ガリバーバーグディッシュ レギュラー",
+      "nameEn": null,
+      "price": 1810,
+      "calorie": 1160,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "602",
+      "code": null,
+      "name": "ガリバーバーグディッシュ エッグ",
+      "nameEn": null,
+      "price": 1960,
+      "calorie": 1243,
+      "salt": 5.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "603",
+      "code": null,
+      "name": "ガリバーバーグディッシュ チーズ",
+      "nameEn": null,
+      "price": 2010,
+      "calorie": 1300,
+      "salt": 6.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "604",
+      "code": null,
+      "name": "ガリバーバーグディッシュ パイン",
+      "nameEn": null,
+      "price": 2010,
+      "calorie": 1214,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "605",
+      "code": null,
+      "name": "ガリバーバーグディッシュ おろしそ",
+      "nameEn": null,
+      "price": 1960,
+      "calorie": 1167,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "641",
+      "code": null,
+      "name": "ガリバーカリーバーグディッシュ レギュラー",
+      "nameEn": null,
+      "price": 2390,
+      "calorie": 1440,
+      "salt": 7.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "642",
+      "code": null,
+      "name": "ガリバーカリーバーグディッシュ エッグ",
+      "nameEn": null,
+      "price": 2540,
+      "calorie": 1523,
+      "salt": 7.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "644",
+      "code": null,
+      "name": "ガリバーカリーバーグディッシュ パイン",
+      "nameEn": null,
+      "price": 2590,
+      "calorie": 1495,
+      "salt": 7.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "705",
+      "code": null,
+      "name": "ガリバーポテサラパケットディッシュ",
+      "nameEn": null,
+      "price": 2430,
+      "calorie": 1536,
+      "salt": 6.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "608",
+      "code": null,
+      "name": "ガリバーWチーズバーグディッシュ",
+      "nameEn": null,
+      "price": 2210,
+      "calorie": 1441,
+      "salt": 7.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "706",
+      "code": null,
+      "name": "ガリバーフォンデュ風チーズバーグディッシュ",
+      "nameEn": null,
+      "price": 2350,
+      "calorie": 1473,
+      "salt": 7.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "707",
+      "code": null,
+      "name": "モンスターガリバーバーグディッシュ",
+      "nameEn": null,
+      "price": 4420,
+      "calorie": null,
+      "salt": null,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1601",
+      "code": null,
+      "name": "ガリバーバーグステーキ レギュラー",
+      "nameEn": null,
+      "price": 1630,
+      "calorie": 745,
+      "salt": 5.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1602",
+      "code": null,
+      "name": "ガリバーバーグステーキ エッグ",
+      "nameEn": null,
+      "price": 1780,
+      "calorie": 828,
+      "salt": 5.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1603",
+      "code": null,
+      "name": "ガリバーバーグステーキ チーズ",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 886,
+      "salt": 6.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1604",
+      "code": null,
+      "name": "ガリバーバーグステーキ パイン",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 800,
+      "salt": 5.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1605",
+      "code": null,
+      "name": "ガリバーバーグステーキ おろしそ",
+      "nameEn": null,
+      "price": 1780,
+      "calorie": 753,
+      "salt": 5.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5141",
+      "code": null,
+      "name": "ガリバーフライドポテト",
+      "nameEn": null,
+      "price": 860,
+      "calorie": 1339,
+      "salt": 7.7,
+      "category": "side",
+      "covers": [
+        "potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5157",
+      "code": null,
+      "name": "ガリバースパイシーポテト",
+      "nameEn": null,
+      "price": 960,
+      "calorie": 1344,
+      "salt": 6.6,
+      "category": "side",
+      "covers": [
+        "spicy_potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20169",
+      "code": null,
+      "name": "ガリバーサラダ",
+      "nameEn": null,
+      "price": 680,
+      "calorie": 464,
+      "salt": 1.7,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "42631",
+      "code": null,
+      "name": "ガリバーイチゴミルク",
+      "nameEn": null,
+      "price": 990,
+      "calorie": 723,
+      "salt": 0.4,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30333",
+      "code": null,
+      "name": "ガリバーショコラパフェ",
+      "nameEn": null,
+      "price": 3000,
+      "calorie": 1815,
+      "salt": 1.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25123",
+      "code": null,
+      "name": "ガリバーライス",
+      "nameEn": null,
+      "price": 660,
+      "calorie": 1008,
+      "salt": 0.0,
+      "category": "rice_set",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30337",
+      "code": null,
+      "name": "おいもパフェ",
+      "nameEn": null,
+      "price": 890,
+      "calorie": 338,
+      "salt": 0.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30360",
+      "code": null,
+      "name": "おいもサンデー",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 308,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30339",
+      "code": null,
+      "name": "フライドスイートポテト",
+      "nameEn": null,
+      "price": 890,
+      "calorie": 362,
+      "salt": 0.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30340",
+      "code": null,
+      "name": "ジョッキパフェ(おいも)",
+      "nameEn": null,
+      "price": 1590,
+      "calorie": 1010,
+      "salt": 0.5,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5130",
+      "code": null,
+      "name": "さくさくイカ唐揚げ",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 388,
+      "salt": 2.4,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40028",
+      "code": null,
+      "name": "フランボワーズレッド",
+      "nameEn": null,
+      "price": 650,
+      "calorie": 211,
+      "salt": 0.1,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40089-330ml",
+      "code": null,
+      "name": "ドンキーフリー(フランボワーズ)（330ml）",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 132,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": true,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2418-ハンバーグS",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキ（ハンバーグS）",
+      "nameEn": null,
+      "price": 1980,
+      "calorie": 418,
+      "salt": 3.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2418-ハンバーグM",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキ（ハンバーグM）",
+      "nameEn": null,
+      "price": 2200,
+      "calorie": 510,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2418-ハンバーグL",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキ（ハンバーグL）",
+      "nameEn": null,
+      "price": 2540,
+      "calorie": 684,
+      "salt": 5.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2421",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）",
+      "nameEn": null,
+      "price": 2540,
+      "calorie": 252,
+      "salt": 2.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3300",
+      "code": null,
+      "name": "乳･小麦･卵を使わないハンバーグ",
+      "nameEn": null,
+      "price": 930,
+      "calorie": 766,
+      "salt": 2.8,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4384-S",
+      "code": null,
+      "name": "チーズダッカルビ風バーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1360,
+      "calorie": 889,
+      "salt": 2.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4384-M",
+      "code": null,
+      "name": "チーズダッカルビ風バーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1580,
+      "calorie": 980,
+      "salt": 3.4,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4384-L",
+      "code": null,
+      "name": "チーズダッカルビ風バーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1920,
+      "calorie": 1155,
+      "salt": 4.4,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25210",
+      "code": null,
+      "name": "サラダ・みそ汁セット",
+      "nameEn": null,
+      "price": 560,
+      "calorie": null,
+      "salt": null,
+      "category": "rice_set",
+      "covers": [
+        "soup",
+        "dish_salad"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "26079",
+      "code": null,
+      "name": "ドンキーセット",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 504,
+      "salt": 2.3,
+      "category": "rice_set",
+      "covers": [
+        "rice",
+        "soup",
+        "dish_salad"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4602-ハンバーグS",
+      "code": null,
+      "name": "ガーリックチキン＆ハンバーグステーキ（ハンバーグS）",
+      "nameEn": null,
+      "price": 1510,
+      "calorie": 594,
+      "salt": 5.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4602-ハンバーグM",
+      "code": null,
+      "name": "ガーリックチキン＆ハンバーグステーキ（ハンバーグM）",
+      "nameEn": null,
+      "price": 1730,
+      "calorie": 685,
+      "salt": 6.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4602-ハンバーグL",
+      "code": null,
+      "name": "ガーリックチキン＆ハンバーグステーキ（ハンバーグL）",
+      "nameEn": null,
+      "price": 2070,
+      "calorie": 860,
+      "salt": 7.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4605",
+      "code": null,
+      "name": "ガーリックチキンステーキ",
+      "nameEn": null,
+      "price": 1510,
+      "calorie": 457,
+      "salt": 4.4,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41132",
+      "code": null,
+      "name": "ホットコーヒー(シングルオリジン)",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 5,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41133",
+      "code": null,
+      "name": "ホットコーヒー(ブレンド)",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 5,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41122",
+      "code": null,
+      "name": "ホットカフェラテ",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 115,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41134-S",
+      "code": null,
+      "name": "アイスコーヒー(シングルオリジン)（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 6,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41134-L",
+      "code": null,
+      "name": "アイスコーヒー(シングルオリジン)（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 9,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41134-びっくり",
+      "code": null,
+      "name": "アイスコーヒー(シングルオリジン)（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 15,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41135-S",
+      "code": null,
+      "name": "アイスコーヒー(ブレンド)（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 6,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41135-L",
+      "code": null,
+      "name": "アイスコーヒー(ブレンド)（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 9,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41135-びっくり",
+      "code": null,
+      "name": "アイスコーヒー(ブレンド)（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 15,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41145-S",
+      "code": null,
+      "name": "アイスカフェラテ（S）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 115,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41145-L",
+      "code": null,
+      "name": "アイスカフェラテ（L）",
+      "nameEn": null,
+      "price": 440,
+      "calorie": 146,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41145-びっくり",
+      "code": null,
+      "name": "アイスカフェラテ（びっくり）",
+      "nameEn": null,
+      "price": 630,
+      "calorie": 291,
+      "salt": 0.4,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41138-S",
+      "code": null,
+      "name": "アイスクリーミーラテ（S）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": 327,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41138-L",
+      "code": null,
+      "name": "アイスクリーミーラテ（L）",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 472,
+      "salt": 0.3,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4377-S",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1480,
+      "calorie": 979,
+      "salt": 3.6,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4377-M",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1700,
+      "calorie": 1070,
+      "salt": 4.1,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4377-L",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 2040,
+      "calorie": 1245,
+      "salt": 5.1,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25136",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（目玉焼き）プレーントースト",
+      "nameEn": null,
+      "price": 910,
+      "calorie": 723,
+      "salt": 2.9,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25138",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（目玉焼き）チーズトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 907,
+      "salt": 3.7,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25140",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（目玉焼き）ポテサラトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 900,
+      "salt": 3.6,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25141",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（目玉焼き）イチゴホイップトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 800,
+      "salt": 2.8,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25135",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（スクランブルエッグ）プレーントースト",
+      "nameEn": null,
+      "price": 910,
+      "calorie": 702,
+      "salt": 3.0,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25137",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（スクランブルエッグ）チーズトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 886,
+      "salt": 3.8,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25139",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（スクランブルエッグ）ポテサラトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 879,
+      "salt": 3.7,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25142",
+      "code": null,
+      "name": "ドンキースペシャルブレックファスト（スクランブルエッグ）イチゴホイップトースト",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 778,
+      "salt": 2.9,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1-S",
+      "code": null,
+      "name": "レギュラーバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 930,
+      "calorie": 723,
+      "salt": 2.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1-M",
+      "code": null,
+      "name": "レギュラーバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1150,
+      "calorie": 814,
+      "salt": 2.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1-L",
+      "code": null,
+      "name": "レギュラーバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 996,
+      "salt": 4.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1187-S",
+      "code": null,
+      "name": "レギュラーバーグステーキ（S）",
+      "nameEn": null,
+      "price": 750,
+      "calorie": 316,
+      "salt": 2.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1187-M",
+      "code": null,
+      "name": "レギュラーバーグステーキ（M）",
+      "nameEn": null,
+      "price": 970,
+      "calorie": 407,
+      "salt": 3.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1187-L",
+      "code": null,
+      "name": "レギュラーバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1310,
+      "calorie": 582,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3301",
+      "code": null,
+      "name": "乳･小麦･卵を使わないハンバーグ(ライス・サラダ小盛)",
+      "nameEn": null,
+      "price": 720,
+      "calorie": 592,
+      "salt": 2.8,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5154-S",
+      "code": null,
+      "name": "びっくりフライドポテト（S）",
+      "nameEn": null,
+      "price": 350,
+      "calorie": 449,
+      "salt": 2.6,
+      "category": "side",
+      "covers": [
+        "potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5154-L",
+      "code": null,
+      "name": "びっくりフライドポテト（L）",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 685,
+      "salt": 4.4,
+      "category": "side",
+      "covers": [
+        "potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25101",
+      "code": null,
+      "name": "ミニマムレギュラーバーグディッシュ",
+      "nameEn": null,
+      "price": 640,
+      "calorie": 409,
+      "salt": 1.7,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5162-S",
+      "code": null,
+      "name": "スパイシーポテト（S）",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 450,
+      "salt": 2.3,
+      "category": "side",
+      "covers": [
+        "spicy_potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5162-L",
+      "code": null,
+      "name": "スパイシーポテト（L）",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 687,
+      "salt": 3.8,
+      "category": "side",
+      "covers": [
+        "spicy_potato"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2-S",
+      "code": null,
+      "name": "エッグバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 806,
+      "salt": 2.6,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2-M",
+      "code": null,
+      "name": "エッグバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1300,
+      "calorie": 897,
+      "salt": 3.1,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2-L",
+      "code": null,
+      "name": "エッグバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1640,
+      "calorie": 1079,
+      "salt": 4.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1188-S",
+      "code": null,
+      "name": "エッグバーグステーキ（S）",
+      "nameEn": null,
+      "price": 900,
+      "calorie": 399,
+      "salt": 2.8,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1188-M",
+      "code": null,
+      "name": "エッグバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 490,
+      "salt": 3.3,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1188-L",
+      "code": null,
+      "name": "エッグバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1460,
+      "calorie": 665,
+      "salt": 4.3,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5139",
+      "code": null,
+      "name": "ザンギ＆ポテト",
+      "nameEn": null,
+      "price": 650,
+      "calorie": 816,
+      "salt": 5.6,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20176-S",
+      "code": null,
+      "name": "シーザーサラダ（S）",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 178,
+      "salt": 1.0,
+      "category": "salad",
+      "covers": [
+        "caesar_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20176-L",
+      "code": null,
+      "name": "シーザーサラダ（L）",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 357,
+      "salt": 2.0,
+      "category": "salad",
+      "covers": [
+        "caesar_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20177-S",
+      "code": null,
+      "name": "ネギ塩サラダ（S）",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 77,
+      "salt": 0.9,
+      "category": "salad",
+      "covers": [
+        "negishio_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20177-L",
+      "code": null,
+      "name": "ネギ塩サラダ（L）",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 150,
+      "salt": 1.7,
+      "category": "salad",
+      "covers": [
+        "negishio_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25103",
+      "code": null,
+      "name": "ミニマムエッグバーグディッシュ",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 492,
+      "salt": 1.9,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3-S",
+      "code": null,
+      "name": "チーズバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1130,
+      "calorie": 863,
+      "salt": 3.4,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3-M",
+      "code": null,
+      "name": "チーズバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1350,
+      "calorie": 955,
+      "salt": 3.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3-L",
+      "code": null,
+      "name": "チーズバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1690,
+      "calorie": 1137,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1189-S",
+      "code": null,
+      "name": "チーズバーグステーキ（S）",
+      "nameEn": null,
+      "price": 950,
+      "calorie": 457,
+      "salt": 3.6,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1189-M",
+      "code": null,
+      "name": "チーズバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1170,
+      "calorie": 548,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1189-L",
+      "code": null,
+      "name": "チーズバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1510,
+      "calorie": 723,
+      "salt": 5.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5163",
+      "code": null,
+      "name": "オーロラシュリンプ＆ポテト",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 671,
+      "salt": 3.2,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20175-S",
+      "code": null,
+      "name": "マーメイドサラダ（S）",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 110,
+      "salt": 1.0,
+      "category": "salad",
+      "covers": [
+        "mermaid_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20175-L",
+      "code": null,
+      "name": "マーメイドサラダ（L）",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 220,
+      "salt": 1.9,
+      "category": "salad",
+      "covers": [
+        "mermaid_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25102",
+      "code": null,
+      "name": "ミニマムチーズバーグディッシュ",
+      "nameEn": null,
+      "price": 840,
+      "calorie": 549,
+      "salt": 2.7,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4-S",
+      "code": null,
+      "name": "パインバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1130,
+      "calorie": 778,
+      "salt": 2.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4-M",
+      "code": null,
+      "name": "パインバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1350,
+      "calorie": 869,
+      "salt": 2.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4-L",
+      "code": null,
+      "name": "パインバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1690,
+      "calorie": 1051,
+      "salt": 4.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1190-S",
+      "code": null,
+      "name": "パインバーグステーキ（S）",
+      "nameEn": null,
+      "price": 950,
+      "calorie": 371,
+      "salt": 2.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1190-M",
+      "code": null,
+      "name": "パインバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1170,
+      "calorie": 462,
+      "salt": 3.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1190-L",
+      "code": null,
+      "name": "パインバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1510,
+      "calorie": 637,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20009-S",
+      "code": null,
+      "name": "ディッシュサラダ（S）",
+      "nameEn": null,
+      "price": 250,
+      "calorie": 125,
+      "salt": 0.4,
+      "category": "salad",
+      "covers": [
+        "dish_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "20009-L",
+      "code": null,
+      "name": "ディッシュサラダ（L）",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 362,
+      "salt": 1.3,
+      "category": "salad",
+      "covers": [
+        "dish_salad"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25105",
+      "code": null,
+      "name": "ミニマムパインバーグディッシュ",
+      "nameEn": null,
+      "price": 840,
+      "calorie": 464,
+      "salt": 1.7,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35003",
+      "code": null,
+      "name": "イカの箱舟",
+      "nameEn": null,
+      "price": 990,
+      "calorie": 449,
+      "salt": 1.9,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10-S",
+      "code": null,
+      "name": "おろしそバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 730,
+      "salt": 2.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10-M",
+      "code": null,
+      "name": "おろしそバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1300,
+      "calorie": 822,
+      "salt": 2.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10-L",
+      "code": null,
+      "name": "おろしそバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1640,
+      "calorie": 1004,
+      "salt": 4.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1191-S",
+      "code": null,
+      "name": "おろしそバーグステーキ（S）",
+      "nameEn": null,
+      "price": 900,
+      "calorie": 323,
+      "salt": 2.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1191-M",
+      "code": null,
+      "name": "おろしそバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 415,
+      "salt": 3.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1191-L",
+      "code": null,
+      "name": "おろしそバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1460,
+      "calorie": 589,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25104",
+      "code": null,
+      "name": "ミニマムおろしそバーグディッシュ",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 416,
+      "salt": 1.7,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35032",
+      "code": null,
+      "name": "ブロッコリーの箱舟",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 512,
+      "salt": 1.1,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35030",
+      "code": null,
+      "name": "マカロニ＆チーズ",
+      "nameEn": null,
+      "price": 590,
+      "calorie": 381,
+      "salt": 1.8,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "701-シングル",
+      "code": null,
+      "name": "ポテサラパケットディッシュ（シングル）",
+      "nameEn": null,
+      "price": 1150,
+      "calorie": 848,
+      "salt": 2.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "701-ダブル",
+      "code": null,
+      "name": "ポテサラパケットディッシュ（ダブル）",
+      "nameEn": null,
+      "price": 1940,
+      "calorie": 1236,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4226-S",
+      "code": null,
+      "name": "レギュラーバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 769,
+      "salt": 4.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4226-M",
+      "code": null,
+      "name": "レギュラーバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1290,
+      "calorie": 860,
+      "salt": 5.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4226-L",
+      "code": null,
+      "name": "レギュラーバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 1630,
+      "calorie": 1042,
+      "salt": 6.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "5122",
+      "code": null,
+      "name": "薪窯マルゲリータ",
+      "nameEn": null,
+      "price": 660,
+      "calorie": 704,
+      "salt": 4.3,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10261-ハンバーグSS",
+      "code": null,
+      "name": "ぶ〜ちゃんのおこさまランチ（ハンバーグSS）",
+      "nameEn": null,
+      "price": 640,
+      "calorie": 523,
+      "salt": 2.3,
+      "category": "kids",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25001",
+      "code": null,
+      "name": "ライス",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 336,
+      "salt": 0.0,
+      "category": "rice_set",
+      "covers": [
+        "rice"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25106",
+      "code": null,
+      "name": "ミニマムレギュラーバーグディッシュセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 750,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "42094",
+      "code": null,
+      "name": "ホットウーロン茶",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 0,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "22-S",
+      "code": null,
+      "name": "フォンデュ風チーズバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1200,
+      "calorie": 880,
+      "salt": 3.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "22-M",
+      "code": null,
+      "name": "フォンデュ風チーズバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 971,
+      "salt": 3.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "22-L",
+      "code": null,
+      "name": "フォンデュ風チーズバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1760,
+      "calorie": 1153,
+      "salt": 5.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4228-S",
+      "code": null,
+      "name": "エッグバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 852,
+      "salt": 4.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4228-M",
+      "code": null,
+      "name": "エッグバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1440,
+      "calorie": 943,
+      "salt": 5.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4228-L",
+      "code": null,
+      "name": "エッグバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 1780,
+      "calorie": 1126,
+      "salt": 6.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25108",
+      "code": null,
+      "name": "ミニマムエッグバーグディッシュセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 900,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41159-S",
+      "code": null,
+      "name": "アイスウーロン茶（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 0,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41159-L",
+      "code": null,
+      "name": "アイスウーロン茶（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 0,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41159-びっくり",
+      "code": null,
+      "name": "アイスウーロン茶（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 0,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "463-S",
+      "code": null,
+      "name": "黒デミバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1260,
+      "calorie": 773,
+      "salt": 2.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "463-M",
+      "code": null,
+      "name": "黒デミバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1480,
+      "calorie": 864,
+      "salt": 3.2,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "463-L",
+      "code": null,
+      "name": "黒デミバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1820,
+      "calorie": 1039,
+      "salt": 4.2,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4227-S",
+      "code": null,
+      "name": "チーズバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": 910,
+      "salt": 5.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4227-M",
+      "code": null,
+      "name": "チーズバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 1001,
+      "salt": 6.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4227-L",
+      "code": null,
+      "name": "チーズバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 1183,
+      "salt": 7.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25107",
+      "code": null,
+      "name": "ミニマムチーズバーグディッシュセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 950,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4230-S",
+      "code": null,
+      "name": "パインバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1270,
+      "calorie": 824,
+      "salt": 4.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4230-M",
+      "code": null,
+      "name": "パインバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1490,
+      "calorie": 915,
+      "salt": 5.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4230-L",
+      "code": null,
+      "name": "パインバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 1830,
+      "calorie": 1097,
+      "salt": 6.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25110",
+      "code": null,
+      "name": "ミニマムパインバーグディッシュセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 950,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4229-S",
+      "code": null,
+      "name": "おろしそバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 777,
+      "salt": 4.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4229-M",
+      "code": null,
+      "name": "おろしそバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1440,
+      "calorie": 868,
+      "salt": 5.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4229-L",
+      "code": null,
+      "name": "おろしそバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 1780,
+      "calorie": 1050,
+      "salt": 6.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25109",
+      "code": null,
+      "name": "ミニマムおろしそバーグディッシュセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 900,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30353",
+      "code": null,
+      "name": "シナモンロールセット",
+      "nameEn": null,
+      "price": 660,
+      "calorie": 369,
+      "salt": 0.5,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "16-S",
+      "code": null,
+      "name": "カリーバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 863,
+      "salt": 3.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "16-M",
+      "code": null,
+      "name": "カリーバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1440,
+      "calorie": 954,
+      "salt": 3.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "16-L",
+      "code": null,
+      "name": "カリーバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1780,
+      "calorie": 1129,
+      "salt": 4.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1192-S",
+      "code": null,
+      "name": "フォンデュ風チーズバーグステーキ（S）",
+      "nameEn": null,
+      "price": 1020,
+      "calorie": 521,
+      "salt": 4.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1192-M",
+      "code": null,
+      "name": "フォンデュ風チーズバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1240,
+      "calorie": 612,
+      "salt": 4.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1192-L",
+      "code": null,
+      "name": "フォンデュ風チーズバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1580,
+      "calorie": 787,
+      "salt": 5.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1954",
+      "code": null,
+      "name": "チーズソース(ホワイト)",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 157,
+      "salt": 1.0,
+      "category": "side",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4540-S",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュランチ（みそ汁付）（S）",
+      "nameEn": null,
+      "price": 1620,
+      "calorie": 1021,
+      "salt": 5.4,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4540-M",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュランチ（みそ汁付）（M）",
+      "nameEn": null,
+      "price": 1840,
+      "calorie": 1113,
+      "salt": 6.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4540-L",
+      "code": null,
+      "name": "オムデミチーズバーグディッシュランチ（みそ汁付）（L）",
+      "nameEn": null,
+      "price": 2180,
+      "calorie": 1287,
+      "salt": 7.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "16001",
+      "code": null,
+      "name": "みそ汁",
+      "nameEn": null,
+      "price": 190,
+      "calorie": 43,
+      "salt": 1.9,
+      "category": "rice_set",
+      "covers": [
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25038",
+      "code": null,
+      "name": "プレーントーストセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 410,
+      "calorie": 403,
+      "salt": 1.9,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35180",
+      "code": null,
+      "name": "ビバ！ミートスパ",
+      "nameEn": null,
+      "price": 790,
+      "calorie": 536,
+      "salt": 2.6,
+      "category": "light",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41170-S",
+      "code": null,
+      "name": "イチゴミルク（S）",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 291,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41170-L",
+      "code": null,
+      "name": "イチゴミルク（L）",
+      "nameEn": null,
+      "price": 670,
+      "calorie": 440,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41183-S",
+      "code": null,
+      "name": "イチゴミルクソフトフロート（S）",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 356,
+      "salt": 0.2,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41183-L",
+      "code": null,
+      "name": "イチゴミルクソフトフロート（L）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": 505,
+      "salt": 0.3,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "17-S",
+      "code": null,
+      "name": "エッグカリーバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1370,
+      "calorie": 946,
+      "salt": 3.6,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "17-M",
+      "code": null,
+      "name": "エッグカリーバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1590,
+      "calorie": 1037,
+      "salt": 4.1,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "17-L",
+      "code": null,
+      "name": "エッグカリーバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1930,
+      "calorie": 1212,
+      "salt": 5.1,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1193-S",
+      "code": null,
+      "name": "黒デミバーグステーキ（S）",
+      "nameEn": null,
+      "price": 1080,
+      "calorie": 358,
+      "salt": 2.5,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1193-M",
+      "code": null,
+      "name": "黒デミバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1300,
+      "calorie": 450,
+      "salt": 3.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1193-L",
+      "code": null,
+      "name": "黒デミバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1640,
+      "calorie": 624,
+      "salt": 4.0,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "15028",
+      "code": null,
+      "name": "コーンスープ",
+      "nameEn": null,
+      "price": 300,
+      "calorie": 98,
+      "salt": 0.7,
+      "category": "rice_set",
+      "covers": [
+        "soup"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25043",
+      "code": null,
+      "name": "チーズトーストセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 587,
+      "salt": 2.7,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25112",
+      "code": null,
+      "name": "カリーソース",
+      "nameEn": null,
+      "price": 290,
+      "calorie": 147,
+      "salt": 1.4,
+      "category": "side",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30362",
+      "code": null,
+      "name": "珈琲パフェ",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 391,
+      "salt": 0.3,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41175-S",
+      "code": null,
+      "name": "いきいき乳酸菌ヨーデル（S）",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 266,
+      "salt": 0.3,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41175-L",
+      "code": null,
+      "name": "いきいき乳酸菌ヨーデル（L）",
+      "nameEn": null,
+      "price": 670,
+      "calorie": 418,
+      "salt": 0.4,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "18-S",
+      "code": null,
+      "name": "チーズカリーバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 1004,
+      "salt": 4.4,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "18-M",
+      "code": null,
+      "name": "チーズカリーバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1640,
+      "calorie": 1095,
+      "salt": 4.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "18-L",
+      "code": null,
+      "name": "チーズカリーバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1980,
+      "calorie": 1270,
+      "salt": 5.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1012-S",
+      "code": null,
+      "name": "ねぎポンおろしバーグステーキ（S）",
+      "nameEn": null,
+      "price": 1190,
+      "calorie": 336,
+      "salt": 4.2,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1012-M",
+      "code": null,
+      "name": "ねぎポンおろしバーグステーキ（M）",
+      "nameEn": null,
+      "price": 1410,
+      "calorie": 427,
+      "salt": 4.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "1012-L",
+      "code": null,
+      "name": "ねぎポンおろしバーグステーキ（L）",
+      "nameEn": null,
+      "price": 1750,
+      "calorie": 602,
+      "salt": 5.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25077",
+      "code": null,
+      "name": "ポテサラトーストセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 580,
+      "salt": 2.6,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30170",
+      "code": null,
+      "name": "ガトーショコラパフェ",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 462,
+      "salt": 0.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41180-S",
+      "code": null,
+      "name": "のみごろキウイ（S）",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 197,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41180-L",
+      "code": null,
+      "name": "のみごろキウイ（L）",
+      "nameEn": null,
+      "price": 670,
+      "calorie": 304,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41186-S",
+      "code": null,
+      "name": "のみごろキウイソフトフロート（S）",
+      "nameEn": null,
+      "price": 620,
+      "calorie": 261,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41186-L",
+      "code": null,
+      "name": "のみごろキウイソフトフロート（L）",
+      "nameEn": null,
+      "price": 820,
+      "calorie": 368,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25127",
+      "code": null,
+      "name": "イチゴホイップトーストセット（みそ汁orドリンク）",
+      "nameEn": null,
+      "price": 520,
+      "calorie": 480,
+      "salt": 1.8,
+      "category": "morning",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "19-S",
+      "code": null,
+      "name": "パインカリーバーグディッシュ（S）",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 918,
+      "salt": 3.3,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "19-M",
+      "code": null,
+      "name": "パインカリーバーグディッシュ（M）",
+      "nameEn": null,
+      "price": 1640,
+      "calorie": 1009,
+      "salt": 3.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "19-L",
+      "code": null,
+      "name": "パインカリーバーグディッシュ（L）",
+      "nameEn": null,
+      "price": 1980,
+      "calorie": 1184,
+      "salt": 4.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30205",
+      "code": null,
+      "name": "塩キャラメルプリンパフェ",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 363,
+      "salt": 0.6,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41153-S",
+      "code": null,
+      "name": "太陽のオレンジ（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 108,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41153-L",
+      "code": null,
+      "name": "太陽のオレンジ（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 135,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41153-びっくり",
+      "code": null,
+      "name": "太陽のオレンジ（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 270,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30300",
+      "code": null,
+      "name": "北海道ミニソフト",
+      "nameEn": null,
+      "price": 290,
+      "calorie": 130,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41158-S",
+      "code": null,
+      "name": "森のリンゴスカッシュ（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 40,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41158-L",
+      "code": null,
+      "name": "森のリンゴスカッシュ（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 50,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41158-びっくり",
+      "code": null,
+      "name": "森のリンゴスカッシュ（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 100,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41188-S",
+      "code": null,
+      "name": "森のリンゴスカッシュアイスフロート（S）",
+      "nameEn": null,
+      "price": 490,
+      "calorie": 125,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41188-L",
+      "code": null,
+      "name": "森のリンゴスカッシュアイスフロート（L）",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 135,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7096-ハンバーグSS",
+      "code": null,
+      "name": "ライトセット レギュラー（ハンバーグSS）",
+      "nameEn": null,
+      "price": 920,
+      "calorie": 409,
+      "salt": 1.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7098-ハンバーグSS",
+      "code": null,
+      "name": "ライトセット エッグ（ハンバーグSS）",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 492,
+      "salt": 1.9,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7097-ハンバーグSS",
+      "code": null,
+      "name": "ライトセット チーズ（ハンバーグSS）",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 549,
+      "salt": 2.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7100-ハンバーグSS",
+      "code": null,
+      "name": "ライトセット パイン（ハンバーグSS）",
+      "nameEn": null,
+      "price": 1120,
+      "calorie": 464,
+      "salt": 1.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "7099-ハンバーグSS",
+      "code": null,
+      "name": "ライトセット おろしそ（ハンバーグSS）",
+      "nameEn": null,
+      "price": 1070,
+      "calorie": 416,
+      "salt": 1.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2111-ハンバーグS",
+      "code": null,
+      "name": "びっくりエビフライ＆ハンバーグステーキ（ハンバーグS）",
+      "nameEn": null,
+      "price": 1750,
+      "calorie": 795,
+      "salt": 4.1,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2111-ハンバーグM",
+      "code": null,
+      "name": "びっくりエビフライ＆ハンバーグステーキ（ハンバーグM）",
+      "nameEn": null,
+      "price": 1970,
+      "calorie": 886,
+      "salt": 4.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2111-ハンバーグL",
+      "code": null,
+      "name": "びっくりエビフライ＆ハンバーグステーキ（ハンバーグL）",
+      "nameEn": null,
+      "price": 2310,
+      "calorie": 1061,
+      "salt": 5.7,
+      "category": "steak",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2422-ハンバーグS",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキランチ（ライス＋みそ汁付）（ハンバーグS）",
+      "nameEn": null,
+      "price": 2260,
+      "calorie": 801,
+      "salt": 5.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2422-ハンバーグM",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキランチ（ライス＋みそ汁付）（ハンバーグM）",
+      "nameEn": null,
+      "price": 2480,
+      "calorie": 892,
+      "salt": 6.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "2422-ハンバーグL",
+      "code": null,
+      "name": "みすじグリル（和風オニオンソース）＆ハンバーグステーキランチ（ライス＋みそ汁付）（ハンバーグL）",
+      "nameEn": null,
+      "price": 2820,
+      "calorie": 1067,
+      "salt": 7.2,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "rice",
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10218",
+      "code": null,
+      "name": "プチうどん",
+      "nameEn": null,
+      "price": 400,
+      "calorie": 160,
+      "salt": 1.4,
+      "category": "kids",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30310",
+      "code": null,
+      "name": "北海道ミニソフト（チョコソース）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": 205,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35181-ハンバーグSS",
+      "code": null,
+      "name": "ハンバーグ&ビバ！ミートスパ（ハンバーグSS）",
+      "nameEn": null,
+      "price": 1170,
+      "calorie": 707,
+      "salt": 3.6,
+      "category": "light",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35181-ハンバーグS",
+      "code": null,
+      "name": "ハンバーグ&ビバ！ミートスパ（ハンバーグS）",
+      "nameEn": null,
+      "price": 1370,
+      "calorie": 791,
+      "salt": 4.1,
+      "category": "light",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40007-小",
+      "code": null,
+      "name": "ドンキーハウスビール〈樽生〉（小）",
+      "nameEn": null,
+      "price": 500,
+      "calorie": 99,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40007-中",
+      "code": null,
+      "name": "ドンキーハウスビール〈樽生〉（中）",
+      "nameEn": null,
+      "price": 800,
+      "calorie": 185,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40007-大",
+      "code": null,
+      "name": "ドンキーハウスビール〈樽生〉（大）",
+      "nameEn": null,
+      "price": 900,
+      "calorie": 230,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41154-S",
+      "code": null,
+      "name": "コーラ（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 76,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41154-L",
+      "code": null,
+      "name": "コーラ（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 95,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41154-びっくり",
+      "code": null,
+      "name": "コーラ（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 190,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30222",
+      "code": null,
+      "name": "北海道ミニソフト（イチゴソース）",
+      "nameEn": null,
+      "price": 290,
+      "calorie": 167,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3189-SS",
+      "code": null,
+      "name": "いろどりセット レギュラー（SS）",
+      "nameEn": null,
+      "price": 1220,
+      "calorie": 437,
+      "salt": 2.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3189-S",
+      "code": null,
+      "name": "いろどりセット レギュラー（S）",
+      "nameEn": null,
+      "price": 1500,
+      "calorie": 683,
+      "salt": 3.0,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10252",
+      "code": null,
+      "name": "おこさまカレー",
+      "nameEn": null,
+      "price": 440,
+      "calorie": 245,
+      "salt": 1.3,
+      "category": "kids",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30216",
+      "code": null,
+      "name": "北海道ソフトクリーム",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 194,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41155-S",
+      "code": null,
+      "name": "メロンソーダ（S）",
+      "nameEn": null,
+      "price": 340,
+      "calorie": 76,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41155-L",
+      "code": null,
+      "name": "メロンソーダ（L）",
+      "nameEn": null,
+      "price": 390,
+      "calorie": 95,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41155-びっくり",
+      "code": null,
+      "name": "メロンソーダ（びっくり）",
+      "nameEn": null,
+      "price": 580,
+      "calorie": 190,
+      "salt": 0.0,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3191-SS",
+      "code": null,
+      "name": "いろどりセット エッグ（SS）",
+      "nameEn": null,
+      "price": 1370,
+      "calorie": 520,
+      "salt": 2.7,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3191-S",
+      "code": null,
+      "name": "いろどりセット エッグ（S）",
+      "nameEn": null,
+      "price": 1650,
+      "calorie": 767,
+      "salt": 3.2,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10253",
+      "code": null,
+      "name": "おこさまスパゲティ",
+      "nameEn": null,
+      "price": 440,
+      "calorie": 248,
+      "salt": 1.4,
+      "category": "kids",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30217",
+      "code": null,
+      "name": "北海道ソフトクリーム（チョコソース）",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 295,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30224",
+      "code": null,
+      "name": "北海道ソフトクリーム（イチゴソース）",
+      "nameEn": null,
+      "price": 450,
+      "calorie": 244,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41160-S",
+      "code": null,
+      "name": "コーラアイスフロート（S）",
+      "nameEn": null,
+      "price": 490,
+      "calorie": 161,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41160-L",
+      "code": null,
+      "name": "コーラアイスフロート（L）",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 180,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30351",
+      "code": null,
+      "name": "シナモンロール",
+      "nameEn": null,
+      "price": 660,
+      "calorie": 369,
+      "salt": 0.5,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3190-SS",
+      "code": null,
+      "name": "いろどりセット チーズ（SS）",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 578,
+      "salt": 3.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3190-S",
+      "code": null,
+      "name": "いろどりセット チーズ（S）",
+      "nameEn": null,
+      "price": 1700,
+      "calorie": 824,
+      "salt": 4.0,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11026",
+      "code": null,
+      "name": "おこさまコーンスープ",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 98,
+      "salt": 0.7,
+      "category": "kids",
+      "covers": [
+        "soup"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41161-S",
+      "code": null,
+      "name": "ソーダアイスフロート（S）",
+      "nameEn": null,
+      "price": 490,
+      "calorie": 161,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "41161-L",
+      "code": null,
+      "name": "ソーダアイスフロート（L）",
+      "nameEn": null,
+      "price": 540,
+      "calorie": 180,
+      "salt": 0.1,
+      "category": "drink",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3193-SS",
+      "code": null,
+      "name": "いろどりセット パイン（SS）",
+      "nameEn": null,
+      "price": 1420,
+      "calorie": 492,
+      "salt": 2.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3193-S",
+      "code": null,
+      "name": "いろどりセット パイン（S）",
+      "nameEn": null,
+      "price": 1700,
+      "calorie": 738,
+      "salt": 3.0,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "10258",
+      "code": null,
+      "name": "おこさまザンギ",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 211,
+      "salt": 1.6,
+      "category": "kids",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3192-SS",
+      "code": null,
+      "name": "いろどりセット おろしそ（SS）",
+      "nameEn": null,
+      "price": 1370,
+      "calorie": 445,
+      "salt": 2.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "3192-S",
+      "code": null,
+      "name": "いろどりセット おろしそ（S）",
+      "nameEn": null,
+      "price": 1650,
+      "calorie": 691,
+      "salt": 3.0,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "25092",
+      "code": null,
+      "name": "卵かけご飯",
+      "nameEn": null,
+      "price": 420,
+      "calorie": 476,
+      "salt": 3.4,
+      "category": "morning",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "30363",
+      "code": null,
+      "name": "しっとりクラシックチョコケーキ",
+      "nameEn": null,
+      "price": 600,
+      "calorie": 306,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "35908",
+      "code": null,
+      "name": "焼きカリーライス",
+      "nameEn": null,
+      "price": 690,
+      "calorie": 539,
+      "salt": 1.8,
+      "category": "light",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "4545",
+      "code": null,
+      "name": "ソイカリーバーグディッシュ",
+      "nameEn": null,
+      "price": 1520,
+      "calorie": 761,
+      "salt": 3.5,
+      "category": "dish",
+      "covers": [
+        "main",
+        "rice"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11016",
+      "code": null,
+      "name": "おこさまイチゴミルク",
+      "nameEn": null,
+      "price": 470,
+      "calorie": 291,
+      "salt": 0.2,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11003",
+      "code": null,
+      "name": "おこさま太陽のオレンジ",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 108,
+      "salt": 0.0,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11004",
+      "code": null,
+      "name": "おこさまコーラ",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 76,
+      "salt": 0.0,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40063-330ml",
+      "code": null,
+      "name": "ドンキーフリー(ピルスナー)（330ml）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": 89,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "11005",
+      "code": null,
+      "name": "おこさまメロンソーダ",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 76,
+      "salt": 0.0,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "42213",
+      "code": null,
+      "name": "おこさまリンゴジュース",
+      "nameEn": null,
+      "price": 200,
+      "calorie": 64,
+      "salt": 0.0,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "42206",
+      "code": null,
+      "name": "乳酸菌飲料ミルポックル",
+      "nameEn": null,
+      "price": 270,
+      "calorie": 214,
+      "salt": 0.2,
+      "category": "kids",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "40066-330ml",
+      "code": null,
+      "name": "ドンキーフリー(スタウト)（330ml）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": 92,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [
+        "drink"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

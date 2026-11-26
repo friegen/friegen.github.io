@@ -1,0 +1,3423 @@
+{
+  "schemaVersion": 1,
+  "chain": "dennys",
+  "version": "2026.11.23",
+  "source": "公式サイトのメニュー一覧（カロリー・塩分・注文番号はまだ入れていない）",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "fair-miso-ramen",
+      "code": null,
+      "name": "味噌らぁ麺・改～五重の味噌",
+      "nameEn": null,
+      "price": 1496,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-miso-chashu-ramen",
+      "code": null,
+      "name": "味噌チャーシューらぁ麺・改～五重の味噌",
+      "nameEn": null,
+      "price": 2398,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-karamiso-ramen",
+      "code": null,
+      "name": "辛味噌らぁ麺",
+      "nameEn": null,
+      "price": 1595,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-karamiso-chashu-ramen",
+      "code": null,
+      "name": "辛味噌チャーシューらぁ麺",
+      "nameEn": null,
+      "price": 2497,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-gyoza",
+      "code": null,
+      "name": "焼き餃子（2個）～柚子胡椒＆胡麻油",
+      "nameEn": null,
+      "price": 429,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-mabo-oyster",
+      "code": null,
+      "name": "麻婆牡蠣＆豆腐",
+      "nameEn": null,
+      "price": 759,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-nira-moyashi",
+      "code": null,
+      "name": "ニラともやしのシャキシャキ焼き",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-nira-moyashi-chashu",
+      "code": null,
+      "name": "ニラともやしのシャキシャキ焼き～チャーシュー添え",
+      "nameEn": null,
+      "price": 693,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-miso-ramen-gyoza",
+      "code": null,
+      "name": "味噌らぁ麺・改～五重の味噌＋焼き餃子（2個）セット",
+      "nameEn": null,
+      "price": 1892,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-miso-chashu-ramen-gyoza",
+      "code": null,
+      "name": "味噌チャーシューらぁ麺・改～五重の味噌＋焼き餃子（2個）セット",
+      "nameEn": null,
+      "price": 2794,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-karamiso-ramen-gyoza",
+      "code": null,
+      "name": "辛味噌らぁ麺＋焼き餃子（2個）セット",
+      "nameEn": null,
+      "price": 1991,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "fair-karamiso-chashu-ramen-gyoza",
+      "code": null,
+      "name": "辛味噌チャーシューらぁ麺＋焼き餃子（2個）セット",
+      "nameEn": null,
+      "price": 2893,
+      "calorie": null,
+      "salt": null,
+      "category": "fair",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshi-hamburg",
+      "code": null,
+      "name": "おろしハンバーグ",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshi-chicken",
+      "code": null,
+      "name": "おろしハンバーグ＆ハーフチキングリル",
+      "nameEn": null,
+      "price": 1397,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "oroshi-beef",
+      "code": null,
+      "name": "おろしハンバーグ＆BEEFハンバーグステーキ",
+      "nameEn": null,
+      "price": 1661,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "onion-hamburg",
+      "code": null,
+      "name": "あめいろたまねぎソースのスープハンバーグ",
+      "nameEn": null,
+      "price": 1265,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mushroom-deminikomi",
+      "code": null,
+      "name": "きのこデミ煮込みハンバーグ",
+      "nameEn": null,
+      "price": 1100,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "spicy-hot-pot",
+      "code": null,
+      "name": "麻辣土鍋ハンバーグ",
+      "nameEn": null,
+      "price": 1430,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "eggplant-and-vegetable-hamburg",
+      "code": null,
+      "name": "なすと香味野菜のハンバーグ",
+      "nameEn": null,
+      "price": 1100,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-sour-fried-chicken-oroshi-hamburg",
+      "code": null,
+      "name": "油淋鶏&おろしハンバーグ",
+      "nameEn": null,
+      "price": 1397,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "beef-hamburg",
+      "code": null,
+      "name": "BEEFハンバーグステーキ[約100g]～選べるソース",
+      "nameEn": null,
+      "price": 1111,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "beef-hamburg200g",
+      "code": null,
+      "name": "BEEFハンバーグステーキ[約200g]～選べるソース",
+      "nameEn": null,
+      "price": 1518,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "beef-hamburger-steak-grilled-chicken",
+      "code": null,
+      "name": "BEEFハンバーグステーキ&チキングリル",
+      "nameEn": null,
+      "price": 1848,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "gratin-hamburg",
+      "code": null,
+      "name": "グラタン風ハンバーグ～トリュフソース",
+      "nameEn": null,
+      "price": 1441,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "japanesestyle",
+      "code": null,
+      "name": "和風ハンバーグ",
+      "nameEn": null,
+      "price": 880,
+      "calorie": null,
+      "salt": null,
+      "category": "hamburg",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hamburgcurry-doria",
+      "code": null,
+      "name": "ハンバーグカレードリア",
+      "nameEn": null,
+      "price": 1111,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "minute-steak",
+      "code": null,
+      "name": "カットステーキ～選べるソース",
+      "nameEn": null,
+      "price": 1705,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "halfpound-minute-steak",
+      "code": null,
+      "name": "Wカットステーキ～選べるソース",
+      "nameEn": null,
+      "price": 2750,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sirloin",
+      "code": null,
+      "name": "サーロインステーキ［約160g］",
+      "nameEn": null,
+      "price": 2849,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grilled-chicken-japanese-style-sauce",
+      "code": null,
+      "name": "グリルチキン～和風ソース",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "grilled-chicken-soy-butter-sauce",
+      "code": null,
+      "name": "グリルチキン～醤油バターソース",
+      "nameEn": null,
+      "price": 1265,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "low-temperature-cooked-roast-pork-steak",
+      "code": null,
+      "name": "低温調理厚切りローストポークステーキ",
+      "nameEn": null,
+      "price": 1760,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-sour-fried-chicken-with-ginger-seasoned-vegetables",
+      "code": null,
+      "name": "香味野菜と生姜の油淋鶏",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "pork-shabu",
+      "code": null,
+      "name": "国産豚のしゃぶしゃぶ～選べるソース",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "meat-rich-beef-stew",
+      "code": null,
+      "name": "たっぷりお肉の土鍋ビーフシチュー",
+      "nameEn": null,
+      "price": 3135,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "japanese-style-beef-stew",
+      "code": null,
+      "name": "ビーフシチュー",
+      "nameEn": null,
+      "price": 1705,
+      "calorie": null,
+      "salt": null,
+      "category": "steak",
+      "covers": [
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "crab-shrimp-peperoncino",
+      "code": null,
+      "name": "蟹と海老のペペロンチーノ",
+      "nameEn": null,
+      "price": 1496,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "genovaese-pasta",
+      "code": null,
+      "name": "ブロッコリーとアボカドのジェノベーゼ",
+      "nameEn": null,
+      "price": 1177,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "shrimp-avocado-tarakosauce",
+      "code": null,
+      "name": "海老とアボカドたらこソース",
+      "nameEn": null,
+      "price": 1111,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "carbonara-prosciutto-bacon",
+      "code": null,
+      "name": "生ハムとベーコンのカルボナーラ",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tarakosauce",
+      "code": null,
+      "name": "北海道バターを使用したたらこソース",
+      "nameEn": null,
+      "price": 990,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "meatsauce-pasta",
+      "code": null,
+      "name": "ミートソース",
+      "nameEn": null,
+      "price": 935,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "meatsauce-pasta-with-eggplant",
+      "code": null,
+      "name": "なすのミートソース",
+      "nameEn": null,
+      "price": 1100,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "shrimp-doria",
+      "code": null,
+      "name": "海老ドリア",
+      "nameEn": null,
+      "price": 1111,
+      "calorie": null,
+      "salt": null,
+      "category": "pasta",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "omurice-with-special-ketchup",
+      "code": null,
+      "name": "特製ケチャップのオムライス",
+      "nameEn": null,
+      "price": 1045,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "omurice-with-special-ketchup-karaage",
+      "code": null,
+      "name": "特製ケチャップのオムライス&唐揚げ",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "omurice",
+      "code": null,
+      "name": "とろ～り卵とチーズのオムライス",
+      "nameEn": null,
+      "price": 1001,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "omurice-karaage",
+      "code": null,
+      "name": "とろ～り卵とチーズのオムライス&唐揚げ",
+      "nameEn": null,
+      "price": 1298,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mini-omurice",
+      "code": null,
+      "name": "ミニオムライス",
+      "nameEn": null,
+      "price": 594,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "jambalaya",
+      "code": null,
+      "name": "ジャンバラヤ",
+      "nameEn": null,
+      "price": 627,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "chicken-jambalaya",
+      "code": null,
+      "name": "グリルチキンのジャンバラヤ",
+      "nameEn": null,
+      "price": 1199,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "shrimp-chicken-rice-porridge",
+      "code": null,
+      "name": "海老と蒸し鶏のスープごはん",
+      "nameEn": null,
+      "price": 880,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "phad-bai-gaprao",
+      "code": null,
+      "name": "サラダごはん～ガパオ・ガイ",
+      "nameEn": null,
+      "price": 1199,
+      "calorie": null,
+      "salt": null,
+      "category": "rice",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mala-tangmen",
+      "code": null,
+      "name": "麻辣湯麺",
+      "nameEn": null,
+      "price": 1309,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "chinese-noodles-with-fragrant-seasoning-oil-made",
+      "code": null,
+      "name": "香油和えそば～太白胡麻油使用",
+      "nameEn": null,
+      "price": 979,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "chinese-noodles-with-vegetables",
+      "code": null,
+      "name": "ベジ和えそば～1日に必要な野菜量の1/3が摂れる",
+      "nameEn": null,
+      "price": 1100,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "ramen",
+      "code": null,
+      "name": "中華麺",
+      "nameEn": null,
+      "price": 1001,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tantanmen",
+      "code": null,
+      "name": "胡麻香る四川風担々麺",
+      "nameEn": null,
+      "price": 1155,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "mini-ramen",
+      "code": null,
+      "name": "ミニ中華麺",
+      "nameEn": null,
+      "price": 594,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "udon",
+      "code": null,
+      "name": "月見わかめうどん",
+      "nameEn": null,
+      "price": 605,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [
+        "noodle"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "clubhouse-sandwich",
+      "code": null,
+      "name": "アメリカンクラブハウスサンド",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "american-deluxe-plate",
+      "code": null,
+      "name": "D‘ｓアメリカンデラックスプレート",
+      "nameEn": null,
+      "price": 2442,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "cheese-sandwich",
+      "code": null,
+      "name": "グリルドチーズサンド",
+      "nameEn": null,
+      "price": 506,
+      "calorie": null,
+      "salt": null,
+      "category": "noodle",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "french-toast",
+      "code": null,
+      "name": "自家製フレンチトースト4コ",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "rawham-salad",
+      "code": null,
+      "name": "生ハムサラダ～選べるドレッシング",
+      "nameEn": null,
+      "price": 506,
+      "calorie": null,
+      "salt": null,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "avocado-eggplant-salad",
+      "code": null,
+      "name": "アボカドとなすのサラダ～選べるドレッシング",
+      "nameEn": null,
+      "price": 506,
+      "calorie": null,
+      "salt": null,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "greenmix-salad",
+      "code": null,
+      "name": "グリーンミックスサラダ～選べるドレッシング",
+      "nameEn": null,
+      "price": 451,
+      "calorie": null,
+      "salt": null,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "pesto-potato-salad",
+      "code": null,
+      "name": "ポテトとジェノベーゼのサラダ",
+      "nameEn": null,
+      "price": 506,
+      "calorie": null,
+      "salt": null,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-sundae",
+      "code": null,
+      "name": "蜜いものザ・サンデー～紅天使使用",
+      "nameEn": null,
+      "price": 1969,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-brulee-pancakes",
+      "code": null,
+      "name": "蜜いものブリュレパンケーキ",
+      "nameEn": null,
+      "price": 1078,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-parfait",
+      "code": null,
+      "name": "蜜いものパルフェ",
+      "nameEn": null,
+      "price": 748,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-mini-parfait",
+      "code": null,
+      "name": "蜜いものちょこっとパルフェ",
+      "nameEn": null,
+      "price": 583,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-mini-mini-parfait-with-mitarashi-sauce",
+      "code": null,
+      "name": "蜜いものちょこっとすぎるみたらしパルフェ",
+      "nameEn": null,
+      "price": 418,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "caramelized-sweet-potato",
+      "code": null,
+      "name": "蜜いものキャラメリゼ～バニラアイス添え",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-ice-cream-azuki-bean-with-sugar-syrup-jelly",
+      "code": null,
+      "name": "さつまいもアイスとあずきの白蜜ゼリー",
+      "nameEn": null,
+      "price": 363,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "sweet-potato-pudding",
+      "code": null,
+      "name": "おいもプリン",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tower-pancakes",
+      "code": null,
+      "name": "タワーパンケーキ～国産小麦きたほなみ使用",
+      "nameEn": null,
+      "price": 1540,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "garden-pancakes",
+      "code": null,
+      "name": "ガーデンパンケーキ～国産小麦きたほなみ使用",
+      "nameEn": null,
+      "price": 1540,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "caramelhoneypancakes",
+      "code": null,
+      "name": "キャラメルハニーパンケーキ（3枚）",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "greentea-sundae",
+      "code": null,
+      "name": "抹茶と白玉のブラウニーサンデー",
+      "nameEn": null,
+      "price": 1210,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "devilssundae",
+      "code": null,
+      "name": "DEVIL'Sブラウニーサンデー",
+      "nameEn": null,
+      "price": 1100,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "tiramisu",
+      "code": null,
+      "name": "ティラミス",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "greentea-parfait",
+      "code": null,
+      "name": "和み抹茶ミニパルフェ",
+      "nameEn": null,
+      "price": 770,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "salmon-breakfast",
+      "code": null,
+      "name": "焼き鮭朝食",
+      "nameEn": null,
+      "price": 682,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "bacon-eggs-sunny-side-up-breakfast",
+      "code": null,
+      "name": "ベーコンエッグ朝食",
+      "nameEn": null,
+      "price": 627,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "japanese-style-scrambled-egg",
+      "code": null,
+      "name": "ふんわり卵ときのこの朝食",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "rice-porridge",
+      "code": null,
+      "name": "海老と蒸し鶏のスープごはん",
+      "nameEn": null,
+      "price": 770,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-toast",
+      "code": null,
+      "name": "トースト",
+      "nameEn": null,
+      "price": 253,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-toast-morning",
+      "code": null,
+      "name": "トーストモーニング（ゆで卵かサラダをお選びいただけます）",
+      "nameEn": null,
+      "price": 319,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-cheese-sandwich-morning",
+      "code": null,
+      "name": "グリルドチーズサンド（ゆで卵かサラダをお選びいただけます）",
+      "nameEn": null,
+      "price": 319,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-french-toast-morning",
+      "code": null,
+      "name": "自家製フレンチトースト",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-minimini-french-toast",
+      "code": null,
+      "name": "ミニミニフレンチトースト",
+      "nameEn": null,
+      "price": 385,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-ny-cheesecake",
+      "code": null,
+      "name": "ニューヨークチーズケーキ",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-pancake",
+      "code": null,
+      "name": "国産小麦のパンケーキ",
+      "nameEn": null,
+      "price": 572,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-choco-pudding-parfait",
+      "code": null,
+      "name": "チョコプリンパルフェ",
+      "nameEn": null,
+      "price": 770,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-mini-choco-sundae",
+      "code": null,
+      "name": "ミニチョコサンデー",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-gateau-chocolat-brownie",
+      "code": null,
+      "name": "ガトーショコラブラウニー",
+      "nameEn": null,
+      "price": 704,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-choco-pudding",
+      "code": null,
+      "name": "チョコプリン",
+      "nameEn": null,
+      "price": 209,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-kuzumanju",
+      "code": null,
+      "name": "葛まんじゅう",
+      "nameEn": null,
+      "price": 330,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-matcha-brownie",
+      "code": null,
+      "name": "抹茶ブラウニー",
+      "nameEn": null,
+      "price": 660,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-acai-yogurt",
+      "code": null,
+      "name": "アサイーヨーグルト",
+      "nameEn": null,
+      "price": 605,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-shiratama-azuki",
+      "code": null,
+      "name": "白玉あずき",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "dessert-ice",
+      "code": null,
+      "name": "こだわりアイス",
+      "nameEn": null,
+      "price": 374,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-rawham-roastpork",
+      "code": null,
+      "name": "生ハム&ローストポーク",
+      "nameEn": null,
+      "price": 726,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-tarama-potato",
+      "code": null,
+      "name": "たらマヨポテト",
+      "nameEn": null,
+      "price": 605,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-fried-potato",
+      "code": null,
+      "name": "フライドポテト",
+      "nameEn": null,
+      "price": 506,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-shakashaka-potato",
+      "code": null,
+      "name": "シャカシャカポテト（バター醤油）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-bacon-spinach",
+      "code": null,
+      "name": "ベーコンとほうれん草",
+      "nameEn": null,
+      "price": 528,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-oyster-fry",
+      "code": null,
+      "name": "牡蠣フライ",
+      "nameEn": null,
+      "price": 671,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-karaage",
+      "code": null,
+      "name": "鶏唐揚げ",
+      "nameEn": null,
+      "price": 649,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-ebi-fry",
+      "code": null,
+      "name": "海老フライ",
+      "nameEn": null,
+      "price": 649,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-hirekatsu",
+      "code": null,
+      "name": "三元豚のヒレカツ",
+      "nameEn": null,
+      "price": 418,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-aji-fry",
+      "code": null,
+      "name": "長崎県松浦港のアジフライ",
+      "nameEn": null,
+      "price": 671,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-corn-soup",
+      "code": null,
+      "name": "コーンスープ",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-onion-gratin-soup",
+      "code": null,
+      "name": "オニオングラタンスープ～淡路産たまねぎ使用",
+      "nameEn": null,
+      "price": 627,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-nasu-oroshi",
+      "code": null,
+      "name": "なすとほうれん草のおろし和え",
+      "nameEn": null,
+      "price": 407,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-miso-soup",
+      "code": null,
+      "name": "みそ汁",
+      "nameEn": null,
+      "price": 121,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-rice",
+      "code": null,
+      "name": "ライス",
+      "nameEn": null,
+      "price": 275,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-boule",
+      "code": null,
+      "name": "石窯ブール",
+      "nameEn": null,
+      "price": 308,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "side-kuromai-rice",
+      "code": null,
+      "name": "黒米ともち麦ごはん（180g）",
+      "nameEn": null,
+      "price": 385,
+      "calorie": null,
+      "salt": null,
+      "category": "side",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-premium-malts",
+      "code": null,
+      "name": "サントリー・ザ・プレミアム・モルツ生ビール",
+      "nameEn": null,
+      "price": 671,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-premium-malts-bottle",
+      "code": null,
+      "name": "サントリー・ザ・プレミアム・モルツ中瓶（500ml）",
+      "nameEn": null,
+      "price": 781,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-allfree",
+      "code": null,
+      "name": "サントリー・オールフリー",
+      "nameEn": null,
+      "price": 517,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-mega-kaku-highball",
+      "code": null,
+      "name": "メガ角ハイボール",
+      "nameEn": null,
+      "price": 792,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-kaku-highball",
+      "code": null,
+      "name": "角ハイボール",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-lemon-sour",
+      "code": null,
+      "name": "こだわり酒場レモンサワー",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-sui-gin-soda",
+      "code": null,
+      "name": "翠ジンソーダ",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-chita-highball",
+      "code": null,
+      "name": "知多ハイボール",
+      "nameEn": null,
+      "price": 880,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "alcohol-house-wine",
+      "code": null,
+      "name": "ハウスワイン赤・白グラス",
+      "nameEn": null,
+      "price": 440,
+      "calorie": null,
+      "salt": null,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "drink-bar-set",
+      "code": null,
+      "name": "ドリンクバーセット",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "drinkbar",
+      "covers": [
+        "drinkbar"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okonomi-beef-hamburg",
+      "code": null,
+      "name": "おこのみチョイス BEEFハンバーグステーキ（約100g）（彩り野菜付き）",
+      "nameEn": null,
+      "price": 1661,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "set",
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okonomi-aibiki-hamburg",
+      "code": null,
+      "name": "おこのみチョイス 合挽ハンバーグ（彩り野菜付き）",
+      "nameEn": null,
+      "price": 1430,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "set",
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okonomi-grilled-chicken",
+      "code": null,
+      "name": "おこのみチョイス グリルチキン（彩り野菜付き）",
+      "nameEn": null,
+      "price": 1760,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "set",
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "okonomi-cut-steak",
+      "code": null,
+      "name": "おこのみチョイス カットステーキ（約115g）（彩り野菜付き）",
+      "nameEn": null,
+      "price": 2255,
+      "calorie": null,
+      "salt": null,
+      "category": "set",
+      "covers": [
+        "set",
+        "grill"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-demi-hirekatsu-meatsauce",
+      "code": null,
+      "name": "【昼デニセット】Aセット デミヒレカツ＆ミートソース（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-ebi-doria",
+      "code": null,
+      "name": "【昼デニセット】Aセット 海老ドリア（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-omurice",
+      "code": null,
+      "name": "【昼デニセット】Aセット とろ～り卵とチーズのオムライス（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-karaage-gohan",
+      "code": null,
+      "name": "【昼デニセット】Aセット 唐揚げの彩りごはん～黒酢ソース（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-tarako",
+      "code": null,
+      "name": "【昼デニセット】Aセット 北海道バターを使用したたらこソース（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-ebi-tomato",
+      "code": null,
+      "name": "【昼デニセット】Aセット 海老と小柱のトマトスパゲッティ（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-nasu-meatsauce",
+      "code": null,
+      "name": "【昼デニセット】Aセット なすのミートソース（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-pepetama",
+      "code": null,
+      "name": "【昼デニセット】Aセット 和風ぺぺたまベーコンスパゲッティ（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-delhi-curry",
+      "code": null,
+      "name": "【昼デニセット】Aセット デリーチキンカレー（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "hirudeni-a-spice-ramen",
+      "code": null,
+      "name": "【昼デニセット】Aセット スパイスラーメン（サイド1品付き）",
+      "nameEn": null,
+      "price": 1342,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "set"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-select",
+      "code": null,
+      "name": "D'sセレクトモーニング（メイン・お好みセット・ドリンクバー）",
+      "nameEn": null,
+      "price": 748,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "drinkbar"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-grandslam",
+      "code": null,
+      "name": "グランドスラムモーニング（メイン・お好みセット・ヨーグルト・ドリンクバー）",
+      "nameEn": null,
+      "price": 1078,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [
+        "drinkbar"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-light",
+      "code": null,
+      "name": "ライトモーニング（ドリンクつき）",
+      "nameEn": null,
+      "price": 550,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-roastpork-salad",
+      "code": null,
+      "name": "ローストポークサラダ 石窯ブール添え（ドリンクつき）",
+      "nameEn": null,
+      "price": 495,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-oroshi-hamburg",
+      "code": null,
+      "name": "おろしハンバーグ朝食",
+      "nameEn": null,
+      "price": 935,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "morning-brunch-plate",
+      "code": null,
+      "name": "ブランチプレート",
+      "nameEn": null,
+      "price": 1397,
+      "calorie": null,
+      "salt": null,
+      "category": "morning",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}

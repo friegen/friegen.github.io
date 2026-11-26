@@ -42,7 +42,7 @@
 </head>
 <body>
   <div class="aurora"><i></i><i></i><i></i><i></i></div>
-  <div class="site"><span class="mark">す</span>すとれん / stren</div>
+  <div class="site"><span class="mark">f</span>friegen</div>
   <img class="icon" id="icon" src="" width="168" height="168" alt="">
   <h1 id="name"></h1>
   <p class="en" id="en"></p>
@@ -55,7 +55,8 @@
   // アプリごとの中身（icon: このファイルから見たアイコンの場所、accent: アプリの色。トップページのカードと同じ）
   var APPS = {
     "irodori-notes": { name: "いろどりメモ", en: "Irodori Notes", icon: "../../irodori-notes/assets/icon-512.png", accent: "#0A6CD6" },
-    "kataomoi-bluesky": { name: "片思いチェッカー for Bluesky", en: "Follower Checker for Bluesky", icon: "../../assets/apps/kataomoi-bluesky.png", accent: "#1185FE" }
+    "kataomoi-bluesky": { name: "片思いチェッカー for Bluesky", en: "Follower Checker for Bluesky", icon: "../../assets/apps/kataomoi-bluesky.png", accent: "#1185FE" },
+    "gohan": { name: "ごはん屋さんで何食べよう？", en: "Restaurant menu gacha", icon: "../../gohan/assets/icon-512.png", accent: "#8A5530" }
   };
   var app = APPS[new URLSearchParams(location.search).get("app")];
   document.getElementById("icon").src = app.icon;

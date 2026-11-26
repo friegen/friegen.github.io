@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "chains": [
+    {
+      "id": "bikkuri-donkey",
+      "latest": "2026.11.23",
+      "url": "bikkuri-donkey/menu-2026.11.23.json",
+      "sha256": "6d33bcf6161a5a30c4ed23922cd8e299708a2570b56811127f68dc89e9e00992"
+    },
+    {
+      "id": "dennys",
+      "latest": "2026.11.23",
+      "url": "dennys/menu-2026.11.23.json",
+      "sha256": "8204e7536b01d9e867eb39d57a8eea280a8f29491d5e1fb79a1a7d3a8d350c1e"
+    },
+    {
+      "id": "hidakaya",
+      "latest": "2026.11.25",
+      "url": "hidakaya/menu-2026.11.25.json",
+      "sha256": "7d94901146a45a4590f0bb8d919e67b8eb572bda7fa7e1824b1a7b1adb54e5be"
+    },
+    {
+      "id": "ikinari-steak",
+      "latest": "2026.11.23",
+      "url": "ikinari-steak/menu-2026.11.23.json",
+      "sha256": "e8d00826475cc1801e66bb49e2be581c17750a02433b5e5cfff51f7cc01775a5"
+    },
+    {
+      "id": "joyfull",
+      "latest": "2026.11.23",
+      "url": "joyfull/menu-2026.11.23.json",
+      "sha256": "773f9651da0585e0fa7902223f5cffe0db6a2aa45129ab56013ff1f6cd1c3335"
+    },
+    {
+      "id": "kfc",
+      "latest": "2026.11.25",
+      "url": "kfc/menu-2026.11.25.json",
+      "sha256": "adc65463a935d3dd9d16ae9e5e17e19ea9eb5550593d8be829b500d1eb050560"
+    },
+    {
+      "id": "marugame",
+      "latest": "2026.11.23",
+      "url": "marugame/menu-2026.11.23.json",
+      "sha256": "6597ce03fcf6d887e71c85fb0fdeb1e81d2e24f788da8d40cbf56ad115be71c3"
+    },
+    {
+      "id": "ootoya",
+      "latest": "2026.11.25",
+      "url": "ootoya/menu-2026.11.25.json",
+      "sha256": "72b3fc4b1ef817b4c9b90878de8b850757d65822894557df8bfe4d8e40679faa"
+    },
+    {
+      "id": "saizeriya",
+      "latest": "2026.11.25",
+      "url": "saizeriya/menu-2026.11.25.json",
+      "sha256": "2239eccb1b03cb4003a9cb1debf38be6d11246713c5a798abebbb993123cb22c"
+    },
+    {
+      "id": "zetteria",
+      "latest": "2026.11.23",
+      "url": "zetteria/menu-2026.11.23.json",
+      "sha256": "64869a2d09b4e9cc845e03a0af8342487fdb0c5b0c64152c82429348f223876b"
+    }
+  ]
+}

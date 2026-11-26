@@ -1,0 +1,3350 @@
+{
+  "schemaVersion": 1,
+  "chain": "joyfull",
+  "version": "2026.11.23",
+  "source": "公式サイトのメニュー一覧・詳細ページ（関東以外の標準価格）・商品情報一覧（2026年10月13日）",
+  "updatedAt": "2026-11-23",
+  "items": [
+    {
+      "id": "438",
+      "code": null,
+      "name": "洋食屋さんのビーフシチューハンバーグ",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 718,
+      "salt": 3.8,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "254",
+      "code": null,
+      "name": "ツインハンバーグ",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1157,
+      "salt": 5.8,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "436",
+      "code": null,
+      "name": "てりたまバーグ",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 711,
+      "salt": 3.7,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "252",
+      "code": null,
+      "name": "グランペッパーハンバーグ",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 697,
+      "salt": 3.5,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "251",
+      "code": null,
+      "name": "グランチーズハンバーグ",
+      "nameEn": null,
+      "price": 922,
+      "calorie": 843,
+      "salt": 4.0,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "250",
+      "code": null,
+      "name": "5種チーズのとろ～りチーズインハンバーグ",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 555,
+      "salt": 2.6,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "339",
+      "code": null,
+      "name": "肉旨！厚切り豚肩ロースステーキにんにく醤油",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 600,
+      "salt": 4.3,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "439",
+      "code": null,
+      "name": "肉旨！厚切り豚肩ロースステーキ",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 601,
+      "salt": 3.3,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "256",
+      "code": null,
+      "name": "ペッパーハンバーグ",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 585,
+      "salt": 3.1,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "257",
+      "code": null,
+      "name": "チーズハンバーグ",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 648,
+      "salt": 2.9,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "245",
+      "code": null,
+      "name": "どど～ん！っと大きなミックスグリル",
+      "nameEn": null,
+      "price": 1208,
+      "calorie": 1241,
+      "salt": 6.8,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "249",
+      "code": null,
+      "name": "ミックスグリル",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 847,
+      "salt": 4.3,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "338",
+      "code": null,
+      "name": "チーズハンバーグ＆プライムサイコロステーキ",
+      "nameEn": null,
+      "price": 1142,
+      "calorie": 835,
+      "salt": 4.6,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "437",
+      "code": null,
+      "name": "溢れるチーズのチキンイタリアンステーキ",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 559,
+      "salt": 2.5,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "242",
+      "code": null,
+      "name": "プライムサイコロペッパーステーキ",
+      "nameEn": null,
+      "price": 1285,
+      "calorie": 513,
+      "salt": 3.5,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "337",
+      "code": null,
+      "name": "チキンステーキ＆ハンバーグ",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 947,
+      "salt": 5.3,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "404",
+      "code": null,
+      "name": "ひとくちチキンステーキにんにく醤油",
+      "nameEn": null,
+      "price": 735,
+      "calorie": 548,
+      "salt": 4.7,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "243",
+      "code": null,
+      "name": "メガ盛りひとくちチキンステーキにんにく醤油",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 931,
+      "salt": 8.5,
+      "category": "grill",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "341",
+      "code": null,
+      "name": "肉増し！牛焼肉とおろし唐揚げ定食",
+      "nameEn": null,
+      "price": 1285,
+      "calorie": 1501,
+      "salt": 9.5,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "342",
+      "code": null,
+      "name": "倍盛りジョイフル塩唐揚げ定食",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1686,
+      "salt": 8.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "340",
+      "code": null,
+      "name": "ジョイフル塩唐揚げ定食",
+      "nameEn": null,
+      "price": 658,
+      "calorie": 1033,
+      "salt": 5.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "238",
+      "code": null,
+      "name": "牛焼肉とおろし唐揚げ定食",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 1193,
+      "salt": 8.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "406",
+      "code": null,
+      "name": "ロースかつの特選バラエティフライ定食",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1327,
+      "salt": 7.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "228",
+      "code": null,
+      "name": "出汁香るロースかつとじ定食",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 959,
+      "salt": 9.9,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "443",
+      "code": null,
+      "name": "肉増し！すき焼き鍋定食",
+      "nameEn": null,
+      "price": 1318,
+      "calorie": 1145,
+      "salt": 9.7,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "444",
+      "code": null,
+      "name": "旨辛スープのキムチチゲ定食",
+      "nameEn": null,
+      "price": 1032,
+      "calorie": 1011,
+      "salt": 7.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "310",
+      "code": null,
+      "name": "彩り野菜と若鶏の黒酢あんかけ定食",
+      "nameEn": null,
+      "price": 1032,
+      "calorie": 1081,
+      "salt": 6.6,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "343",
+      "code": null,
+      "name": "たっぷりおろしの唐揚げ定食",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 1080,
+      "salt": 8.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "236",
+      "code": null,
+      "name": "焼き鮭と椎茸の鰹節香る雑炊",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 412,
+      "salt": 5.2,
+      "category": "teishoku",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "440",
+      "code": null,
+      "name": "牛肉と焼き葱のみぞれつけそばと釜揚げしらす丼",
+      "nameEn": null,
+      "price": 1208,
+      "calorie": 761,
+      "salt": 7.2,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "233",
+      "code": null,
+      "name": "ねぎトロ丼",
+      "nameEn": null,
+      "price": 845,
+      "calorie": 526,
+      "salt": 4.0,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "232",
+      "code": null,
+      "name": "すたみな豚丼",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 1051,
+      "salt": 4.7,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "226",
+      "code": null,
+      "name": "特製天重（えび、ナス、かぼちゃ、とり天）",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1108,
+      "salt": 4.7,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "441",
+      "code": null,
+      "name": "牛肉と焼き葱のみぞれつけうどんと釜揚げしらす丼",
+      "nameEn": null,
+      "price": 1208,
+      "calorie": 685,
+      "salt": 7.8,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "445",
+      "code": null,
+      "name": "じゅわっと出汁溢れる海老天とじうどん（えび・ナス・かぼちゃ）",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 949,
+      "salt": 8.5,
+      "category": "don_men",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "449",
+      "code": null,
+      "name": "倍盛りこだわり餃子",
+      "nameEn": null,
+      "price": 548,
+      "calorie": 496,
+      "salt": 3.5,
+      "category": "machichuka",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "231",
+      "code": null,
+      "name": "背脂たっぷり醤油ラーメン（単品）",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 628,
+      "salt": 7.2,
+      "category": "machichuka",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "448",
+      "code": null,
+      "name": "野菜たっぷりちゃんぽん（単品）",
+      "nameEn": null,
+      "price": 955,
+      "calorie": 491,
+      "salt": 7.2,
+      "category": "machichuka",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "401",
+      "code": null,
+      "name": "大分名物ニラ豚定食",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1025,
+      "salt": 5.1,
+      "category": "machichuka",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "538",
+      "code": null,
+      "name": "大分名物りゅうきゅう丼",
+      "nameEn": null,
+      "price": 1032,
+      "calorie": 506,
+      "salt": 5.4,
+      "category": "gotouchi",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "452",
+      "code": null,
+      "name": "大分名物りゅうきゅうミニ丼",
+      "nameEn": null,
+      "price": 482,
+      "calorie": 276,
+      "salt": 1.6,
+      "category": "gotouchi",
+      "covers": [
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "223",
+      "code": null,
+      "name": "たっぷりタルタルソースのチキン南蛮定食",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1210,
+      "salt": 7.4,
+      "category": "gotouchi",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "229",
+      "code": null,
+      "name": "とり天定食",
+      "nameEn": null,
+      "price": 922,
+      "calorie": 962,
+      "salt": 7.4,
+      "category": "gotouchi",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "399",
+      "code": null,
+      "name": "明太子をたっぷり使ったスパゲティ（食卓のやまや明太子使用）",
+      "nameEn": null,
+      "price": 922,
+      "calorie": 431,
+      "salt": 3.8,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "200",
+      "code": null,
+      "name": "濃厚カルボナーラ",
+      "nameEn": null,
+      "price": 922,
+      "calorie": 691,
+      "salt": 4.1,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "198",
+      "code": null,
+      "name": "チキンドリア",
+      "nameEn": null,
+      "price": 592,
+      "calorie": 744,
+      "salt": 3.6,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "208",
+      "code": null,
+      "name": "5種チーズインハンバーグの鉄板ボロネーゼ",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1046,
+      "salt": 5.2,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "203",
+      "code": null,
+      "name": "ジョイフル薪窯ベーコンピザ",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 545,
+      "salt": 3.4,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "432",
+      "code": null,
+      "name": "濃厚ビーフシチューのとろたまオムライス",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 644,
+      "salt": 3.9,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "199",
+      "code": null,
+      "name": "大阪風あまからカレー（ロースかつ）",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1125,
+      "salt": 5.7,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "431",
+      "code": null,
+      "name": "メガ盛り！大阪風あまからカレー（ロースかつ）",
+      "nameEn": null,
+      "price": 1318,
+      "calorie": 1773,
+      "salt": 9.6,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "397",
+      "code": null,
+      "name": "4種チーズの芳醇ミートペンネグラタン（北海道産マスカルポーネ使用）",
+      "nameEn": null,
+      "price": 845,
+      "calorie": 655,
+      "salt": 3.3,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "333",
+      "code": null,
+      "name": "大人のお子様ランチ",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 955,
+      "salt": 4.4,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "334",
+      "code": null,
+      "name": "大豆ミートとサラダ豆の農園タコライス",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 561,
+      "salt": 3.2,
+      "category": "lightmeal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "336",
+      "code": null,
+      "name": "カラダはぐくむ！薄切りビーフとミックスビーンズのパワーサラダ",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 455,
+      "salt": 1.9,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "197",
+      "code": null,
+      "name": "彩りサラダ",
+      "nameEn": null,
+      "price": 218,
+      "calorie": 112,
+      "salt": 1.2,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "430",
+      "code": null,
+      "name": "チェリーモッツァレラとフレッシュトマトのイタリアンサラダ",
+      "nameEn": null,
+      "price": 548,
+      "calorie": 159,
+      "salt": 1.6,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "435",
+      "code": null,
+      "name": "蒸し鶏のゴマだれサラダ",
+      "nameEn": null,
+      "price": 702,
+      "calorie": 231,
+      "salt": 1.9,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "211",
+      "code": null,
+      "name": "サウザンサラダ",
+      "nameEn": null,
+      "price": 108,
+      "calorie": 62,
+      "salt": 0.3,
+      "category": "salad",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "180",
+      "code": null,
+      "name": "なんこつ唐揚げ",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 316,
+      "salt": 2.4,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "176",
+      "code": null,
+      "name": "メガ盛りポテトフライ",
+      "nameEn": null,
+      "price": 592,
+      "calorie": 1307,
+      "salt": 1.4,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "350",
+      "code": null,
+      "name": "大盛りポテトフライ",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 871,
+      "salt": 0.9,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "351",
+      "code": null,
+      "name": "唐揚げ＆ソーセージ",
+      "nameEn": null,
+      "price": 548,
+      "calorie": 926,
+      "salt": 2.7,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "533",
+      "code": null,
+      "name": "倍盛りジョイフル塩唐揚げ（単品）",
+      "nameEn": null,
+      "price": 955,
+      "calorie": 1353,
+      "salt": 6.1,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "184",
+      "code": null,
+      "name": "ごぼう唐揚げ",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 330,
+      "salt": 1.1,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "177",
+      "code": null,
+      "name": "ソーセージ（3本）",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 322,
+      "salt": 2.5,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "451",
+      "code": null,
+      "name": "大分名物りゅうきゅう小鉢",
+      "nameEn": null,
+      "price": 405,
+      "calorie": 84,
+      "salt": 1.6,
+      "category": "appetizer",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "566",
+      "code": null,
+      "name": "うなぎ二倍盛り重（お吸い物・漬物付）",
+      "nameEn": null,
+      "price": 1802,
+      "calorie": 1041,
+      "salt": 5.7,
+      "category": "unagi",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "565",
+      "code": null,
+      "name": "うな丼（お吸い物・漬物付）",
+      "nameEn": null,
+      "price": 1142,
+      "calorie": 682,
+      "salt": 4.4,
+      "category": "unagi",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "434",
+      "code": null,
+      "name": "ごろっと野菜とモッツァレラのトマトスープペンネ",
+      "nameEn": null,
+      "price": 845,
+      "calorie": null,
+      "salt": null,
+      "category": "balance",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "218",
+      "code": null,
+      "name": "野菜たっぷりチキンの竜田揚げと釜揚げしらす丼",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 1058,
+      "salt": 6.0,
+      "category": "balance",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "535",
+      "code": null,
+      "name": "蒸し鶏のゴマだれサラダと釜揚げしらす丼",
+      "nameEn": null,
+      "price": 1032,
+      "calorie": 545,
+      "salt": 4.8,
+      "category": "balance",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "204",
+      "code": null,
+      "name": "カラダはぐくむ！薄切りビーフとミックスビーンズのパワーサラダ＆アサイーヨーグルト",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 521,
+      "salt": 2.0,
+      "category": "balance",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "454",
+      "code": null,
+      "name": "お芋の小さな和みパフェ",
+      "nameEn": null,
+      "price": 592,
+      "calorie": 325,
+      "salt": 0.3,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "453",
+      "code": null,
+      "name": "お芋とフロマージュの濃密パフェ",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 382,
+      "salt": 0.4,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "150",
+      "code": null,
+      "name": "ハーゲンダッツストロベリーとカスピ海ヨーグルトのミニパフェ",
+      "nameEn": null,
+      "price": 548,
+      "calorie": 210,
+      "salt": 0.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "156",
+      "code": null,
+      "name": "ハーゲンダッツストロベリーとレアチーズのご褒美パフェ",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 354,
+      "salt": 0.5,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "370",
+      "code": null,
+      "name": "濃厚ショコラとベリーの窯焼きパンケーキ",
+      "nameEn": null,
+      "price": 658,
+      "calorie": 460,
+      "salt": 0.6,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "371",
+      "code": null,
+      "name": "あんバターのふわとろフロマージュパンケーキ",
+      "nameEn": null,
+      "price": 548,
+      "calorie": 363,
+      "salt": 0.8,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "159",
+      "code": null,
+      "name": "大人の口溶けティラミス",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 181,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "153",
+      "code": null,
+      "name": "至福のチョコレートパフェ",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 458,
+      "salt": 0.4,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "160",
+      "code": null,
+      "name": "オセロアイス",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 240,
+      "salt": 0.2,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "155",
+      "code": null,
+      "name": "珈琲ゼリー",
+      "nameEn": null,
+      "price": 405,
+      "calorie": 236,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "147",
+      "code": null,
+      "name": "JillさんのN.Y.チーズケーキ",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 243,
+      "salt": 0.4,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "410",
+      "code": null,
+      "name": "クラシックガトーショコラ",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 171,
+      "salt": 0.1,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "175",
+      "code": null,
+      "name": "ランチアイス（バニラ・チョコ）",
+      "nameEn": null,
+      "price": 152,
+      "calorie": null,
+      "salt": null,
+      "category": "dessert",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "466",
+      "code": null,
+      "name": "ランチ999円ランチ（5種チーズのとろ～りチーズインハンバーグ）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "465",
+      "code": null,
+      "name": "ランチ限定999円ランチ（チーズハンバーグ）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "555",
+      "code": null,
+      "name": "肉旨！厚切り豚肩ロースステーキ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 897,
+      "salt": 3.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "394",
+      "code": null,
+      "name": "肉旨！厚切り豚肩ロースステーキにんにく醤油（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 896,
+      "salt": 4.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "52",
+      "code": null,
+      "name": "どど〜ん！っと大きなミックスグリル（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1208,
+      "calorie": 1537,
+      "salt": 6.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "556",
+      "code": null,
+      "name": "溢れるチーズのチキンイタリアンステーキ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 855,
+      "salt": 2.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "464",
+      "code": null,
+      "name": "ランチ限定999円ランチ（ペッパーハンバーグ）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": null,
+      "salt": null,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "557",
+      "code": null,
+      "name": "てりたまハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 1007,
+      "salt": 3.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "56",
+      "code": null,
+      "name": "ミックスグリル（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1143,
+      "salt": 4.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "395",
+      "code": null,
+      "name": "チキンステーキ&ハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1243,
+      "salt": 5.3,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "169",
+      "code": null,
+      "name": "グランてりやきハンバーグ＆唐揚げコロッケ定食",
+      "nameEn": null,
+      "price": 955,
+      "calorie": 1482,
+      "salt": 8.1,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "170",
+      "code": null,
+      "name": "すたみなチキン南蛮丼（小うどん付き）",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 1297,
+      "salt": 8.1,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "51",
+      "code": null,
+      "name": "ひとくちチキンステーキにんにく醤油（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 735,
+      "calorie": 844,
+      "salt": 4.7,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "50",
+      "code": null,
+      "name": "メガ盛りひとくちチキンステーキにんにく醤油（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1065,
+      "calorie": 1227,
+      "salt": 8.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "578",
+      "code": null,
+      "name": "洋食屋さんのビーフシチューハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1098,
+      "calorie": 1014,
+      "salt": 3.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "59",
+      "code": null,
+      "name": "グランペッパーハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 878,
+      "calorie": 993,
+      "salt": 3.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "58",
+      "code": null,
+      "name": "グランチーズハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 922,
+      "calorie": 1139,
+      "salt": 4.0,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "61",
+      "code": null,
+      "name": "ツインハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 988,
+      "calorie": 1453,
+      "salt": 5.8,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "57",
+      "code": null,
+      "name": "5種チーズのとろ～りチーズインハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 851,
+      "salt": 2.6,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "63",
+      "code": null,
+      "name": "ペッパーハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 768,
+      "calorie": 881,
+      "salt": 3.1,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "409",
+      "code": null,
+      "name": "チーズハンバーグ&プライムサイコロステーキ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1142,
+      "calorie": 1131,
+      "salt": 4.6,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "49",
+      "code": null,
+      "name": "プライムサイコロペッパーステーキ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 1285,
+      "calorie": 809,
+      "salt": 3.5,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "64",
+      "code": null,
+      "name": "チーズハンバーグ（ランチ・ライスorパン付き）",
+      "nameEn": null,
+      "price": 812,
+      "calorie": 944,
+      "salt": 2.9,
+      "category": "lunch",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": true,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-rice",
+      "code": null,
+      "name": "セットライス（ブールパン・トーストにも変更可）",
+      "nameEn": null,
+      "price": 295,
+      "calorie": 296,
+      "salt": 0.0,
+      "category": "set",
+      "covers": [
+        "staple"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-washoku-a",
+      "code": null,
+      "name": "和食セットA（ご飯・漬物・味噌汁）",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 327,
+      "salt": 2.3,
+      "category": "set",
+      "covers": [
+        "set",
+        "staple"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-washoku-b",
+      "code": null,
+      "name": "和食セットB（ご飯・漬物・味噌汁・ドリンクバー）",
+      "nameEn": null,
+      "price": 482,
+      "calorie": 327,
+      "salt": 2.3,
+      "category": "set",
+      "covers": [
+        "set",
+        "staple",
+        "drinkBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-yoshoku-c",
+      "code": null,
+      "name": "洋食セットC（ライスorパン・サラダ・スープバー）",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 409,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "set",
+        "staple",
+        "soupBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-yoshoku-e",
+      "code": null,
+      "name": "洋食セットE（ライスorパン・サラダ・スープバー・ドリンクバー）",
+      "nameEn": null,
+      "price": 592,
+      "calorie": 409,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "set",
+        "staple",
+        "drinkBar",
+        "soupBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "set-salad-g",
+      "code": null,
+      "name": "サラダセットG（サラダ・スープバー・ドリンクバー）",
+      "nameEn": null,
+      "price": 482,
+      "calorie": 112,
+      "salt": 1.2,
+      "category": "set",
+      "covers": [
+        "set",
+        "drinkBar",
+        "soupBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-medamayaki",
+      "code": null,
+      "name": "目玉焼き",
+      "nameEn": null,
+      "price": 152,
+      "calorie": 80,
+      "salt": 0.2,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-saikoro-half",
+      "code": null,
+      "name": "プライムサイコロステーキ（ハーフ）",
+      "nameEn": null,
+      "price": 482,
+      "calorie": 187,
+      "salt": 1.7,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-karaage-2",
+      "code": null,
+      "name": "ジョイフル塩唐揚げ（2個）",
+      "nameEn": null,
+      "price": 262,
+      "calorie": 261,
+      "salt": 1.1,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-namatamago",
+      "code": null,
+      "name": "生たまご",
+      "nameEn": null,
+      "price": 108,
+      "calorie": 80,
+      "salt": 0.2,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-kimchi",
+      "code": null,
+      "name": "キムチ",
+      "nameEn": null,
+      "price": 108,
+      "calorie": 26,
+      "salt": 1.2,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "topping-natto",
+      "code": null,
+      "name": "納豆",
+      "nameEn": null,
+      "price": 108,
+      "calorie": 61,
+      "salt": 0.3,
+      "category": "topping",
+      "covers": [],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": true,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "139",
+      "code": null,
+      "name": "生ビール（大）",
+      "nameEn": null,
+      "price": 702,
+      "calorie": 178,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "135",
+      "code": null,
+      "name": "金麦",
+      "nameEn": null,
+      "price": 372,
+      "calorie": 151,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "137",
+      "code": null,
+      "name": "レモンサワー",
+      "nameEn": null,
+      "price": 372,
+      "calorie": 68,
+      "salt": 0.2,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "138",
+      "code": null,
+      "name": "角ハイボール",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 77,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "134",
+      "code": null,
+      "name": "ドリンクバー ジョイカフェ（セット価格）",
+      "nameEn": null,
+      "price": 372,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drinkBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "311",
+      "code": null,
+      "name": "焼酎 黒霧島（ロック/お湯割り）",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 103,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "312",
+      "code": null,
+      "name": "焼酎 いいちこ（ロック/お湯割り）",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 102,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "314",
+      "code": null,
+      "name": "日本酒 燗酒 白鶴まる",
+      "nameEn": null,
+      "price": 328,
+      "calorie": 167,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "313",
+      "code": null,
+      "name": "日本酒 冷酒 上撰白鶴",
+      "nameEn": null,
+      "price": 438,
+      "calorie": 167,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "136",
+      "code": null,
+      "name": "オールフリー",
+      "nameEn": null,
+      "price": 372,
+      "calorie": 0,
+      "salt": 0.0,
+      "category": "alcohol",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": true,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "48",
+      "code": null,
+      "name": "ドリンクバー ジョイカフェ＋スープバーセット",
+      "nameEn": null,
+      "price": 482,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "drinkBar",
+        "soupBar"
+      ],
+      "requires": "main",
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": true,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "47",
+      "code": null,
+      "name": "スープバー",
+      "nameEn": null,
+      "price": 262,
+      "calorie": null,
+      "salt": null,
+      "category": "drink",
+      "covers": [
+        "soupBar"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "527",
+      "code": null,
+      "name": "幻のコショウのチキン竜田＆ジョイフルペッパーハンバーグ",
+      "nameEn": null,
+      "price": 1032,
+      "calorie": 1251,
+      "salt": 6.6,
+      "category": "seasonal",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "528",
+      "code": null,
+      "name": "幻のコショウの博多もつ鍋定食",
+      "nameEn": null,
+      "price": 1142,
+      "calorie": 1023,
+      "salt": 5.4,
+      "category": "seasonal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "530",
+      "code": null,
+      "name": "幻のコショウのなんこつ唐揚げ",
+      "nameEn": null,
+      "price": 482,
+      "calorie": 343,
+      "salt": 3.5,
+      "category": "seasonal",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "529",
+      "code": null,
+      "name": "幻のコショウ×若鶏竜田揚げの彩りサラダ定食",
+      "nameEn": null,
+      "price": 955,
+      "calorie": 1051,
+      "salt": 6.6,
+      "category": "seasonal",
+      "covers": [
+        "main",
+        "staple"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "531",
+      "code": null,
+      "name": "豚肩ロースステーキダブル（ゴールデンマスタードソース＆にんにく醤油）",
+      "nameEn": null,
+      "price": 1648,
+      "calorie": 1190,
+      "salt": 7.8,
+      "category": "seasonal",
+      "covers": [
+        "main"
+      ],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": false,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "502",
+      "code": null,
+      "name": "黒ごまアイスとわらび餅のパフェ～黒蜜を添えて～",
+      "nameEn": null,
+      "price": 845,
+      "calorie": 462,
+      "salt": 0.2,
+      "category": "seasonal",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    },
+    {
+      "id": "526",
+      "code": null,
+      "name": "焙煎黒ごまアイスのミニパフェ",
+      "nameEn": null,
+      "price": 592,
+      "calorie": 307,
+      "salt": 0.3,
+      "category": "seasonal",
+      "covers": [],
+      "requires": null,
+      "flags": {
+        "alcohol": false,
+        "dessert": true,
+        "drinkBar": false,
+        "lunch": false,
+        "topping": false,
+        "limited": false,
+        "takeoutOnly": false
+      },
+      "available": true
+    }
+  ]
+}
